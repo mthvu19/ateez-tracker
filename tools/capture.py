@@ -33,6 +33,15 @@ async def news_top(pg):
     await pg.wait_for_timeout(500)
 
 
+BOXES = {}
+
+
+async def box(pg, name, selector, scale=1.2):
+    r = await pg.evaluate(f"(() => {{ const e = document.querySelector({selector!r}); if (!e) return null; const b = e.getBoundingClientRect(); return [b.x, b.y, b.width, b.height]; }})()")
+    if r:
+        BOXES[name] = [round(v * scale) for v in r]
+
+
 async def main():
     async with async_playwright() as p:
         b = await p.chromium.launch()
@@ -49,7 +58,13 @@ async def main():
                 await d.wait_for_timeout(400)
                 await news_top(d)
                 await shot(d, f"d_cat_{cat}")
+                if cat == "official":
+                    await box(d, "official_link", ".card .actions a")
+                    await box(d, "official_card", "article.card")
         await d.locator('[data-cat="all"]').first.click()
+        await d.evaluate("window.scrollTo(0,0)")
+        await d.wait_for_timeout(300)
+        await box(d, "san_pill", '[data-member="San"]')
         await d.locator('[data-member="San"]').first.click()
         await d.wait_for_timeout(600)
         await d.evaluate("window.scrollTo(0,0)")
@@ -82,6 +97,10 @@ async def main():
         await load_all(m)
         await shot(m, "m_photos_full", full=True)
         await b.close()
+    import json
+    with open(f"{OUT}/boxes.json", "w") as f:
+        json.dump(BOXES, f)
+    print(BOXES)
 
 
 asyncio.run(main())
