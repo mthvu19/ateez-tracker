@@ -1,0 +1,27 @@
+name: Capture screenshots (video)
+
+# Chay tay: chup man hinh trang de lam video gioi thieu, day len nhanh `media` (khong anh huong trang).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && python -m playwright install --with-deps chromium
+      - run: python tools/capture.py "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" /tmp/capture
+      - name: Day len nhanh media
+        run: |
+          cd /tmp/capture
+          git init -q -b media
+          git config user.name "ateez-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A && git commit -q -m "capture $(date -u +%FT%TZ)"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" media
