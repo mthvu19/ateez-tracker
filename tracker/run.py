@@ -127,7 +127,7 @@ def main():
     retry = {i["id"] for i in items if i["source"] == "kq" and not i.get("text")}
     if retry:
         items = [i for i in items if i["id"] not in retry]
-    known = {i["id"] for i in items}
+    known = {i["id"] for i in items} | set(state.get("dropped_ids", []))  # tin da gop/bo -> khong lay lai
     had_source = {i["source"] for i in items}  # nguon lan dau chay -> khong bao Discord tran lan
     http = session()
     now = now_utc()
@@ -177,6 +177,7 @@ def main():
     for it in items:
         if not it.get("ai") and it.get("tier") == "official" and it.get("source") in ("kq", "x"):
             it["events"] = extract_events(it.get("text", ""), it.get("title", ""))
+    before_ids = {i["id"] for i in new + items}
     items = new + items
     items.sort(key=lambda i: i.get("published") or "", reverse=True)
     canon = {m["en"].lower(): m["en"] for m in cfg["members"]}
@@ -189,6 +190,8 @@ def main():
     except Exception as e:  # noqa: BLE001
         print(f"[img] loi: {e}")
     items = items[: cfg.get("keep_items", 2000)]
+    gone = before_ids - {i["id"] for i in items}
+    state["dropped_ids"] = (state.get("dropped_ids", []) + sorted(gone))[-3000:]
     events = build_events(items, now)
 
     write_json(ITEMS_PATH, {"updated": iso(now), "items": items})
