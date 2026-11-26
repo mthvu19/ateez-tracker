@@ -42,7 +42,7 @@ def build_events(items, now):
             k = start.astimezone(KST)
             has_time = bool(e.get("has_time", True)) and not (k.hour == 0 and k.minute == 0)
             e = {**e, "start": iso(start), "end": iso(end) if end else None, "has_time": has_time}
-            out.append({**e, "item_id": it["id"], "title": it.get("title_vi") or it["title"],
+            out.append({**e, "item_id": it["id"], "title": it.get("title_en") or it["title"],
                         "url": it["url"], "category": it.get("category"), "members": it.get("members", [])})
     out.sort(key=lambda e: e["start"])
     return out
@@ -119,7 +119,7 @@ def main():
     today = now.astimezone(KST).strftime("%Y-%m-%d %H:%M KST")
     enrich(new, cfg, today, http)
     if args.reprocess:
-        old = [i for i in items if not i.get("ai")]
+        old = [i for i in items if i.get("ai") != "en"]
         print(f"[ai] xu ly lai {len(old)} tin cu")
         enrich(old, cfg, today, http, limit=len(old))
         for it in old:
@@ -138,7 +138,7 @@ def main():
     # cung mot tin nhieu bao dang -> giu ban moi nhat (so theo tieu de tieng Viet)
     seen_titles, deduped = set(), []
     for it in items:
-        key = (it.get("title_vi") or "").strip().lower()
+        key = (it.get("title_en") or "").strip().lower()
         if it["source"] == "news" and key:
             if key in seen_titles:
                 continue

@@ -12,12 +12,12 @@ def build_lines(new_items, reminders):
     lines = []
     important = [i for i in new_items if i.get("tier") == "official" or i.get("category") in ("tour", "charts")]
     if important:
-        lines.append(f"🆕 **{len(important)} tin mới**")
+        lines.append(f"🆕 **{len(important)} new updates**")
         for i in important[:15]:
-            t = i.get("title_vi") or i.get("title")
+            t = i.get("title_en") or i.get("title")
             lines.append(f"• [{i.get('category_label', '')}] {t} — {i.get('account')} · <{i['url']}>")
     if reminders:
-        lines += ["", "⏰ **Sắp tới hạn trong 24 giờ** (giờ VN)"]
+        lines += ["", "⏰ **Due within 24h** (VN time)"]
         for e in reminders:
             lines.append(f"• **{_vn(e['when'])}** — {e['label']} ({e['title']}) · <{e['url']}>")
     return lines
@@ -30,7 +30,7 @@ def send(lines, http, log=print):
         return
     page = os.environ.get("PAGE_URL", "")
     if page:
-        lines = lines + ["", f"Trang tổng hợp: {page}"]
+        lines = lines + ["", f"Tracker: {page}"]
     chunk = ""
     for line in lines:
         if len(chunk) + len(line) > 1800:

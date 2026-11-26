@@ -78,9 +78,9 @@
   }
   function loadSaved() { try { return JSON.parse(localStorage.getItem('ateez-saved') || '{}'); } catch (e) { return {}; } }
   function persistSaved() { try { localStorage.setItem('ateez-saved', JSON.stringify(S.saved)); } catch (e) { /* bo qua */ } }
-  function title(it) { return it.title_vi || it.title; }
+  function title(it) { return it.title_en || it.title; }
   function summary(it) {
-    if (it.summary_vi) return it.summary_vi;
+    if (it.summary_en) return it.summary_en;
     var txt = (it.text || '').replace(/^(안녕하세요\.?|Hello[.,]?)\s*/i, '').replace(/^(KQ\s*엔터테인먼트입니다\.?|This is KQ Entertainment\.?)\s*/i, '');
     if (txt.indexOf(it.title) === 0) txt = txt.slice(it.title.length);
     txt = txt.trim();
@@ -89,7 +89,7 @@
   function matches(it) {
     if (S.member && (it.members || []).indexOf(S.member) < 0) return false;
     if (S.q) {
-      var hay = (title(it) + ' ' + it.title + ' ' + (it.summary_vi || '') + ' ' + (it.text || '') + ' ' + (it.members || []).join(' ')).toLowerCase();
+      var hay = (title(it) + ' ' + it.title + ' ' + (it.summary_en || '') + ' ' + (it.text || '') + ' ' + (it.members || []).join(' ')).toLowerCase();
       if (hay.indexOf(S.q) < 0) return false;
     }
     return true;
@@ -118,7 +118,7 @@
       '<div class="body">' +
       '<div class="tags">' + catChip(it.category) + mems + '<span class="tier ' + esc(it.tier) + '">' + esc(TIER[it.tier] || it.tier) + '</span></div>' +
       '<h3>' + esc(title(it)) + '</h3>' +
-      (it.title_vi && it.title_vi !== it.title ? '<p style="font-size:12px;color:var(--muted)">' + esc(it.title) + '</p>' : '') +
+      (it.title_en && it.title_en !== it.title ? '<p style="font-size:12px;color:var(--muted)">' + esc(it.title) + '</p>' : '') +
       (sum ? '<p>' + esc(sum) + '</p>' : '') +
       (imgs ? '<div class="thumbs">' + imgs + '</div>' : '') +
       '<div class="actions"><a href="' + esc(safeUrl(it.url)) + '" target="_blank" rel="noopener">Open original ↗</a>' +
@@ -138,7 +138,7 @@
         }).join('') + '</div>';
     }
     html += '</div>';
-    if (!shown.length) return html + '<div class="empty">Chưa có tin nào trong mục này.</div></section>';
+    if (!shown.length) return html + '<div class="empty">No updates in this category yet.</div></section>';
     var groups = [], idx = {};
     shown.slice(0, S.limit).forEach(function (it) {
       var k = dayKey(t(it.published), VN);
@@ -161,11 +161,11 @@
   function highlight() {
     var list = highlightList().slice(0, 8);
     var html = '<section class="sec" aria-labelledby="hlT"><div class="sec-head"><h2 id="hlT">Highlight</h2><span class="note">KST · VN = KST − 2h</span></div>';
-    if (!list.length) return html + '<div class="empty">Không có mốc nào trong 30 ngày tới.</div></section>';
+    if (!list.length) return html + '<div class="empty">Nothing due in the next 30 days.</div></section>';
     html += '<div class="hl-grid">' + list.map(function (e) {
       var d = deadlineOf(e), urgent = d - Date.now() < 2 * DAY;
       var startMs = t(e.start), endMs = t(e.end);
-      var when = e.end ? (startMs > Date.now() ? dm(startMs, KST) + ' ' + hm(startMs, KST) + ' → ' : 'Hạn ') + dm(endMs, KST) + ' · ' + hm(endMs, KST) + ' KST'
+      var when = e.end ? (startMs > Date.now() ? dm(startMs, KST) + ' ' + hm(startMs, KST) + ' → ' : 'Due ') + dm(endMs, KST) + ' · ' + hm(endMs, KST) + ' KST'
         : dm(startMs, KST) + (e.has_time === false ? '' : ' · ' + hm(startMs, KST) + ' KST (' + hm(startMs, VN) + ' VN)');
       return '<a class="hl' + (urgent ? ' urgent' : '') + '" href="' + esc(safeUrl(e.url)) + '" target="_blank" rel="noopener">' +
         '<span class="dday">' + dday(d) + '</span><span class="t">' + esc(e.label) + '</span>' +
@@ -240,7 +240,7 @@
     var now = Date.now();
     var list = S.events.filter(function (e) { return t(e.start) >= now && eventMatches(e); }).slice(0, 8);
     var html = '<section class="box" aria-labelledby="upT"><h2 id="upT">Upcoming</h2>';
-    if (!list.length) return html + '<span class="status">Chưa có mốc nào sắp tới.</span></section>';
+    if (!list.length) return html + '<span class="status">Nothing upcoming yet.</span></section>';
     return html + list.map(function (e) {
       var ms = t(e.start);
       return '<a class="up" href="' + esc(safeUrl(e.url)) + '" target="_blank" rel="noopener"><b>' + dm(ms, KST) + '</b><span><span class="a">' + esc(e.label) + '</span><span class="b">' + esc(e.title) + (e.has_time === false ? '' : ' · ' + hm(ms, KST) + ' KST') + '</span></span></a>';
@@ -249,14 +249,14 @@
   function factsBox() {
     var list = factItems().slice(0, 3);
     var html = '<section class="box" aria-labelledby="ffT"><div class="box-head"><h2 id="ffT">Fun Facts</h2><a href="#funfacts" style="font-size:13px;font-weight:600;text-decoration:none">More ›</a></div>';
-    if (!list.length) return html + '<span class="status">Thêm fun fact vào <code>docs/data/funfacts.json</code> hoặc chờ fan account đăng throwback/TMI.</span></section>';
+    if (!list.length) return html + '<span class="status">Add fun facts to <code>docs/data/funfacts.json</code>, or wait for fan accounts to post throwbacks/TMI.</span></section>';
     return html + list.map(factCard).join('') + '</section>';
   }
   function statusBox() {
-    var src = S.meta.sources || {}, names = { kq: 'KQ Web', youtube: 'YouTube', news: 'Báo', x: 'X' };
+    var src = S.meta.sources || {}, names = { kq: 'KQ Web', youtube: 'YouTube', news: 'News', x: 'X' };
     var rows = Object.keys(names).filter(function (k) { return src[k]; }).map(function (k) {
       var s = src[k];
-      return '<span class="' + (s.ok ? '' : 'bad') + '">' + names[k] + ': ' + (s.ok ? 'OK · ' + ago(t(s.at)) : 'lỗi · ' + esc(s.error || '')) + '</span>';
+      return '<span class="' + (s.ok ? '' : 'bad') + '">' + names[k] + ': ' + (s.ok ? 'OK · ' + ago(t(s.at)) : 'error · ' + esc(s.error || '')) + '</span>';
     }).join('');
     return rows ? '<section class="box"><h2>Sources</h2><div class="status">' + rows + '</div></section>' : '';
   }
@@ -273,17 +273,17 @@
   function viewNews() { return feed(S.items.filter(matches), true, 'All News'); }
   function viewPhotos() {
     var list = photoItems();
-    return '<section class="sec"><div class="sec-head"><h2>Photos</h2><span class="note">' + list.length + ' ảnh</span></div>' +
-      (list.length ? photoGrid(list.slice(0, 120)) : '<div class="empty">Chưa có ảnh.</div>') + '</section>';
+    return '<section class="sec"><div class="sec-head"><h2>Photos</h2><span class="note">' + list.length + ' photos</span></div>' +
+      (list.length ? photoGrid(list.slice(0, 120)) : '<div class="empty">No photos yet.</div>') + '</section>';
   }
   function viewFacts() {
     var list = factItems();
     return '<section class="sec"><div class="sec-head"><h2>Fun Facts</h2></div>' +
-      (list.length ? '<div class="hl-grid">' + list.map(factCard).join('') + '</div>' : '<div class="empty">Chưa có fun fact. Thêm vào <code>docs/data/funfacts.json</code>.</div>') + '</section>';
+      (list.length ? '<div class="hl-grid">' + list.map(factCard).join('') + '</div>' : '<div class="empty">No fun facts yet. Add them to <code>docs/data/funfacts.json</code>.</div>') + '</section>';
   }
   function viewSaved() {
     var list = S.items.filter(function (it) { return S.saved[it.id]; });
-    return list.length ? feed(list, false, 'Saved') : '<section class="sec"><div class="sec-head"><h2>Saved</h2></div><div class="empty">Bấm “Save” trên một tin để lưu lại ở đây (lưu trên trình duyệt này).</div></section>';
+    return list.length ? feed(list, false, 'Saved') : '<section class="sec"><div class="sec-head"><h2>Saved</h2></div><div class="empty">Tap “Save” on an update to keep it here (saved in this browser).</div></section>';
   }
   function viewCalendar() {
     var ym = curMonth(), y = ym[0], m = ym[1], map = monthEvents(y, m);
@@ -305,8 +305,8 @@
       var isEnd = e.end && dayKey(t(e.end), KST) === S.calDay && dayKey(t(e.start), KST) !== S.calDay;
       var ms = isEnd ? t(e.end) : t(e.start);
       return '<a class="evcard" href="' + esc(safeUrl(e.url)) + '" target="_blank" rel="noopener" style="text-decoration:none;color:inherit"><div class="tm"><b>' + (e.has_time === false && !isEnd ? 'All day' : hm(ms, KST)) + '</b><span>' + (e.has_time === false && !isEnd ? '' : 'KST · ' + hm(ms, VN) + ' VN') + '</span></div>' +
-        '<div class="info">' + catChip(e.category) + '<span class="l">' + (isEnd ? 'Hết hạn: ' : '') + esc(e.label) + '</span><span class="s">' + esc(e.title) + '</span></div></a>';
-    }).join('') : '<div class="empty">Không có mốc nào trong ngày này.</div>';
+        '<div class="info">' + catChip(e.category) + '<span class="l">' + (isEnd ? 'Ends: ' : '') + esc(e.label) + '</span><span class="s">' + esc(e.title) + '</span></div></a>';
+    }).join('') : '<div class="empty">Nothing on this day.</div>';
     return '<section class="sec"><div class="sec-head"><h2>' + MONTHS[m] + ' ' + y + '</h2><div>' +
       '<button type="button" class="navbtn" data-mon="-1" aria-label="Previous month">‹</button> <button type="button" class="navbtn" data-mon="1" aria-label="Next month">›</button></div></div>' +
       '<div class="bigcal">' + cells + '</div></section>' +
@@ -376,7 +376,7 @@
     ]).then(function (r) {
       S.items = r[0].items || []; S.events = r[1].events || []; S.meta = r[2] || {}; S.facts = r[3].facts || [];
       var up = t(S.meta.updated || r[0].updated);
-      document.getElementById('updatedText').textContent = isNaN(up) ? 'Chưa có dữ liệu' : 'Updated ' + ago(up);
+      document.getElementById('updatedText').textContent = isNaN(up) ? 'No data yet' : 'Updated ' + ago(up);
       document.getElementById('updated').classList.toggle('stale', isNaN(up) || Date.now() - up > 3 * 3600e3);
       render();
     });
