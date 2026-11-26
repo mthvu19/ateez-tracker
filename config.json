@@ -1,0 +1,44 @@
+{
+  "artist": "ATEEZ",
+  "members": [
+    {"en": "Hongjoong", "ko": "홍중"},
+    {"en": "Seonghwa", "ko": "성화"},
+    {"en": "Yunho", "ko": "윤호"},
+    {"en": "Yeosang", "ko": "여상"},
+    {"en": "San", "ko": "산"},
+    {"en": "Mingi", "ko": "민기"},
+    {"en": "Wooyoung", "ko": "우영"},
+    {"en": "Jongho", "ko": "종호"}
+  ],
+  "group_keywords": ["ATEEZ", "에이티즈", "ATINY", "에이티니"],
+  "kq": {
+    "list_url": "https://ateez.kqent.com/tag/NOTICE",
+    "base": "https://ateez.kqent.com"
+  },
+  "youtube": [
+    {"name": "ATEEZ", "channel_id": "UC2e4Ukj5Pfr7cb3KpJAFBdQ", "tier": "official"}
+  ],
+  "news": [
+    {"q": "ATEEZ", "hl": "en-US", "gl": "US", "ceid": "US:en"},
+    {"q": "에이티즈", "hl": "ko", "gl": "KR", "ceid": "KR:ko"},
+    {"q": "ATEEZ", "hl": "vi", "gl": "VN", "ceid": "VN:vi"}
+  ],
+  "news_max_per_query": 25,
+  "x": {
+    "max_per_account": 20,
+    "first_run_max": 10,
+    "accounts": [
+      {"username": "ATEEZofficial", "tier": "official"},
+      {"username": "ATEEZofficialjp", "tier": "official"},
+      {"username": "kqent", "tier": "official", "only_ateez": true},
+      {"username": "ATEEZstaff", "tier": "official"},
+      {"username": "ATEEZUD", "tier": "fan"},
+      {"username": "1024updates", "tier": "fan"},
+      {"username": "ateez_charts", "tier": "fan", "category": "charts"}
+    ]
+  },
+  "keep_items": 2000,
+  "highlight_days": 30,
+  "ai_model": "claude-haiku-5-5",
+  "ai_max_items_per_run": 40
+}

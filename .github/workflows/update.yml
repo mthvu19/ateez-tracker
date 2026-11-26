@@ -1,0 +1,39 @@
+name: Update (KQ Web, YouTube, News)
+
+# Nguon mien phi: 30 phut/lan. (GitHub co the chay tre vai phut, binh thuong.)
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Thu thap
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          PAGE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python -m tracker.run --sources kq,youtube,news
+      - name: Luu du lieu
+        run: |
+          git config user.name "ateez-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "data: cap nhat $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -X theirs origin main
+          git push
