@@ -1,4 +1,255 @@
 {
- "updated": "2026-11-26T14:32:09Z",
- "events": []
+ "updated": "2026-11-26T14:33:32Z",
+ "events": [
+  {
+   "label": "예약 판매",
+   "start": "2026-10-09T01:00:00Z",
+   "end": "2026-11-12T14:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6ac7305fdfb41175d312d764",
+   "title": "ATEEZ(에이티즈) GOLDEN HOUR : Part.6 ‘Single CD’ (US ONLY) 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6ac7305fdfb41175d312d764",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "배송 일정",
+   "start": "2026-10-12T14:59:00Z",
+   "end": null,
+   "has_time": false,
+   "item_id": "kq:6abdbc1a67b6467a2daa2514",
+   "title": "ATEEZ 8th Anniversary PHOTOBOOK  Blue Drift 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6abdbc1a67b6467a2daa2514",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "예약 판매",
+   "start": "2026-10-13T02:00:00Z",
+   "end": "2026-11-12T14:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6acb3cc250a6f96dee24d805",
+   "title": "ATEEZ(에이티즈) GOLDEN HOUR : Part.6 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6acb3cc250a6f96dee24d805",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "PRE-ORDER DATE",
+   "start": "2026-10-14T03:00:00Z",
+   "end": "2026-10-20T14:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6ace4dd972022d1e98d3fbcc",
+   "title": "ATEEZ 'VR CONCERT BOX' 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6ace4dd972022d1e98d3fbcc",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "예약 판매",
+   "start": "2026-10-20T02:00:00Z",
+   "end": "2026-11-12T14:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6ad2006cdccb0e48bf81dea4",
+   "title": "ATEEZ(에이티즈) 15TH MINI ALBUM [GOLDEN HOUR : Part.6] (MARBLE / EARPHONE CHARM VER.) 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6ad2006cdccb0e48bf81dea4",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "참여 기간",
+   "start": "2026-10-22T09:00:00Z",
+   "end": "2026-10-23T09:00:00Z",
+   "has_time": true,
+   "item_id": "kq:6ad9b5e14967a71da7f9e7d3",
+   "title": "ATEEZ 2026 8주년 유튜브 라이브 팬 참여 코너 안내",
+   "url": "https://ateez.kqent.com/contents/6ad9b5e14967a71da7f9e7d3",
+   "category": "schedule",
+   "members": [
+    "Hongjoong",
+    "Seonghwa",
+    "Yunho",
+    "Yeosang",
+    "Mingi",
+    "Wooyoung",
+    "Jongho"
+   ]
+  },
+  {
+   "label": "발매",
+   "start": "2026-11-13T14:59:00Z",
+   "end": null,
+   "has_time": false,
+   "item_id": "kq:6ad2006cdccb0e48bf81dea4",
+   "title": "ATEEZ(에이티즈) 15TH MINI ALBUM [GOLDEN HOUR : Part.6] (MARBLE / EARPHONE CHARM VER.) 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6ad2006cdccb0e48bf81dea4",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "ALBUM RELEASE",
+   "start": "2026-11-13T14:59:00Z",
+   "end": null,
+   "has_time": false,
+   "item_id": "kq:6ac62a73b010dc3db76e0318",
+   "title": "Pre-save/add 'GOLDEN HOUR : Part.6'",
+   "url": "https://ateez.kqent.com/contents/6ac62a73b010dc3db76e0318",
+   "category": "release",
+   "members": []
+  },
+  {
+   "label": "11월 25일 11:59PM",
+   "start": "2026-11-23T10:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "PRE-ORDER DATE",
+   "start": "2026-11-25T04:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6b055a0400027c0e6d142829",
+   "title": "ATEEZ(에이티즈) 2027 SEASON's GREETINGS 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6b055a0400027c0e6d142829",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "12월 3일 11:59PM",
+   "start": "2026-12-01T05:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "12월 7일 11:59PM",
+   "start": "2026-12-01T05:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "국내 멤버십 선예매 티켓 오픈",
+   "start": "2026-12-03T11:00:00Z",
+   "end": "2026-12-03T14:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "글로벌 멤버십 선예매 티켓 오픈",
+   "start": "2026-12-07T11:00:00Z",
+   "end": "2026-12-07T14:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "휠체어석 멤버십 선예매",
+   "start": "2026-12-08T00:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "일반예매 티켓 오픈",
+   "start": "2026-12-08T11:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "휠체어석 예매",
+   "start": "2026-12-09T00:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "RELEASE DATE",
+   "start": "2026-12-29T14:59:00Z",
+   "end": null,
+   "has_time": false,
+   "item_id": "kq:6b055a0400027c0e6d142829",
+   "title": "ATEEZ(에이티즈) 2027 SEASON's GREETINGS 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6b055a0400027c0e6d142829",
+   "category": "merch",
+   "members": []
+  },
+  {
+   "label": "공연일시 *1일 1회, 총 3회",
+   "start": "2027-01-22T10:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "공연일시 *1일 1회, 총 3회",
+   "start": "2027-01-23T08:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "공연일시 *1일 1회, 총 3회",
+   "start": "2027-01-24T07:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ae94a808d38027a8d6b8b65",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON 오픈 안내",
+   "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "RELEASE DATE",
+   "start": "2027-02-17T14:59:00Z",
+   "end": null,
+   "has_time": false,
+   "item_id": "kq:6ace4dd972022d1e98d3fbcc",
+   "title": "ATEEZ 'VR CONCERT BOX' 예약 판매 안내",
+   "url": "https://ateez.kqent.com/contents/6ace4dd972022d1e98d3fbcc",
+   "category": "merch",
+   "members": []
+  }
+ ]
 }
