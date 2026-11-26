@@ -2,18 +2,18 @@
  "sources": {
   "kq": {
    "ok": true,
-   "at": "2026-11-26T15:07:46Z",
+   "at": "2026-11-26T15:17:42Z",
    "new": 0
   },
   "youtube": {
    "ok": true,
-   "at": "2026-11-26T15:07:46Z",
+   "at": "2026-11-26T15:17:42Z",
    "new": 0
   },
   "news": {
    "ok": true,
-   "at": "2026-11-26T15:07:46Z",
-   "new": 3
+   "at": "2026-11-26T15:17:42Z",
+   "new": 1
   },
   "x": {
    "ok": false,
@@ -21,9 +21,9 @@
    "error": "402 Client Error: Payment Required for url: https://api.x.com/2/users/by?usernames=ATEEZofficial%2CATEEZofficialjp%2Ckqent%2CATEEZstaff%2CATEEZUD%2C1024updates%2Cateez_charts"
   }
  },
- "updated": "2026-11-26T15:17:32Z",
+ "updated": "2026-11-26T15:17:42Z",
  "counts": {
-  "items": 118,
-  "events": 29
+  "items": 116,
+  "events": 24
  }
 }
