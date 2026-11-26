@@ -1,17 +1,6 @@
 {
- "updated": "2026-11-26T15:05:27Z",
+ "updated": "2026-11-26T15:06:34Z",
  "events": [
-  {
-   "label": "예약 판매",
-   "start": "2026-10-09T01:00:00Z",
-   "end": "2026-11-12T14:59:00Z",
-   "has_time": true,
-   "item_id": "kq:6ac7305fdfb41175d312d764",
-   "title": "ATEEZ(에이티즈) GOLDEN HOUR : Part.6 ‘Single CD’ (US ONLY) 예약 판매 안내",
-   "url": "https://ateez.kqent.com/contents/6ac7305fdfb41175d312d764",
-   "category": "merch",
-   "members": []
-  },
   {
    "label": "예약 판매",
    "start": "2026-10-13T02:00:00Z",
@@ -57,19 +46,8 @@
    "members": []
   },
   {
-   "label": "ALBUM RELEASE",
-   "start": "2026-11-13T14:59:00Z",
-   "end": null,
-   "has_time": false,
-   "item_id": "kq:6ac62a73b010dc3db76e0318",
-   "title": "Pre-save/add 'GOLDEN HOUR : Part.6'",
-   "url": "https://ateez.kqent.com/contents/6ac62a73b010dc3db76e0318",
-   "category": "release",
-   "members": []
-  },
-  {
    "label": "Mở đặt trước (đang diễn ra)",
-   "start": "2026-11-25T13:00:00+09:00",
+   "start": "2026-11-25T04:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6b055a0400027c0e6d142829",
@@ -80,7 +58,7 @@
   },
   {
    "label": "Phát hành Blu-ray/DVD tour Nhật 2025",
-   "start": "2026-12-01T00:00:00+09:00",
+   "start": "2026-11-30T15:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "news:ateeztorelease2025japantourblurayanddvdindecember",
@@ -91,8 +69,8 @@
   },
   {
    "label": "Chứng nhận membership KR",
-   "start": "2026-12-01T14:00:00+09:00",
-   "end": "2026-12-03T23:59:00+09:00",
+   "start": "2026-12-01T05:00:00Z",
+   "end": "2026-12-03T14:59:00Z",
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
    "title": "Mở bán vé 2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
@@ -102,8 +80,8 @@
   },
   {
    "label": "Chứng nhận membership Global",
-   "start": "2026-12-01T14:00:00+09:00",
-   "end": "2026-12-07T23:59:00+09:00",
+   "start": "2026-12-01T05:00:00Z",
+   "end": "2026-12-07T14:59:00Z",
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
    "title": "Mở bán vé 2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
@@ -113,7 +91,7 @@
   },
   {
    "label": "Phát hành Blu-ray & DVD IN JAPAN",
-   "start": "2026-12-02T00:00:00+09:00",
+   "start": "2026-12-01T15:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "yt:Rx0DXz7VRZo",
@@ -124,8 +102,8 @@
   },
   {
    "label": "Presale membership KR",
-   "start": "2026-12-03T20:00:00+09:00",
-   "end": "2026-12-03T23:59:00+09:00",
+   "start": "2026-12-03T11:00:00Z",
+   "end": "2026-12-03T14:59:00Z",
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
    "title": "Mở bán vé 2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
@@ -135,8 +113,8 @@
   },
   {
    "label": "Presale membership Global",
-   "start": "2026-12-07T20:00:00+09:00",
-   "end": "2026-12-07T23:59:00+09:00",
+   "start": "2026-12-07T11:00:00Z",
+   "end": "2026-12-07T14:59:00Z",
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
    "title": "Mở bán vé 2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
@@ -146,8 +124,8 @@
   },
   {
    "label": "Presale ghế xe lăn (membership)",
-   "start": "2026-12-08T09:00:00+09:00",
-   "end": "2026-12-08T17:59:00+09:00",
+   "start": "2026-12-08T00:00:00Z",
+   "end": "2026-12-08T08:59:00Z",
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
    "title": "Mở bán vé 2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
@@ -157,7 +135,7 @@
   },
   {
    "label": "Mở bán vé thường",
-   "start": "2026-12-08T20:00:00+09:00",
+   "start": "2026-12-08T11:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
@@ -168,7 +146,7 @@
   },
   {
    "label": "Mở bán ghế xe lăn (qua điện thoại)",
-   "start": "2026-12-09T09:00:00+09:00",
+   "start": "2026-12-09T00:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
@@ -179,7 +157,7 @@
   },
   {
    "label": "Phát hành SEASON'S GREETINGS 2027",
-   "start": "2026-12-29T00:00:00+09:00",
+   "start": "2026-12-28T15:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6b055a0400027c0e6d142829",
@@ -189,8 +167,19 @@
    "members": []
   },
   {
+   "label": "Tour ZERO TO ALL - Incheon",
+   "start": "2027-01-21T15:00:00Z",
+   "end": "2027-01-23T15:00:00Z",
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
    "label": "Concert ngày 1 tại Incheon",
-   "start": "2027-01-22T19:00:00+09:00",
+   "start": "2027-01-22T10:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
@@ -201,7 +190,7 @@
   },
   {
    "label": "Concert ngày 2 tại Incheon",
-   "start": "2027-01-23T17:00:00+09:00",
+   "start": "2027-01-23T08:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
@@ -212,7 +201,7 @@
   },
   {
    "label": "Concert ngày 3 tại Incheon",
-   "start": "2027-01-24T16:00:00+09:00",
+   "start": "2027-01-24T07:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
@@ -222,14 +211,113 @@
    "members": []
   },
   {
+   "label": "Tour ZERO TO ALL - Tokyo",
+   "start": "2027-02-01T15:00:00Z",
+   "end": "2027-02-02T15:00:00Z",
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - Kobe",
+   "start": "2027-02-12T15:00:00Z",
+   "end": "2027-02-13T15:00:00Z",
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
    "label": "Phát hành VR CONCERT BOX",
-   "start": "2027-02-17T00:00:00+09:00",
+   "start": "2027-02-16T15:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "kq:6ace4dd972022d1e98d3fbcc",
    "title": "VR CONCERT BOX của ATEEZ phát hành ngày 17/2/2027",
    "url": "https://ateez.kqent.com/contents/6ace4dd972022d1e98d3fbcc",
    "category": "merch",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - London",
+   "start": "2027-03-30T15:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - Lyon",
+   "start": "2027-04-03T15:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - Berlin",
+   "start": "2027-04-06T15:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - Krakow",
+   "start": "2027-04-09T15:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - Amsterdam",
+   "start": "2027-04-11T15:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - Cologne",
+   "start": "2027-04-14T15:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "Tour ZERO TO ALL - Antwerp",
+   "start": "2027-04-16T15:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6ac915ceb899027df4664814",
+   "title": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "url": "https://ateez.kqent.com/contents/6ac915ceb899027df4664814",
+   "category": "tour",
    "members": []
   }
  ]

@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-26T15:05:27Z",
+ "updated": "2026-11-26T15:06:34Z",
  "items": [
+  {
+   "id": "news:에이티즈11월라이징가수브랜드평판1위",
+   "source": "news",
+   "platform": "News",
+   "account": "아시아뉴스통신",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JRmNVLTdSbDdmSEdIbVhMaElHaGlWWEYyWVNhWWhuQjNzUUpsRzRITEwyVUhPZ0o1bm4xN3BkNXRpTFVfcng4QWFBMnlSYmV2QU1FcWhoblo5UWVE?oc=5",
+   "title": "에이티즈, 11월 라이징 가수 브랜드평판 1위!",
+   "text": "에이티즈, 11월 라이징 가수 브랜드평판 1위! 아시아뉴스통신",
+   "images": [],
+   "published": "2026-11-26T15:00:00Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_vi": "ATEEZ đứng số 1 bảng xếp hạng thương hiệu ca sĩ mới nổi tháng 11",
+   "summary_vi": "Theo Asia News Network (아시아뉴스통신), ATEEZ đứng đầu bảng xếp hạng thương hiệu danh tiếng của các ca sĩ đang lên trong tháng 11. Tin không nêu mốc thời gian nào trong tương lai.",
+   "ai": true,
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-26T15:06:34Z"
+  },
   {
    "id": "yt:C-08TgKgpmE",
    "source": "youtube",
@@ -34,50 +54,6 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtdGNtaW1lVzM5NmJpdDNrc3FvOHhWemhhdmRONmZnV3l1Q2Mxa09PQ1lGb0NlalVvWHRMbGxwRVI1X0xqN3NpVkRLVW1rWDJhSXZnRzFNUzZsZlFkMEJIeTh2Nnp1c1BVdDA5RDFRREQtdXBRUmF3?oc=5",
    "title": "ATEEZ's Wooyoung turns 27, post surpasses 270,000 \"likes\"",
    "text": "ATEEZ's Wooyoung turns 27, post surpasses 270,000 \"likes\" 스타뉴스",
-   "images": [],
-   "published": "2026-11-26T09:40:51Z",
-   "category": "sns",
-   "members": [
-    "Wooyoung"
-   ],
-   "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T14:30:41Z",
-   "title_vi": "Wooyoung bước sang tuổi 27, bài đăng vượt 270.000 lượt thích",
-   "summary_vi": "Wooyoung bước sang tuổi 27 và bài đăng mừng sinh nhật của anh đã vượt 270.000 lượt thích, theo Star News.",
-   "ai": true
-  },
-  {
-   "id": "news:에이티즈우영27번째생일좋아요27만개돌파",
-   "source": "news",
-   "platform": "News",
-   "account": "스타뉴스",
-   "tier": "news",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CTkx5NG9vZWJrZndzVHMxSnFuWWZkMk1IcWRoTlpVODFIQXhVYUxXVGZ0TXc4T0hmcWVtTXF2T2hjY3pjMVh6d2Q0dGFWOVZ2bGdvUUJwS3FPRDVhTW1yb1JQSm9vcURaMm1SUHFnSmU4SVk?oc=5",
-   "title": "에이티즈 우영, 27번째 생일..'좋아요' 27만 개 돌파",
-   "text": "에이티즈 우영, 27번째 생일..'좋아요' 27만 개 돌파 스타뉴스",
-   "images": [],
-   "published": "2026-11-26T09:40:51Z",
-   "category": "sns",
-   "members": [
-    "Wooyoung"
-   ],
-   "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T14:30:41Z",
-   "title_vi": "Wooyoung bước sang tuổi 27, bài đăng vượt 270.000 lượt thích",
-   "summary_vi": "Wooyoung bước sang tuổi 27 và bài đăng mừng sinh nhật của anh đã vượt 270.000 lượt thích, theo Star News.",
-   "ai": true
-  },
-  {
-   "id": "news:ateezwooyoungsinhnhậtlầnthứ27vượtqua270000lượtthích",
-   "source": "news",
-   "platform": "News",
-   "account": "스타뉴스",
-   "tier": "news",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1TlAtSmNSdDdmUXZZYlpvNTJCLVZFVWFNSzB3WmpPQW9LZEZYNHh4Y0NmNGtmY3R4NHkwZFFkeGpKSklLSkdWWnRwUUpQRzlQbHo3emE1cWFOZzAtNzM0LU5NeXZ2RTh1Y1VSQU5oekpZMFNhd19Z?oc=5",
-   "title": "ATEEZ Woo Young, sinh nhật lần thứ 27.. vượt qua 270.000 lượt 'thích'",
-   "text": "ATEEZ Woo Young, sinh nhật lần thứ 27.. vượt qua 270.000 lượt 'thích' 스타뉴스",
    "images": [],
    "published": "2026-11-26T09:40:51Z",
    "category": "sns",
@@ -984,26 +960,6 @@
    "fetched": "2026-11-26T14:33:32Z",
    "title_vi": "ATEEZ đạt số 1 Billboard 200 lần thứ tư với GOLDEN HOUR : Part.6",
    "summary_vi": "Album GOLDEN HOUR : Part.6 giúp ATEEZ đứng số 1 Billboard 200, đây là lần thứ tư nhóm đạt vị trí này.",
-   "ai": true
-  },
-  {
-   "id": "news:ateezscoresfourthno1onbillboard200withgoldenhourpart6",
-   "source": "news",
-   "platform": "News",
-   "account": "103.9 Wayne FM",
-   "tier": "news",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblFWVjl4Ni0xOFpQTUFEN2FXT2NEUlctSDlacjNuTXpZRUNiY2ZLcmljSFVXbFFyYjdjblJLTzJTTzlLMi1odEJNVE1heFdDNmVSbThIZTlvMkNPcmFkMmZ2WENtOXFORHdtN3A5enRQRElwelUzS0JNeVMyWmUweV91VHdLdkJJaVB4UFB6aFplM2pFalBlU19Zc084UExpTndBcDVoc3A?oc=5",
-   "title": "ATEEZ Scores Fourth No. 1 on Billboard 200 With ‘GOLDEN HOUR : Part.6’",
-   "text": "ATEEZ Scores Fourth No. 1 on Billboard 200 With ‘GOLDEN HOUR : Part.6’ 103.9 Wayne FM",
-   "images": [],
-   "published": "2026-11-24T13:21:56Z",
-   "category": "charts",
-   "members": [],
-   "events": [],
-   "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z",
-   "title_vi": "ATEEZ đạt số 1 Billboard 200 lần thứ tư với GOLDEN HOUR : Part.6",
-   "summary_vi": "GOLDEN HOUR : Part.6 đưa ATEEZ lên vị trí số 1 Billboard 200 lần thứ tư trong sự nghiệp.",
    "ai": true
   },
   {
@@ -2049,9 +2005,73 @@
    "published": "2026-10-10T14:00:00Z",
    "category": "tour",
    "members": [],
-   "events": [],
+   "events": [
+    {
+     "label": "Tour ZERO TO ALL - Incheon",
+     "start": "2027-01-21T15:00:00Z",
+     "end": "2027-01-23T15:00:00Z",
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Tokyo",
+     "start": "2027-02-01T15:00:00Z",
+     "end": "2027-02-02T15:00:00Z",
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Kobe",
+     "start": "2027-02-12T15:00:00Z",
+     "end": "2027-02-13T15:00:00Z",
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - London",
+     "start": "2027-03-30T15:00:00Z",
+     "end": null,
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Lyon",
+     "start": "2027-04-03T15:00:00Z",
+     "end": null,
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Berlin",
+     "start": "2027-04-06T15:00:00Z",
+     "end": null,
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Krakow",
+     "start": "2027-04-09T15:00:00Z",
+     "end": null,
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Amsterdam",
+     "start": "2027-04-11T15:00:00Z",
+     "end": null,
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Cologne",
+     "start": "2027-04-14T15:00:00Z",
+     "end": null,
+     "has_time": true
+    },
+    {
+     "label": "Tour ZERO TO ALL - Antwerp",
+     "start": "2027-04-16T15:00:00Z",
+     "end": null,
+     "has_time": true
+    }
+   ],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Công bố tour thế giới 2027 [ZERO TO ALL] với lịch diễn tại Hàn, Nhật và châu Âu",
+   "summary_vi": "ATEEZ công bố 2027 ATEEZ WORLD TOUR [ZERO TO ALL], mở màn tại Incheon (22–24/1/2027), sau đó đến Tokyo, Kobe và nhiều thành phố châu Âu. Lịch Bắc Mỹ (tháng 7–8) và Nam Mỹ (tháng 9) chưa có ngày cụ thể; giờ diễn chưa được công bố.",
+   "ai": true
   },
   {
    "id": "kq:6ac7305fdfb41175d312d764",
@@ -2064,24 +2084,14 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) GOLDEN HOUR : Part.6 ‘Single CD’ (US ONLY)의 예약 판매가 금일부터 시작됩니다.\n\n자세한 내용은 아래 안내 사항을 참고해 주시기 바랍니다.\n\n[발매 정보 안내]\n- 예약 판매 :\n2026년 10월 9일 (금) 10 AM (KST) ~ 2026년 11월 12일 (목) 11:59 PM (KST)\n2026년 10월 8일 (목) 9 PM (EDT) ~ 2026년 11월 12일 (목) 9:59 AM (EST)\n\n– 발매 : 2026년 11월 13일 (금)\n\n[예약 판매처 안내]\n*해당 링크를 통해서만 예약 구매가 가능하며, GOLDEN HOUR : Part.6 앨범 관련 추가 정보는 추후 순차적으로 안내될 예정입니다.\n- 상품 바로가기\n\nATINY 여러분의 많은 관심과 사랑 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-10-09T00:00:00Z",
-   "category": "merch",
+   "category": "release",
    "members": [],
-   "events": [
-    {
-     "label": "예약 판매",
-     "start": "2026-10-09T01:00:00Z",
-     "end": "2026-11-12T14:59:00Z",
-     "has_time": true
-    },
-    {
-     "label": "발매",
-     "start": "2026-11-13T14:59:00Z",
-     "end": null,
-     "has_time": false
-    }
-   ],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "events": [],
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mở đặt trước đĩa Single CD (US ONLY) của GOLDEN HOUR : Part.6",
+   "summary_vi": "Đĩa Single CD (US ONLY) của GOLDEN HOUR : Part.6 mở đặt trước từ 9/10 đến 12/11/2026 chỉ qua link chính thức, và phát hành ngày 13/11/2026. Giai đoạn đặt trước và ngày phát hành đều đã qua.",
+   "ai": true
   },
   {
    "id": "kq:6ac62a73b010dc3db76e0318",
@@ -2096,16 +2106,12 @@
    "published": "2026-10-08T04:00:00Z",
    "category": "release",
    "members": [],
-   "events": [
-    {
-     "label": "ALBUM RELEASE",
-     "start": "2026-11-13T14:59:00Z",
-     "end": null,
-     "has_time": false
-    }
-   ],
+   "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mở pre-save album GOLDEN HOUR : Part.6 của ATEEZ",
+   "summary_vi": "ATEEZ mở pre-save album GOLDEN HOUR : Part.6 trên thư viện nhạc, với album phát hành lúc 14:00 ngày 13/11/2026. Mốc phát hành đã qua.",
+   "ai": true
   },
   {
    "id": "kq:6ac485e86f08c67982aded5b",
@@ -2124,7 +2130,10 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mingi (ATEEZ) phát hành OST \"어디에 있어\" (Ở đâu rồi) cho phim \"Dive to You\"",
+   "summary_vi": "Mingi (ATEEZ) tham gia OST Part.2 của phim \"너에게 다이브\" (Dive to You) trên kênh A, bài \"어디에 있어\" lên các nền tảng nhạc lúc 18:00 ngày 6/10/2026. Đây là tin đã phát hành trước đó.",
+   "ai": true
   },
   {
    "id": "kq:6abdbc1a67b6467a2daa2514",
@@ -2139,22 +2148,12 @@
    "published": "2026-10-01T04:00:00Z",
    "category": "merch",
    "members": [],
-   "events": [
-    {
-     "label": "판매 일정",
-     "start": "2026-10-01T04:00:00Z",
-     "end": null,
-     "has_time": true
-    },
-    {
-     "label": "배송 일정",
-     "start": "2026-10-12T14:59:00Z",
-     "end": null,
-     "has_time": false
-    }
-   ],
+   "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mở đặt trước photobook kỷ niệm 8 năm ATEEZ \"Blue Drift\"",
+   "summary_vi": "Photobook 8th Anniversary \"Blue Drift\" (184 trang, kèm 4X6 photo, poster, 3 photocard) mở đặt trước từ 1/10/2026 và chính thức ra mắt từ 12/10/2026. Đây là tin đã diễn ra trước đó.",
+   "ai": true
   },
   {
    "id": "kq:6abc066e68696e230ffeaa50",
@@ -2173,7 +2172,10 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Jongho phát hành ca khúc \"큰일이다\" trong dự án The Listen",
+   "summary_vi": "Ca khúc \"큰일이다\" của Jongho (ATEEZ) đã được phát hành trên các nền tảng nhạc số lúc 18:00 ngày 30 (KST), thuộc dự án The Listen: Season of Us.",
+   "ai": true
   },
   {
    "id": "kq:6aac0856657d4b0cabf7b94e",
@@ -2192,7 +2194,10 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Hongjoong phát hành \"ENOuGH by HONGJOONG w/ Bazzi\"",
+   "summary_vi": "\"ENOuGH by HONGJOONG w/ Bazzi\" của Hongjoong đã được phát hành trên các nền tảng nhạc số lúc 13:00 ngày 18 (KST) với sự hợp tác của Bazzi.",
+   "ai": true
   },
   {
    "id": "kq:6a7d9fa4ed484d18002a49f6",
@@ -2211,7 +2216,10 @@
    ],
    "events": [],
    "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "KQ thông báo Hongjoong gãy xương sườn, lịch trình được điều chỉnh",
+   "summary_vi": "Hongjoong được chẩn đoán gãy xương sườn và cần nghỉ ngơi, nhưng vẫn tham gia lịch trình đã hẹn với mức độ phù hợp. Phần biểu diễn tại ISTANBUL FESTIVALI (14/8) và các show sau có thể được điều chỉnh tùy tình trạng sức khỏe.",
+   "ai": true
   },
   {
    "id": "kq:6a7bdd49f4a3e9602c090ec7",
@@ -2224,18 +2232,14 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\n2026년 8월 15일부터 16일까지 폴란드에서 개최 예정인 ‘SOUND IN COLORS × K-POP EXPOSÉ’에 ATEEZ의 출연이 취소되었음을 안내드립니다.\n\n당사는 원활한 공연 진행을 위해 주최 측과 지속적으로 협의를 진행해 왔습니다.\n그러나 주최 측의 계약상 의무 및 공연 진행에 필수적인 제반 사항이 이행되지 않아, 예정된 공연의 정상적인 진행이 어렵다고 판단하였습니다.\n\n이에 아티스트의 원활한 공연 수행 및 안전 등을 종합적으로 고려하여 부득이하게 출연 취소를 결정하였습니다.\n\n공연을 기다려 주신 ATINY 여러분께 갑작스럽게 안타까운 소식을 전하게 된 점 너른 양해 부탁드립니다.\n\n티켓 환불 및 관련 절차는 주최 측을 통해 안내될 예정이오니, 세부 사항은 주최 측의 공식 안내를 확인해 주시기 바랍니다.\n\n감사합니다.",
    "images": [],
    "published": "2026-08-12T02:50:33Z",
-   "category": "official",
+   "category": "schedule",
    "members": [],
-   "events": [
-    {
-     "label": "부터 16일까지 폴란드에서 개최 예정인 ‘SOUND IN COLORS × K-POP EXPOSÉ’에 ATEEZ의 출연이 취소되었음을 안내드립니다.",
-     "start": "2026-08-15T14:59:00Z",
-     "end": null,
-     "has_time": false
-    }
-   ],
-   "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:33:32Z"
+   "events": [],
+   "category_label": "Schedule",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ hủy tham gia 'SOUND IN COLORS × K-POP EXPOSÉ' tại Ba Lan",
+   "summary_vi": "ATEEZ đã hủy lịch biểu diễn tại 'SOUND IN COLORS × K-POP EXPOSÉ' ở Ba Lan (15–16/8/2026) do ban tổ chức không thực hiện đầy đủ nghĩa vụ hợp đồng. Việc hoàn vé sẽ do ban tổ chức thông báo.",
+   "ai": true
   },
   {
    "id": "kq:6a5e402b90a3af4ff75295bb",
@@ -2252,7 +2256,10 @@
    "members": [],
    "events": [],
    "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "KQ Entertainment cảnh báo xử lý pháp lý với bình luận xúc phạm, tin giả",
+   "summary_vi": "KQ Entertainment cho biết đang theo dõi và thu thập bằng chứng về các bài đăng xúc phạm, sai sự thật nhắm vào nghệ sĩ, sẽ xử lý pháp lý không khoan nhượng. Fan có thể gửi báo cáo kèm bằng chứng tới protectkq@gmail.com.",
+   "ai": true
   },
   {
    "id": "kq:6a5e408890a3af4ff75295c0",
