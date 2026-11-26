@@ -74,6 +74,10 @@ def main():
     state = read_json(STATE_PATH, {})
     store = read_json(ITEMS_PATH, {"items": []})
     items = store.get("items", [])
+    # bai KQ chua co noi dung -> lay lai
+    retry = {i["id"] for i in items if i["source"] == "kq" and not i.get("text")}
+    if retry:
+        items = [i for i in items if i["id"] not in retry]
     known = {i["id"] for i in items}
     had_source = {i["source"] for i in items}  # nguon lan dau chay -> khong bao Discord tran lan
     http = session()

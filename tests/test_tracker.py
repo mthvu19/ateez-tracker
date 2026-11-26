@@ -22,6 +22,7 @@ class Resp:
         self.text = text if text is not None else json.dumps(js)
         self._js = js
         self.status_code = status
+        self.ok = status < 400
 
     def json(self):
         return self._js if self._js is not None else json.loads(self.text)
@@ -64,6 +65,20 @@ def test_kq_parse():
     assert t["url"].endswith("/contents/6ae94a808d38027a8d6b8b65")
     # khong doc lai bai da co
     assert collect_kq.collect(CFG, FakeHTTP(), {f"kq:{i['id']}" for i in F.KQ_ITEMS}, log=lambda *_: None) == []
+
+
+def test_kq_html_fallback():
+    class H(FakeHTTP):
+        def get(self, url, params=None, headers=None, timeout=None):
+            if "/_next/data/" in url:
+                return Resp(js={"pageProps": {"__N_REDIRECT": "/"}})
+            if "/contents/" in url:
+                oid = url.rsplit("/", 1)[1]
+                nd = {"props": F.kq_detail(oid)}
+                return Resp(f'<script id="__NEXT_DATA__" type="application/json">{json.dumps(nd)}</script>')
+            return super().get(url, params, headers, timeout)
+    items = collect_kq.collect(CFG, H(), set(), log=lambda *_: None)
+    assert all(i["text"] for i in items)
 
 
 def test_objectid_time():

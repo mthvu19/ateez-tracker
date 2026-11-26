@@ -31,6 +31,43 @@ def parse_detail(js):
     return c.get("title"), c.get("body") or ""
 
 
+def parse_detail_html(html):
+    m = NEXT_RX.search(html or "")
+    if not m:
+        return None, ""
+    nd = json.loads(m.group(1))
+    return parse_detail((nd.get("props") or {}))
+
+
+def fetch_body(http, base, build_id, oid, log=print):
+    """Thu JSON noi bo truoc; neu rong thi doc __NEXT_DATA__ tu trang HTML cua bai."""
+    info = ""
+    try:
+        d = http.get(f"{base}/_next/data/{build_id}/ko/contents/{oid}.json",
+                     params={"id": oid}, timeout=30, headers={"x-nextjs-data": "1"})
+        if d.ok:
+            js = d.json()
+            _, body = parse_detail(js)
+            if body:
+                return body
+            info = f"json keys={list((js.get('pageProps') or js).keys())[:8]}"
+        else:
+            info = f"json HTTP {d.status_code}"
+    except Exception as e:  # noqa: BLE001
+        info = f"json loi {e}"
+    try:
+        h = http.get(f"{base}/contents/{oid}", timeout=30)
+        h.raise_for_status()
+        _, body = parse_detail_html(h.text)
+        if body:
+            return body
+        info += f"; html {len(h.text)} bytes, khong co body"
+    except Exception as e:  # noqa: BLE001
+        info += f"; html loi {e}"
+    log(f"[kq] khong doc duoc noi dung {oid}: {info}")
+    return ""
+
+
 def to_item(meta, body_html, base):
     oid = meta["id"]
     pub = meta.get("publishedAt") or meta.get("createdAt")
@@ -67,14 +104,7 @@ def collect(cfg, http, known_ids, log=print):
         oid = meta.get("id")
         if not oid or f"kq:{oid}" in known_ids:
             continue
-        body = ""
-        try:
-            d = http.get(f"{base}/_next/data/{build_id}/ko/contents/{oid}.json",
-                         params={"id": oid}, timeout=30)
-            d.raise_for_status()
-            _, body = parse_detail(d.json())
-        except Exception as e:  # noqa: BLE001
-            log(f"[kq] loi doc bai {oid}: {e}")
+        body = fetch_body(http, base, build_id, oid, log)
         out.append(to_item(meta, body, base))
     log(f"[kq] {len(out)} thong bao moi")
     return out
