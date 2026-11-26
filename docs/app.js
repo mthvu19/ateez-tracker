@@ -173,11 +173,21 @@
     }).join('') + '</div></section>';
     return html;
   }
+  function hamming(a, b) {
+    var x = BigInt('0x' + a) ^ BigInt('0x' + b), n = 0;
+    while (x) { n += Number(x & 1n); x >>= 1n; }
+    return n;
+  }
   function photoItems() {
-    var out = [];
+    var out = [], seen = [];
     S.items.forEach(function (it) {
       if (it.source === 'youtube' || it.category === 'charts' || !matches(it)) return;
-      (it.images || []).forEach(function (u) { out.push({ u: u, it: it }); });
+      (it.images || []).forEach(function (u, i) {
+        var h = (it.img_hash || [])[i];
+        if (h && seen.some(function (s) { return hamming(s, h) <= 6; })) return; // anh trung
+        if (h) seen.push(h);
+        out.push({ u: u, it: it });
+      });
     });
     return out;
   }

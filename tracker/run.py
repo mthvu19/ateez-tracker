@@ -13,6 +13,7 @@ from .common import (DATA_DIR, ITEMS_PATH, STATE_PATH, KST, iso, load_config, no
                      parse_iso, read_json, session, write_json)
 from .dates import extract_events
 from .enrich_ai import enrich
+from .images import annotate, dedupe_images
 from .notify import build_lines, send
 
 
@@ -179,6 +180,11 @@ def main():
     items = new + items
     items.sort(key=lambda i: i.get("published") or "", reverse=True)
     items = dedupe_news(items)
+    try:
+        annotate(items, http)
+        items = dedupe_images(items)
+    except Exception as e:  # noqa: BLE001
+        print(f"[img] loi: {e}")
     items = items[: cfg.get("keep_items", 2000)]
     events = build_events(items, now)
 

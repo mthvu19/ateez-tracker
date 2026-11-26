@@ -185,3 +185,26 @@ def test_similar_titles():
                    "Wooyoung Turns 27 as His Birthday Post Passes 270,000 Likes")
     assert not similar("ATEEZ tops Hanteo weekly trend chart", "ATEEZ tops Circle chart")
     assert not similar("UP passes 10 million views", "UP passes 20 million views")
+
+
+def test_image_dedupe():
+    from PIL import Image, ImageDraw
+    from tracker.images import dedupe_images, dhash
+    def pic(seed):
+        im = Image.new("RGB", (200, 260), "white"); d = ImageDraw.Draw(im)
+        for k in range(6):
+            x0, y0 = (seed * 37 + k * 29) % 120, (seed * 53 + k * 41) % 160
+            d.rectangle([x0, y0, x0 + 30 + k * 10, y0 + 40 + k * 12], fill=(k * 40, 80, 200 - k * 30))
+        return im
+    a, b = dhash(pic(1)), dhash(pic(2))
+    a2 = dhash(pic(1).resize((150, 195)))  # cung anh, kich thuoc khac
+    story = {"id": "x:1", "source": "x", "tier": "fan", "images": ["u1"], "img_hash": [a], "members": ["San"],
+             "summary_en": "San posted a new Instagram story.", "text": "#CHOISAN instagram story", "published": "2026-11-26T11:51:00Z"}
+    detail = {"id": "x:2", "source": "x", "tier": "fan", "images": ["u2", "u3"], "img_hash": [a2, a2], "members": ["San", "Wooyoung"],
+              "summary_en": "San posted a photo with Wooyoung under the hashtags #OURLOVESHINEFORWOOYOUNG as part of the birthday celebration.",
+              "text": "SAN with WOOYOUNG", "published": "2026-11-26T11:48:00Z"}
+    other = {"id": "x:3", "source": "x", "tier": "fan", "images": ["u4"], "img_hash": [b], "members": [], "text": "x", "published": "2026-11-26T10:00:00Z"}
+    out = dedupe_images([story, detail, other], log=lambda *_: None)
+    ids = [i["id"] for i in out]
+    assert ids == ["x:2", "x:3"]
+    assert out[0]["images"] == ["u2"]  # anh lap trong cung mot tin cung bi bo
