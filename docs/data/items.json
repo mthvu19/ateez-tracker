@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:34:49Z",
+ "updated": "2026-11-26T14:58:00Z",
  "items": [
   {
    "id": "yt:C-08TgKgpmE",
@@ -926,6 +926,23 @@
    "events": [],
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T14:30:41Z"
+  },
+  {
+   "id": "news:ateezlầnthứtưđứngđầubảngxếphạngbillboard200",
+   "source": "news",
+   "platform": "News",
+   "account": "DKN.TV",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjdjbXJIV0h3WHJSRGoxS0MwQmdvUW1YSUs3enV6QS1YQmVGWVBPV1Y1LWNOQ1ZlTm9sX3prNkh5VGFGSEZ6bFotRk96ZmhFaUc2bmhpRUsxWlliV3BZZUVGZlY0Y1J4TklvVzlGb0kzTm5zc1Y0U0l6ZktGaHV1U1Y2bXM4TzZCS09RY09LODRIWUUt0gGUAUFVX3lxTE8yN2NtckhXSHdYclJEajFLQzBCZ29RbVhJSzd6dXpBLVhCZUZZUE9XVjUtY05DVmVOb2xfems2SHlUYUZIRnpsWi1GT3pmaEVpRzZuaGlFSzFaWWJXcFllRUZmVjRjUnhOSW9XOUZvSTNObnNzVjRTSXpmS0ZodXVTVjZtczhPNkJLT1FjT0s4NEhZRS0?oc=5",
+   "title": "ATEEZ lần thứ tư đứng đầu bảng xếp hạng Billboard 200",
+   "text": "ATEEZ lần thứ tư đứng đầu bảng xếp hạng Billboard 200 DKN.TV",
+   "images": [],
+   "published": "2026-11-24T04:21:37Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-26T14:58:00Z"
   },
   {
    "id": "news:ateezputthewordsonscreeninupihatemodelsverlyricvideo",
