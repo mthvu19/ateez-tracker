@@ -177,3 +177,11 @@ def test_full_run(tmp_path, monkeypatch):
     # chay lai: khong nhan doi
     run.main()
     assert len(json.load(open(root / "docs/data/items.json", encoding="utf-8"))["items"]) == len(data["items"])
+
+
+def test_similar_titles():
+    from tracker.run import similar
+    assert similar("Wooyoung's birthday post passes 270,000 likes",
+                   "Wooyoung Turns 27 as His Birthday Post Passes 270,000 Likes")
+    assert not similar("ATEEZ tops Hanteo weekly trend chart", "ATEEZ tops Circle chart")
+    assert not similar("UP passes 10 million views", "UP passes 20 million views")

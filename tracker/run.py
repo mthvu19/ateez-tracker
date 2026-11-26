@@ -4,6 +4,7 @@
 """
 import argparse
 import os
+import re
 from datetime import timedelta
 
 from . import collect_feeds, collect_kq, collect_x
@@ -23,6 +24,48 @@ def prepare(item, pats):
     else:
         item.setdefault("events", [])
     return item
+
+
+STOP = set("a an the and or of to in on at for with as by from his her their its is are was were be has have after new "
+           "over into about up out this that than more ateez's".split())
+
+
+def _tokens(text):
+    text = re.sub(r"(\d)[,.](\d{3})", r"\1\2", (text or "").lower())  # 270,000 -> 270000
+    text = re.sub(r"'s\b|’s\b", "", text)
+    return {w for w in re.findall(r"[a-z0-9가-힣]+", text) if w not in STOP and len(w) > 1}
+
+
+def similar(a, b):
+    ta, tb = _tokens(a), _tokens(b)
+    if not ta or not tb:
+        return False
+    na, nb = {w for w in ta if w.isdigit()}, {w for w in tb if w.isdigit()}
+    if na and nb and not (na & nb):
+        return False  # so lieu khac nhau -> tin khac nhau
+    return len(ta & tb) / len(ta | tb) >= 0.6
+
+
+def dedupe_news(items, days=3):
+    """Cung mot su kien nhieu bao dang (tieu de gan giong) -> giu 1 tin (moi nhat)."""
+    kept, out = [], []
+    for it in items:
+        if it.get("source") == "news":
+            title = it.get("title_en") or it.get("title", "")
+            ts = parse_iso(it.get("published"))
+            dup = False
+            for k in kept:
+                kts = parse_iso(k.get("published"))
+                if ts and kts and abs((ts - kts).total_seconds()) > days * 86400:
+                    continue
+                if similar(title, k.get("title_en") or k.get("title", "")):
+                    dup = True
+                    break
+            if dup:
+                continue
+            kept.append(it)
+        out.append(it)
+    return out
 
 
 def build_events(items, now):
@@ -135,16 +178,7 @@ def main():
             it["events"] = extract_events(it.get("text", ""), it.get("title", ""))
     items = new + items
     items.sort(key=lambda i: i.get("published") or "", reverse=True)
-    # cung mot tin nhieu bao dang -> giu ban moi nhat (so theo tieu de tieng Viet)
-    seen_titles, deduped = set(), []
-    for it in items:
-        key = (it.get("title_en") or "").strip().lower()
-        if it["source"] == "news" and key:
-            if key in seen_titles:
-                continue
-            seen_titles.add(key)
-        deduped.append(it)
-    items = deduped
+    items = dedupe_news(items)
     items = items[: cfg.get("keep_items", 2000)]
     events = build_events(items, now)
 
