@@ -7,6 +7,7 @@ import json
 import os
 
 from .classify import CATEGORIES
+from .common import iso, parse_iso
 
 API = "https://api.anthropic.com/v1/messages"
 
@@ -38,8 +39,9 @@ def enrich(items, cfg, today, http, log=print, limit=None):
         return 0
     todo = items[: limit or cfg.get("ai_max_items_per_run", 40)]
     done = 0
-    for i in range(0, len(todo), 10):
-        batch = todo[i:i + 10]
+    queue = [todo[i:i + 10] for i in range(0, len(todo), 10)]
+    while queue:
+        batch = queue.pop(0)
         payload = [{"id": it["id"], "nguon": f"{it['account']} ({it['platform']})", "tieu_de": it["title"],
                     "noi_dung": it["text"][:2500], "ngay_dang": it["published"]} for it in batch]
         body = {
@@ -58,7 +60,12 @@ def enrich(items, cfg, today, http, log=print, limit=None):
             text = text[text.find("["): text.rfind("]") + 1]
             res = {o["id"]: o for o in json.loads(text)}
         except Exception as e:  # noqa: BLE001
-            log(f"[ai] loi: {e}")
+            if len(batch) > 1:
+                log(f"[ai] loi ({e}) -> chia nho {len(batch)} tin de thu lai")
+                half = len(batch) // 2
+                queue += [batch[:half], batch[half:]]
+            else:
+                log(f"[ai] loi tin {batch[0]['id']}: {e}")
             continue
         for it in batch:
             o = res.get(it["id"])
@@ -71,10 +78,16 @@ def enrich(items, cfg, today, http, log=print, limit=None):
             for k in ("title_vi", "summary_vi"):
                 if o.get(k):
                     it[k] = str(o[k])[:400]
-            evs = [e for e in (o.get("events") or []) if isinstance(e, dict) and e.get("start")]
-            if evs:
-                it["events"] = [{"label": str(e.get("label", ""))[:90], "start": e["start"],
-                                 "end": e.get("end"), "has_time": "T" in e["start"]} for e in evs][:12]
+            evs = []
+            for e in o.get("events") or []:
+                st = parse_iso(e.get("start")) if isinstance(e, dict) else None
+                if not st:
+                    continue
+                en = parse_iso(e.get("end"))
+                evs.append({"label": str(e.get("label", ""))[:90], "start": iso(st),
+                            "end": iso(en) if en and en > st else None, "has_time": "T" in str(e["start"])})
+            if evs or "events" in o:
+                it["events"] = evs[:12]
             it["ai"] = True
             done += 1
     log(f"[ai] da xu ly {done}/{len(todo)} tin")

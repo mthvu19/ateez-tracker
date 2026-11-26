@@ -30,9 +30,16 @@ def iso(dt):
 
 
 def parse_iso(s):
+    """Doc ISO 8601; chuoi khong co mui gio duoc hieu la gio KST."""
     if not s:
         return None
-    return datetime.fromisoformat(s.replace("Z", "+00:00"))
+    try:
+        d = datetime.fromisoformat(str(s).strip().replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=KST)
+    return d
 
 
 def session():

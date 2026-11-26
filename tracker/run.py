@@ -39,6 +39,7 @@ def build_events(items, now):
             if key in seen:
                 continue
             seen.add(key)
+            e = {**e, "start": iso(start), "end": iso(end) if end else None}
             out.append({**e, "item_id": it["id"], "title": it.get("title_vi") or it["title"],
                         "url": it["url"], "category": it.get("category"), "members": it.get("members", [])})
     out.sort(key=lambda e: e["start"])
@@ -132,6 +133,16 @@ def main():
             it["events"] = extract_events(it.get("text", ""), it.get("title", ""))
     items = new + items
     items.sort(key=lambda i: i.get("published") or "", reverse=True)
+    # cung mot tin nhieu bao dang -> giu ban moi nhat (so theo tieu de tieng Viet)
+    seen_titles, deduped = set(), []
+    for it in items:
+        key = (it.get("title_vi") or "").strip().lower()
+        if it["source"] == "news" and key:
+            if key in seen_titles:
+                continue
+            seen_titles.add(key)
+        deduped.append(it)
+    items = deduped
     items = items[: cfg.get("keep_items", 2000)]
     events = build_events(items, now)
 
