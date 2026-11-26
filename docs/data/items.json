@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:59:09Z",
+ "updated": "2026-11-26T16:00:36Z",
  "items": [
   {
    "id": "news:tf초점에이티즈네번째빌보드1위보다더빛나는꾸준함",
@@ -187,10 +187,15 @@
    ],
    "published": "2026-11-26T11:51:13Z",
    "category": "sns",
-   "members": [],
+   "members": [
+    "San"
+   ],
    "events": [],
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "San shares a new Instagram story",
+   "summary_en": "San posted a new Instagram story on Nov. 26.",
+   "ai": "en"
   },
   {
    "id": "x:2125919663926260110",
@@ -233,7 +238,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "BAD ranks No. 6 on Melon real-time search",
+   "summary_en": "ATEEZ's BAD is trending at No. 6 on Melon's real-time search chart.",
+   "ai": "en"
   },
   {
    "id": "x:2125915176268616018",
@@ -252,7 +260,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "BAD keeps trending on Melon every day since release",
+   "summary_en": "BAD is still among Melon's most popular song searches and has trended every day since its release as part of GOLDENHOUR Part.5.",
+   "ai": "en"
   },
   {
    "id": "x:2125913978031497604",
@@ -271,7 +282,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "BAD passes 27 million streams on Melon",
+   "summary_en": "BAD has surpassed 27 million streams on Melon. It remains the most streamed song, and the one with the most unique listeners, by a 4th-gen boy group release in 2026.",
+   "ai": "en"
   },
   {
    "id": "x:2125913005183427012",
@@ -292,7 +306,10 @@
    ],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Not Like Lovin' Me debuts at No. 98 on Circle BGM chart",
+   "summary_en": "San's Not Like Lovin' Me debuted at No. 98 on the Circle BGM Chart.",
+   "ai": "en"
   },
   {
    "id": "x:2125911653216592321",
@@ -313,7 +330,10 @@
    ],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Not Like Lovin' Me debuts at No. 97 on Circle V Coloring chart",
+   "summary_en": "San's Not Like Lovin' Me debuted at No. 97 on the Circle V Coloring Chart.",
+   "ai": "en"
   },
   {
    "id": "x:2125911284675923998",
@@ -334,7 +354,10 @@
    ],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Not Like Lovin' Me debuts at No. 84 on Circle Download chart",
+   "summary_en": "San's Not Like Lovin' Me debuted at No. 84 on the Circle Download Chart.",
+   "ai": "en"
   },
   {
    "id": "yt:C-08TgKgpmE",
@@ -379,7 +402,10 @@
    ],
    "events": [],
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Yunho posts a new message dated 261126",
+   "summary_en": "Yunho shared a new message tagged 261126 (Nov. 26).",
+   "ai": "en"
   },
   {
    "id": "x:2125908648467874201",
@@ -394,7 +420,7 @@
     "https://pbs.twimg.com/amplify_video_thumb/2125908229897281536/img/_mO_tMtWc1VIif4U.jpg"
    ],
    "published": "2026-11-26T11:04:53Z",
-   "category": "sns",
+   "category": "video",
    "members": [
     "Yunho",
     "San",
@@ -402,8 +428,11 @@
     "Jongho"
    ],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Yunho, San, Wooyoung and Jongho sing Beautiful Night for Ulala Session",
+   "summary_en": "A new video shows Yunho, San, Wooyoung and Jongho singing Beautiful Night in an Ulala Session performance.",
+   "ai": "en"
   },
   {
    "id": "x:2125906951741886757",
@@ -418,7 +447,7 @@
     "https://pbs.twimg.com/amplify_video_thumb/2125906856086491136/img/tsoI_Pe-A_s8gSnb.jpg"
    ],
    "published": "2026-11-26T10:58:09Z",
-   "category": "sns",
+   "category": "video",
    "members": [
     "Yunho",
     "San",
@@ -426,8 +455,11 @@
     "Jongho"
    ],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Yunho, San, Wooyoung and Jongho sing Still Here (Korean Version)",
+   "summary_en": "A new video shows Yunho, San, Wooyoung and Jongho performing the Korean version of Still Here.",
+   "ai": "en"
   },
   {
    "id": "x:2125905525082849375",
@@ -442,7 +474,7 @@
     "https://pbs.twimg.com/amplify_video_thumb/2125905338654433280/img/S0ll4XrN90tAg8dI.jpg"
    ],
    "published": "2026-11-26T10:52:29Z",
-   "category": "sns",
+   "category": "video",
    "members": [
     "Yunho",
     "San",
@@ -450,8 +482,11 @@
     "Jongho"
    ],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Yunho, San, Wooyoung and Jongho sing 'All For You' with RESCENE's May and Zena",
+   "summary_en": "A clip shows Yunho, San, Wooyoung and Jongho singing 'All For You' alongside RESCENE's May and Zena.",
+   "ai": "en"
   },
   {
    "id": "x:2125896342321197491",
@@ -500,14 +535,14 @@
    "fetched": "2026-11-26T15:59:09Z"
   },
   {
-   "id": "news:ateezwooyoungsinhnhậtlầnthứ27vượtqua270000lượtthích",
+   "id": "news:ateezswooyoungturns27postsurpasses270000likes",
    "source": "news",
    "platform": "News",
    "account": "스타뉴스",
    "tier": "news",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1TlAtSmNSdDdmUXZZYlpvNTJCLVZFVWFNSzB3WmpPQW9LZEZYNHh4Y0NmNGtmY3R4NHkwZFFkeGpKSklLSkdWWnRwUUpQRzlQbHo3emE1cWFOZzAtNzM0LU5NeXZ2RTh1Y1VSQU5oekpZMFNhd19Z?oc=5",
-   "title": "ATEEZ Woo Young, sinh nhật lần thứ 27.. vượt qua 270.000 lượt 'thích'",
-   "text": "ATEEZ Woo Young, sinh nhật lần thứ 27.. vượt qua 270.000 lượt 'thích' 스타뉴스",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtdGNtaW1lVzM5NmJpdDNrc3FvOHhWemhhdmRONmZnV3l1Q2Mxa09PQ1lGb0NlalVvWHRMbGxwRVI1X0xqN3NpVkRLVW1rWDJhSXZnRzFNUzZsZlFkMEJIeTh2Nnp1c1BVdDA5RDFRREQtdXBRUmF3?oc=5",
+   "title": "ATEEZ's Wooyoung turns 27, post surpasses 270,000 \"likes\"",
+   "text": "ATEEZ's Wooyoung turns 27, post surpasses 270,000 \"likes\" 스타뉴스",
    "images": [],
    "published": "2026-11-26T09:40:51Z",
    "category": "sns",
@@ -515,11 +550,11 @@
     "Wooyoung"
    ],
    "events": [],
-   "title_en": "Wooyoung's birthday post passes 270,000 likes",
-   "summary_en": "ATEEZ's Wooyoung celebrated his 27th birthday, and his birthday post on social media has surpassed 270,000 likes, according to Star News.",
+   "title_en": "Wooyoung Turns 27 as His Birthday Post Passes 270,000 Likes",
+   "summary_en": "ATEEZ's Wooyoung celebrated his 27th birthday, and his post has surpassed 270,000 likes.",
    "ai": "en",
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:17:42Z"
+   "fetched": "2026-11-26T16:00:36Z"
   },
   {
    "id": "x:2125882014406484352",
@@ -538,7 +573,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "ATEEZ has 3 songs charting on the Circle Digital Chart",
+   "summary_en": "ATEEZ currently has three songs on the Circle Digital Chart.",
+   "ai": "en"
   },
   {
    "id": "x:2125880942443024465",
@@ -557,7 +595,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "'Up' reaches a new peak on the Circle Digital Chart",
+   "summary_en": "ATEEZ's 'Up' has hit a new peak on the Circle Digital Chart.",
+   "ai": "en"
   },
   {
    "id": "news:ateeztopshanteochartsweeklytrendchartforthirdweekofnovemberfollowedbyresceneandi",
@@ -594,12 +635,14 @@
    "published": "2026-11-26T06:47:53Z",
    "category": "sns",
    "members": [
-    "Hongjoong",
-    "Wooyoung"
+    "Hongjoong"
    ],
    "events": [],
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Hongjoong's ATEEZ TALK post includes a birthday greeting for Wooyoung",
+   "summary_en": "An ATEEZ TALK post from November 26 featuring Hongjoong includes a birthday message for Wooyoung, written as \"Happy birthday, Prince Wooyoung.\"",
+   "ai": "en"
   },
   {
    "id": "x:2125832653240979512",
@@ -620,7 +663,10 @@
    ],
    "events": [],
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Jongho shares an Instagram story",
+   "summary_en": "Jongho posted a new Instagram story, which was shared on X.",
+   "ai": "en"
   },
   {
    "id": "x:2125831368550596817",
@@ -852,7 +898,10 @@
    ],
    "events": [],
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Yunho shares an Instagram story",
+   "summary_en": "Yunho posted a new Instagram story, which was shared on X.",
+   "ai": "en"
   },
   {
    "id": "yt:xkhIbVURP6E",
@@ -1178,7 +1227,10 @@
    ],
    "events": [],
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Yeosang shares an Instagram story",
+   "summary_en": "Yeosang posted a new Instagram story, which was shared on X.",
+   "ai": "en"
   },
   {
    "id": "x:2125607702634311822",
@@ -1225,7 +1277,10 @@
    ],
    "events": [],
    "category_label": "SNS",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "Fans celebrate Wooyoung Day with #OURLOVESHINEFORWOOYOUNG",
+   "summary_en": "Fans marked Wooyoung's birthday with the hashtags #OURLOVESHINEFORWOOYOUNG and #우리의하나뿐인별우영데이.",
+   "ai": "en"
   },
   {
    "id": "x:2125605871992586252",
@@ -1790,7 +1845,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "ATEEZ hits a new peak at No. 10 on Spotify's South Korea daily top artist chart",
+   "summary_en": "ATEEZ climbed two spots to No. 10 on Spotify's Daily Top Artist chart in South Korea, a new peak for the group.",
+   "ai": "en"
   },
   {
    "id": "yt:mVd8pT1IZBo",
@@ -1940,7 +1998,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T15:59:09Z"
+   "fetched": "2026-11-26T15:59:09Z",
+   "title_en": "'BAD' becomes the first 4th-gen boy group song to top 3,000 hours on Melon Top 100",
+   "summary_en": "'BAD' is the first song by a 4th-generation boy group to surpass 3,000 hours on the Melon Top 100. The post is tagged with GOLDENHOUR and GOLDENHOUR_Part5.",
+   "ai": "en"
   },
   {
    "id": "news:ateezsgoldenhourpart6debutsatno1onbillboard200for4thtime",
