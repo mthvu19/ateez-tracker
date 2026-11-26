@@ -66,6 +66,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sources", default="kq,youtube,news")
     ap.add_argument("--no-notify", action="store_true")
+    ap.add_argument("--reprocess", action="store_true",
+                    help="cho AI xu ly lai cac tin cu chua duoc tom tat/dich")
     args = ap.parse_args()
     sources = [s.strip() for s in args.sources.split(",") if s.strip()]
 
@@ -111,7 +113,14 @@ def main():
             known.add(g["id"])
             new.append(prepare(g, pats))
 
-    enrich(new, cfg, now.astimezone(KST).strftime("%Y-%m-%d %H:%M KST"), http)
+    today = now.astimezone(KST).strftime("%Y-%m-%d %H:%M KST")
+    enrich(new, cfg, today, http)
+    if args.reprocess:
+        old = [i for i in items if not i.get("ai")]
+        print(f"[ai] xu ly lai {len(old)} tin cu")
+        enrich(old, cfg, today, http, limit=len(old))
+        for it in old:
+            it["category_label"] = CATEGORIES.get(it["category"], it["category"])
     for it in new:
         it["category_label"] = CATEGORIES.get(it["category"], it["category"])
         it.pop("category_hint", None)

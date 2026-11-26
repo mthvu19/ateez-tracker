@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+    inputs:
+      reprocess:
+        description: "Cho AI tom tat/dich lai cac tin cu"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -27,7 +32,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           PAGE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-        run: python -m tracker.run --sources kq,youtube,news
+        run: python -m tracker.run --sources kq,youtube,news ${{ inputs.reprocess && '--reprocess' || '' }}
       - name: Luu du lieu
         run: |
           git config user.name "ateez-tracker-bot"

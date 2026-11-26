@@ -29,11 +29,14 @@ TIN:
 {items}"""
 
 
-def enrich(items, cfg, today, http, log=print):
+def enrich(items, cfg, today, http, log=print, limit=None):
     key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-    if not key or not items:
+    if not key:
+        log("[ai] khong co ANTHROPIC_API_KEY -> bo qua")
         return 0
-    todo = items[: cfg.get("ai_max_items_per_run", 40)]
+    if not items:
+        return 0
+    todo = items[: limit or cfg.get("ai_max_items_per_run", 40)]
     done = 0
     for i in range(0, len(todo), 10):
         batch = todo[i:i + 10]
@@ -48,7 +51,9 @@ def enrich(items, cfg, today, http, log=print):
         try:
             r = http.post(API, json=body, timeout=120, headers={
                 "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
-            r.raise_for_status()
+            if r.status_code >= 400:
+                log(f"[ai] HTTP {r.status_code}: {r.text[:300]}")
+                continue
             text = "".join(b.get("text", "") for b in r.json().get("content", []))
             text = text[text.find("["): text.rfind("]") + 1]
             res = {o["id"]: o for o in json.loads(text)}
