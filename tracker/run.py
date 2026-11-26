@@ -39,7 +39,9 @@ def build_events(items, now):
             if key in seen:
                 continue
             seen.add(key)
-            e = {**e, "start": iso(start), "end": iso(end) if end else None}
+            k = start.astimezone(KST)
+            has_time = bool(e.get("has_time", True)) and not (k.hour == 0 and k.minute == 0)
+            e = {**e, "start": iso(start), "end": iso(end) if end else None, "has_time": has_time}
             out.append({**e, "item_id": it["id"], "title": it.get("title_vi") or it["title"],
                         "url": it["url"], "category": it.get("category"), "members": it.get("members", [])})
     out.sort(key=lambda e: e["start"])
