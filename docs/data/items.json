@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:30:41Z",
+ "updated": "2026-11-26T14:32:09Z",
  "items": [
   {
    "id": "yt:C-08TgKgpmE",
@@ -440,7 +440,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "news:에이티즈빌보드뚫었다양대메인차트동시진입",
@@ -679,6 +679,40 @@
    "events": [],
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T14:30:41Z"
+  },
+  {
+   "id": "news:에이티즈빌보드200또1위핫100까지뚫었다",
+   "source": "news",
+   "platform": "News",
+   "account": "스포츠경향",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RZU1zUUxpRWZ5YTRjY3VZb1VuaV9aQ0xPRmpuaVU4Z2p1Z3VRSEdZV3hSc1Z5UnBqOEVrVEplcW13aEl2VVEtWHowNS1mejBCWUdEaWpnUnBHbXJSZmfSAWNBVV95cUxNVmZtMWJsSlJ1czZmM1lNVkpTRkx6SnFRLS1PdUpGQVZZOUdTcHFFYTBHa1FzUEdSVEhwQy13aFllSjBla2Nmc3hYRWppcWRQM2tpVG5HVGgzZnF4TXpoZzQ1anc?oc=5",
+   "title": "에이티즈, 빌보드 200 또 1위···‘핫 100’까지 뚫었다",
+   "text": "에이티즈, 빌보드 200 또 1위···‘핫 100’까지 뚫었다 스포츠경향",
+   "images": [],
+   "published": "2026-11-24T22:38:00Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-26T14:32:09Z"
+  },
+  {
+   "id": "news:막강에이티즈美빌보드2001위이어hot100도인기몰이거침없는글로벌행보",
+   "source": "news",
+   "platform": "News",
+   "account": "스타뉴스",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qWnBFc1gxV0VpcktZbEtvRk1zZUdQMjlMQ0s1TjZzcjc5eWVTLW1aY0lhZEVmLUp1TlBKdVoxYU9ZbzhZQ3pmeWxBS21ncHpEVGpJdkNiM3kyWk93X2VncmlaSEpxbkZ2YXZ4QVdMYS1BbU00?oc=5",
+   "title": "막강 에이티즈! 美 '빌보드 200' 1위 이어 'HOT 100'도 인기몰이..거침없는 글로벌 행보",
+   "text": "막강 에이티즈! 美 '빌보드 200' 1위 이어 'HOT 100'도 인기몰이..거침없는 글로벌 행보 스타뉴스",
+   "images": [],
+   "published": "2026-11-24T22:17:54Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "news:powerfulateezaftertoppingtheusbillboard200theirtitletrackalsogainstractionontheh",
@@ -967,7 +1001,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "yt:KpJuKwusa24",
@@ -1136,7 +1170,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6afd2e2deb885b6b3eb8a779",
@@ -1155,7 +1189,7 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6afd2c6e5357c96081d47b08",
@@ -1172,7 +1206,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6afad8d45357c96081d479b1",
@@ -1189,7 +1223,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6afa8bf01c06cd74049ac80c",
@@ -1206,7 +1240,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6af44505a6d521271e159116",
@@ -1223,7 +1257,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ae94a80c969a274b1715e67",
@@ -1240,7 +1274,7 @@
    "members": [],
    "events": [],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ae55fa7c969a274b1715d14",
@@ -1259,7 +1293,7 @@
    ],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ae4517b61edfb33231aefe0",
@@ -1278,7 +1312,7 @@
    ],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ae357aeebf6d57668bcf473",
@@ -1297,7 +1331,7 @@
    ],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ae2064e23acbb64ffe4d01f",
@@ -1317,7 +1351,7 @@
    ],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6adf21ae23acbb64ffe4ce51",
@@ -1334,7 +1368,7 @@
    "members": [],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ad8c85c23acbb64ffe4cb1f",
@@ -1351,7 +1385,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ad9b5e1a1713f61f78bdb69",
@@ -1368,7 +1402,7 @@
    "members": [],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ad2006d3ed3b715468859b3",
@@ -1385,7 +1419,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6acf7f98aa228b31394eb8d9",
@@ -1402,7 +1436,7 @@
    "members": [],
    "events": [],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ace4dd94ca51e2e416bdebb",
@@ -1419,7 +1453,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6acb3cc2c978285229e7fda3",
@@ -1436,7 +1470,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ac9239f6fbacc6f8ca01105",
@@ -1455,7 +1489,7 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ac915ce8687ee65a299a79e",
@@ -1472,7 +1506,7 @@
    "members": [],
    "events": [],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ac7305f8687ee65a299a673",
@@ -1489,7 +1523,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ac62a739dc92635c991ef70",
@@ -1506,7 +1540,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6ac485e8c978285229e7fa94",
@@ -1525,7 +1559,7 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6abdbc1a6baf4d1792416dfd",
@@ -1542,7 +1576,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6abc066fc8e0782ad0e34d73",
@@ -1561,7 +1595,7 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6aac0856c978285229e7ec80",
@@ -1580,7 +1614,7 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a7d9fa477611566b0f01ab7",
@@ -1599,7 +1633,7 @@
    ],
    "events": [],
    "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a7bdd4964a0b604b6ceef4d",
@@ -1616,7 +1650,7 @@
    "members": [],
    "events": [],
    "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a5e402b42d1337cd52b6d95",
@@ -1633,7 +1667,7 @@
    "members": [],
    "events": [],
    "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a5e4088b73dda538abc36a2",
@@ -1650,7 +1684,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a4ce12b42d1337cd52b6811",
@@ -1667,7 +1701,7 @@
    "members": [],
    "events": [],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a4c70d60ad85240e11ca68e",
@@ -1684,7 +1718,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a4332c5e380302acffe6f7b",
@@ -1701,7 +1735,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a433150e2b7f40242454ffd",
@@ -1718,7 +1752,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a432fc9a40aff031aa346f5",
@@ -1735,7 +1769,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a41e837e380302acffe6ede",
@@ -1752,7 +1786,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a3d28a6e2b7f40242454d1f",
@@ -1769,7 +1803,7 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a3cc75aa40aff031aa34414",
@@ -1786,7 +1820,7 @@
    "members": [],
    "events": [],
    "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a3a4019a40aff031aa34241",
@@ -1803,7 +1837,7 @@
    "members": [],
    "events": [],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a38de2ce2b7f402424549bc",
@@ -1820,7 +1854,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a336dada40aff031aa33e33",
@@ -1837,7 +1871,7 @@
    "members": [],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a2fa897e2b7f402424543d4",
@@ -1854,7 +1888,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a1d6c622b6ffe0098a8a6cd",
@@ -1871,7 +1905,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a15032537b67f7ec5ac5c43",
@@ -1888,7 +1922,7 @@
    "members": [],
    "events": [],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:6a04097837b67f7ec5ac5162",
@@ -1905,7 +1939,7 @@
    "members": [],
    "events": [],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   },
   {
    "id": "kq:69fbff4c2b6ffe0098a89262",
@@ -1924,7 +1958,7 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:32:09Z"
   }
  ]
 }
