@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:33:32Z",
+ "updated": "2026-11-26T14:34:49Z",
  "items": [
   {
    "id": "yt:C-08TgKgpmE",
@@ -1381,39 +1381,39 @@
    "members": [],
    "events": [
     {
-     "label": "공연일시 *1일 1회, 총 3회",
+     "label": "공연일시",
      "start": "2027-01-22T10:00:00Z",
      "end": null,
      "has_time": true
     },
     {
-     "label": "공연일시 *1일 1회, 총 3회",
+     "label": "공연일시",
      "start": "2027-01-23T08:00:00Z",
      "end": null,
      "has_time": true
     },
     {
-     "label": "공연일시 *1일 1회, 총 3회",
+     "label": "공연일시",
      "start": "2027-01-24T07:00:00Z",
      "end": null,
      "has_time": true
     },
     {
-     "label": "11월 25일 11:59PM",
+     "label": "국내/글로벌 멤버십 선예매 서베이 작성",
      "start": "2026-11-23T10:00:00Z",
-     "end": null,
+     "end": "2026-11-25T14:59:00Z",
      "has_time": true
     },
     {
-     "label": "12월 3일 11:59PM",
+     "label": "국내 멤버십 선예매 인증",
      "start": "2026-12-01T05:00:00Z",
-     "end": null,
+     "end": "2026-12-03T14:59:00Z",
      "has_time": true
     },
     {
-     "label": "12월 7일 11:59PM",
+     "label": "글로벌 멤버십 선예매 인증",
      "start": "2026-12-01T05:00:00Z",
-     "end": null,
+     "end": "2026-12-07T14:59:00Z",
      "has_time": true
     },
     {
@@ -2159,7 +2159,7 @@
     {
      "label": "글로벌",
      "start": "2026-08-06T14:59:00Z",
-     "end": null,
+     "end": "2026-08-08T14:59:00Z",
      "has_time": false
     },
     {
@@ -2392,13 +2392,13 @@
     {
      "label": "멤버십 선예매 서베이 작성",
      "start": "2026-05-14T09:00:00Z",
-     "end": null,
+     "end": "2026-05-17T14:59:00Z",
      "has_time": true
     },
     {
      "label": "멤버십 선예매 인증",
      "start": "2026-05-26T05:00:00Z",
-     "end": null,
+     "end": "2026-05-28T14:59:00Z",
      "has_time": true
     },
     {
