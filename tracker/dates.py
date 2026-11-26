@@ -19,6 +19,10 @@ KO = re.compile(
     r"(?P<y>20\d\d)\s*년\s*(?P<mo>\d{1,2})\s*월\s*(?P<d>\d{1,2})\s*일(?:\s*\([^)]{1,3}\))?"
     r"(?:\s*(?P<ampm>오전|오후)?\s*(?P<h>\d{1,2})(?:\s*시|:(?P<mi>\d{2})|(?=\s*(?:AM|PM)))(?:\s*(?P<mi2>\d{1,2})\s*분)?)?"
     r"(?:\s*(?P<ap>AM|PM))?")
+KO_NY = re.compile(
+    r"(?<![\d년])(?<!년 )(?P<mo>\d{1,2})\s*월\s*(?P<d>\d{1,2})\s*일(?:\s*\([^)]{1,3}\))?"
+    r"(?:\s*(?P<ampm>오전|오후)?\s*(?P<h>\d{1,2})(?:\s*시|:(?P<mi>\d{2})|(?=\s*(?:AM|PM)))(?:\s*(?P<mi2>\d{1,2})\s*분)?)?"
+    r"(?:\s*(?P<ap>AM|PM))?")
 DOT = re.compile(
     r"(?P<y>20\d\d)\s*[.\-/]\s*(?P<mo>\d{1,2})\s*[.\-/]\s*(?P<d>\d{1,2})\.?(?:\s*\([^)]{1,3}\))?"
     r"(?:\s*(?P<h>\d{1,2}):(?P<mi>\d{2}))?(?:\s*(?P<ap>AM|PM))?")
@@ -66,6 +70,20 @@ def find_datetimes(line):
         if dt:
             found.append((m.start(), m.end(), dt, ht))
     found.sort(key=lambda x: x[0])
+    # "~ 11월 25일 ..." khong ghi nam: lay nam cua moc dung truoc
+    if found:
+        for m in KO_NY.finditer(line):
+            if any(s_ <= m.start() < e_ for s_, e_, _, _ in found):
+                continue
+            prev = [f for f in found if f[0] < m.start()]
+            if not prev:
+                continue
+            y = prev[-1][2].year + (1 if int(m.group("mo")) < prev[-1][2].month else 0)
+            dt, ht = _mk(y, m.group("mo"), m.group("d"), m.group("h"),
+                         m.group("mi") or m.group("mi2"), m.group("ap"), m.group("ampm"))
+            if dt:
+                found.append((m.start(), m.end(), dt, ht))
+        found.sort(key=lambda x: x[0])
     keep = []
     for s_, e_, dt, ht in found:
         if US_TZ.search(line[e_:e_ + 12]):
@@ -81,6 +99,7 @@ def _label(line, spans):
     text = re.sub(r"\((KST|Mon|Tue|Wed|Thu|Fri|Sat|Sun|월|화|수|목|금|토|일)\)", "", text)
     text = re.sub(r"[\s:：~\-–—|·,]+$", "", text)
     text = re.sub(r"^[\s\-–•*※▶■☑️✔]+", "", text)
+    text = re.sub(r"\s\*.*$", "", text)  # bo ghi chu "*1일 1회..."
     text = re.sub(r"\s{2,}", " ", text).strip(" :-–~")
     return text[:90]
 

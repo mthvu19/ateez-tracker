@@ -117,6 +117,10 @@ def main():
         it.pop("category_hint", None)
         it["fetched"] = iso(now)
 
+    # tinh lai moc thoi gian cho tin cu (luat trich ngay co the da duoc cai tien)
+    for it in items:
+        if not it.get("ai") and it.get("tier") == "official" and it.get("source") in ("kq", "x"):
+            it["events"] = extract_events(it.get("text", ""), it.get("title", ""))
     items = new + items
     items.sort(key=lambda i: i.get("published") or "", reverse=True)
     items = items[: cfg.get("keep_items", 2000)]
