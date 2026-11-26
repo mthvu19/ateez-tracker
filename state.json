@@ -1,4 +1,21 @@
 {
  "reminded": [],
- "x_user_ids": {}
+ "x_user_ids": {
+  "ateezofficial": "923415570522914819",
+  "ateezofficialjp": "1115826154353713153",
+  "kqent": "1706471407",
+  "ateezstaff": "1040528902169362433",
+  "ateezud": "1001051876404547585",
+  "1024updates": "1457643990161965061",
+  "ateez_charts": "1137652191886565376"
+ },
+ "x_since": {
+  "ATEEZofficial": "2125945166577963427",
+  "ATEEZofficialjp": "2125945907028144342",
+  "ATEEZstaff": "2121650164746322402",
+  "ATEEZUD": "2125930202572415251",
+  "1024updates": "2125920308200948188",
+  "ateez_charts": "2125915491445113036"
+ },
+ "x_reads_total": 60
 }

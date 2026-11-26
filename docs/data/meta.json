@@ -16,14 +16,14 @@
    "new": 1
   },
   "x": {
-   "ok": false,
-   "at": "2026-11-26T15:17:32Z",
-   "error": "402 Client Error: Payment Required for url: https://api.x.com/2/users/by?usernames=ATEEZofficial%2CATEEZofficialjp%2Ckqent%2CATEEZstaff%2CATEEZUD%2C1024updates%2Cateez_charts"
+   "ok": true,
+   "at": "2026-11-26T15:59:09Z",
+   "new": 60
   }
  },
- "updated": "2026-11-26T15:17:42Z",
+ "updated": "2026-11-26T15:59:09Z",
  "counts": {
-  "items": 116,
-  "events": 24
+  "items": 163,
+  "events": 29
  }
 }

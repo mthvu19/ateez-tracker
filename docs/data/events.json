@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T15:17:42Z",
+ "updated": "2026-11-26T15:59:09Z",
  "events": [
+  {
+   "label": "2027 SEASON'S GREETINGS pre-order opens",
+   "start": "2026-11-25T04:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "x:2125439428265185281",
+   "title": "2027 ATEEZ Season's Greetings pre-orders open, release set for Dec. 29",
+   "url": "https://x.com/ATEEZofficialjp/status/2125439428265185281",
+   "category": "merch",
+   "members": []
+  },
   {
    "label": "Pre-order period",
    "start": "2026-11-25T04:00:00Z",
@@ -10,6 +21,41 @@
    "title": "ATEEZ 2027 Season's Greetings 'TEEZVERSE' Pre-Orders Now Open",
    "url": "https://ateez.kqent.com/contents/6b055a0400027c0e6d142829",
    "category": "merch",
+   "members": []
+  },
+  {
+   "label": "Wooyoung birthday MD 'WRAP ME UP' on sale at Berriz Shop",
+   "start": "2026-11-26T04:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "x:2125801722698436686",
+   "title": "Wooyoung Birthday MD 'WRAP ME UP' Now on Sale",
+   "url": "https://x.com/ATEEZofficial/status/2125801722698436686",
+   "category": "merch",
+   "members": [
+    "Wooyoung"
+   ]
+  },
+  {
+   "label": "Entry deadline for UP streaming event 2 (GOLDEN HOUR : Part.6)",
+   "start": "2026-11-29T14:59:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "x:2125545748251148538",
+   "title": "UP Streaming Event 2 Entry Open Until Nov 29",
+   "url": "https://x.com/ATEEZofficial/status/2125545748251148538",
+   "category": "release",
+   "members": []
+  },
+  {
+   "label": "Entry deadline for UP streaming event 1 (GOLDEN HOUR : Part.6)",
+   "start": "2026-11-29T14:59:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "x:2125545457917296700",
+   "title": "UP Streaming Event 1 Entry Open Until Nov 29",
+   "url": "https://x.com/ATEEZofficial/status/2125545457917296700",
+   "category": "release",
    "members": []
   },
   {
@@ -98,6 +144,17 @@
    "title": "2027 ATEEZ World Tour [ZERO TO ALL] in Incheon Ticket Schedule Announced",
    "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
    "category": "tour",
+   "members": []
+  },
+  {
+   "label": "2027 SEASON'S GREETINGS release",
+   "start": "2026-12-28T15:00:00Z",
+   "end": null,
+   "has_time": false,
+   "item_id": "x:2125439428265185281",
+   "title": "2027 ATEEZ Season's Greetings pre-orders open, release set for Dec. 29",
+   "url": "https://x.com/ATEEZofficialjp/status/2125439428265185281",
+   "category": "merch",
    "members": []
   },
   {
