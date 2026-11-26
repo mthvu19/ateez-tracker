@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-26T15:06:34Z",
+ "updated": "2026-11-26T15:07:46Z",
  "items": [
+  {
+   "id": "news:tf초점에이티즈네번째빌보드1위보다더빛나는꾸준함",
+   "source": "news",
+   "platform": "News",
+   "account": "더팩트",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXMkhFTTlKTExrLWJiUzJtRlN1bXFPYkkydWc2SmtIVGpDTG9zLWJaVG13UmlHdEpCQWRELUo2NlZKRXp0alIyTjFEM1VXMnl1dE84XzI5RmN4X25X0gFXQVVfeXFMUGp1UzVnUlp4VU1PcVRqLXRiOTZfTEdTb2JfMFRORFBDcW9TSGdYT21mcExMbDg5MVFqVXZ1c3FKVzdadUxySFhXUzNUbHV2MFROSi1Zc0Y0?oc=5",
+   "title": "[TF초점] 에이티즈, 네 번째 빌보드 1위보다 더 빛나는 꾸준함",
+   "text": "[TF초점] 에이티즈, 네 번째 빌보드 1위보다 더 빛나는 꾸준함 더팩트",
+   "images": [],
+   "published": "2026-11-26T15:00:04Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_vi": "ATEEZ đạt Billboard #1 lần thứ tư, được khen vì sự bền bỉ",
+   "summary_vi": "Báo The Fact đăng bài nhận định ATEEZ vừa đạt vị trí số 1 Billboard lần thứ tư, và sự bền bỉ của nhóm còn đáng nổi bật hơn thành tích này.",
+   "ai": true,
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-26T15:07:46Z"
+  },
   {
    "id": "news:에이티즈11월라이징가수브랜드평판1위",
    "source": "news",
@@ -44,6 +64,28 @@
    "title_vi": "Video tiệc sinh nhật của Wooyoung trên kênh YouTube chính thức",
    "summary_vi": "Kênh YouTube chính thức của ATEEZ đăng video tiệc sinh nhật của Wooyoung. Mô tả chỉ có liên kết mạng xã hội của nhóm.",
    "ai": true
+  },
+  {
+   "id": "news:에이티즈우영27번째생일좋아요27만개돌파",
+   "source": "news",
+   "platform": "News",
+   "account": "스타뉴스",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CTkx5NG9vZWJrZndzVHMxSnFuWWZkMk1IcWRoTlpVODFIQXhVYUxXVGZ0TXc4T0hmcWVtTXF2T2hjY3pjMVh6d2Q0dGFWOVZ2bGdvUUJwS3FPRDVhTW1yb1JQSm9vcURaMm1SUHFnSmU4SVk?oc=5",
+   "title": "에이티즈 우영, 27번째 생일..'좋아요' 27만 개 돌파",
+   "text": "에이티즈 우영, 27번째 생일..'좋아요' 27만 개 돌파 스타뉴스",
+   "images": [],
+   "published": "2026-11-26T09:40:51Z",
+   "category": "sns",
+   "members": [
+    "Wooyoung"
+   ],
+   "events": [],
+   "title_vi": "Wooyoung ATEEZ mừng sinh nhật lần thứ 27, lượt thích vượt 270.000",
+   "summary_vi": "Wooyoung nhận được hơn 270.000 lượt thích nhân dịp sinh nhật lần thứ 27 của anh, theo Star News.",
+   "ai": true,
+   "category_label": "SNS",
+   "fetched": "2026-11-26T15:07:46Z"
   },
   {
    "id": "news:ateezswooyoungturns27postsurpasses270000likes",
