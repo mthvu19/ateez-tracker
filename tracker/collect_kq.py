@@ -68,8 +68,13 @@ def fetch_body(http, base, build_id, oid, log=print):
     return ""
 
 
+def content_id(meta):
+    """Danh sach tra ve FEED_ITEM_POST: `id` la ma bai feed, `typeId` moi la ma noi dung (/contents/<typeId>)."""
+    return meta.get("typeId") or meta.get("id")
+
+
 def to_item(meta, body_html, base):
-    oid = meta["id"]
+    oid = content_id(meta)
     pub = meta.get("publishedAt") or meta.get("createdAt")
     try:
         published = iso(datetime.fromisoformat(pub.replace("Z", "+00:00"))) if pub else None
@@ -101,7 +106,7 @@ def collect(cfg, http, known_ids, log=print):
     log(f"[kq] {len(metas)} thong bao tren trang, buildId={build_id}")
     out = []
     for meta in metas:
-        oid = meta.get("id")
+        oid = content_id(meta)
         if not oid or f"kq:{oid}" in known_ids:
             continue
         body = fetch_body(http, base, build_id, oid, log)

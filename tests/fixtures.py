@@ -31,7 +31,8 @@ KQ_BODIES = {
 
 
 def kq_list_html():
-    nd = {"buildId": "BUILD123", "props": {"pageProps": {"data": {"items": KQ_ITEMS}}}}
+    feed = [dict(i, id="feed" + i["id"][4:], type="FEED_ITEM_POST", typeId=i["id"]) for i in KQ_ITEMS]
+    nd = {"buildId": "BUILD123", "props": {"pageProps": {"data": {"items": feed}}}}
     return f'<html><body><script id="__NEXT_DATA__" type="application/json">{json.dumps(nd)}</script></body></html>'
 
 
