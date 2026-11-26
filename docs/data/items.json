@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:58:22Z",
+ "updated": "2026-11-26T15:02:40Z",
  "items": [
   {
    "id": "yt:C-08TgKgpmE",
@@ -14,13 +14,16 @@
     "https://i4.ytimg.com/vi/C-08TgKgpmE/hqdefault.jpg"
    ],
    "published": "2026-11-26T11:09:55Z",
-   "category": "sns",
+   "category": "video",
    "members": [
     "Wooyoung"
    ],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Video tiệc sinh nhật của Wooyoung trên kênh YouTube chính thức",
+   "summary_vi": "Kênh YouTube chính thức của ATEEZ đăng video tiệc sinh nhật của Wooyoung. Mô tả chỉ có liên kết mạng xã hội của nhóm.",
+   "ai": true
   },
   {
    "id": "news:ateezswooyoungturns27postsurpasses270000likes",
@@ -33,13 +36,16 @@
    "text": "ATEEZ's Wooyoung turns 27, post surpasses 270,000 \"likes\" 스타뉴스",
    "images": [],
    "published": "2026-11-26T09:40:51Z",
-   "category": "press",
+   "category": "sns",
    "members": [
     "Wooyoung"
    ],
    "events": [],
-   "category_label": "Press",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "SNS",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Wooyoung bước sang tuổi 27, bài đăng vượt 270.000 lượt thích",
+   "summary_vi": "Wooyoung bước sang tuổi 27 và bài đăng mừng sinh nhật của anh đã vượt 270.000 lượt thích, theo Star News.",
+   "ai": true
   },
   {
    "id": "news:에이티즈우영27번째생일좋아요27만개돌파",
@@ -52,13 +58,16 @@
    "text": "에이티즈 우영, 27번째 생일..'좋아요' 27만 개 돌파 스타뉴스",
    "images": [],
    "published": "2026-11-26T09:40:51Z",
-   "category": "press",
+   "category": "sns",
    "members": [
     "Wooyoung"
    ],
    "events": [],
-   "category_label": "Press",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "SNS",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Wooyoung bước sang tuổi 27, bài đăng vượt 270.000 lượt thích",
+   "summary_vi": "Wooyoung bước sang tuổi 27 và bài đăng mừng sinh nhật của anh đã vượt 270.000 lượt thích, theo Star News.",
+   "ai": true
   },
   {
    "id": "news:ateezwooyoungsinhnhậtlầnthứ27vượtqua270000lượtthích",
@@ -71,11 +80,16 @@
    "text": "ATEEZ Woo Young, sinh nhật lần thứ 27.. vượt qua 270.000 lượt 'thích' 스타뉴스",
    "images": [],
    "published": "2026-11-26T09:40:51Z",
-   "category": "press",
-   "members": [],
+   "category": "sns",
+   "members": [
+    "Wooyoung"
+   ],
    "events": [],
-   "category_label": "Press",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "SNS",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Wooyoung bước sang tuổi 27, bài đăng vượt 270.000 lượt thích",
+   "summary_vi": "Wooyoung bước sang tuổi 27 và bài đăng mừng sinh nhật của anh đã vượt 270.000 lượt thích, theo Star News.",
+   "ai": true
   },
   {
    "id": "news:ateeztopshanteochartsweeklytrendchartforthirdweekofnovemberfollowedbyresceneandi",
@@ -92,7 +106,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Weekly Trend Chart của Hanteo tuần 3 tháng 11",
+   "summary_vi": "ATEEZ đứng đầu bảng Weekly Trend Chart của Hanteo tuần thứ ba tháng 11, theo sau là RESCENE và ILLIT.",
+   "ai": true
   },
   {
    "id": "news:에이티즈1위11월라이징가수브랜드평판정상2위강혜연3위김용빈",
@@ -109,7 +126,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng nhất bảng brand reputation ca sĩ rising tháng 11",
+   "summary_vi": "ATEEZ đứng đầu bảng brand reputation ca sĩ rising tháng 11, Kang Hye-yeon xếp thứ hai và Kim Yong-bin xếp thứ ba.",
+   "ai": true
   },
   {
    "id": "news:2026년47주차써클차트베스티머무르txt에이티즈활약뜨거운인기",
@@ -126,7 +146,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ có tên trong Circle Chart tuần 47/2026",
+   "summary_vi": "Bảng Circle Chart tuần 47/2026 ghi nhận thành tích của Bestie, Mureun, TXT và ATEEZ.",
+   "ai": true
   },
   {
    "id": "news:asea2027본선투표시작bts블랙핑크에이티즈리센느등후보격돌",
@@ -143,7 +166,10 @@
    "members": [],
    "events": [],
    "category_label": "Press",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ nằm trong danh sách đề cử vòng bình chọn chính của ASEA 2027",
+   "summary_vi": "Vòng bình chọn chính của ASEA 2027 đã bắt đầu, với ATEEZ cùng BTS, BLACKPINK và RIIZE trong danh sách đề cử. Tin không nêu thời gian kết thúc bình chọn.",
+   "ai": true
   },
   {
    "id": "news:ateezthanku",
@@ -156,11 +182,14 @@
    "text": "ATEEZ – THANK U The Hype Magazine",
    "images": [],
    "published": "2026-11-26T04:52:08Z",
-   "category": "schedule",
+   "category": "press",
    "members": [],
    "events": [],
-   "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Press",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "The Hype Magazine đăng bài về ATEEZ – THANK U",
+   "summary_vi": "The Hype Magazine đăng bài viết về ATEEZ với tiêu đề 'THANK U'. Nội dung chi tiết không có trong tin.",
+   "ai": true
   },
   {
    "id": "yt:xkhIbVURP6E",
@@ -175,13 +204,16 @@
     "https://i1.ytimg.com/vi/xkhIbVURP6E/hqdefault.jpg"
    ],
    "published": "2026-11-26T03:01:00Z",
-   "category": "sns",
+   "category": "video",
    "members": [
     "Wooyoung"
    ],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Video 'Mini-homepage' của Wooyoung trên kênh YouTube chính thức",
+   "summary_vi": "Kênh YouTube chính thức của ATEEZ đăng video 'Mini-homepage' của Wooyoung theo phong cách trang cá nhân cũ. Nội dung chi tiết không có trong mô tả.",
+   "ai": true
   },
   {
    "id": "news:ateezupremix1",
@@ -198,7 +230,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ phát hành UP (Remix 1)",
+   "summary_vi": "The Hype Magazine đưa tin về bản remix 1 của ca khúc \"UP\". Nội dung tin chỉ có tiêu đề nên chưa rõ thêm chi tiết.",
+   "ai": true
   },
   {
    "id": "news:ateezlậpcúđúpđứngđầubillboard200đồngthờivàohot100ởvịtrí90",
@@ -215,7 +250,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200 và vào Hot 100 ở vị trí 90",
+   "summary_vi": "ATEEZ đạt thành tích kép: đứng đầu bảng Billboard 200 và đồng thời có mặt trên Hot 100 ở vị trí 90.",
+   "ai": true
   },
   {
    "id": "news:ateeztorelease2025japantourblurayanddvdindecember",
@@ -228,11 +266,21 @@
    "text": "ATEEZ to release 2025 Japan tour Blu-ray and DVD in December www.famtimes.co.kr",
    "images": [],
    "published": "2026-11-26T00:12:54Z",
-   "category": "merch",
+   "category": "video",
    "members": [],
-   "events": [],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "events": [
+    {
+     "label": "Phát hành Blu-ray/DVD tour Nhật 2025",
+     "start": "2026-12-01T00:00:00+09:00",
+     "end": null,
+     "has_time": true
+    }
+   ],
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Blu-ray và DVD tour Nhật Bản 2025 của ATEEZ phát hành tháng 12",
+   "summary_vi": "ATEEZ sẽ phát hành Blu-ray và DVD ghi lại tour Nhật Bản 2025 vào tháng 12 năm 2026.",
+   "ai": true
   },
   {
    "id": "news:에이티즈2025월드투어일본공연실황담은블루레이출시",
@@ -245,11 +293,21 @@
    "text": "에이티즈 2025 월드투어 일본 공연 실황 담은 블루레이 출시 www.famtimes.co.kr",
    "images": [],
    "published": "2026-11-26T00:12:54Z",
-   "category": "tour",
+   "category": "video",
    "members": [],
-   "events": [],
-   "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:30:41Z"
+   "events": [
+    {
+     "label": "Phát hành Blu-ray/DVD tour Nhật 2025",
+     "start": "2026-12-01T00:00:00+09:00",
+     "end": null,
+     "has_time": true
+    }
+   ],
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Blu-ray ghi hình tour Nhật Bản 2025 của ATEEZ ra mắt",
+   "summary_vi": "Blu-ray ghi lại buổi diễn tại Nhật Bản trong World Tour 2025 của ATEEZ được phát hành, theo famtimes.",
+   "ai": true
   },
   {
    "id": "news:whatbeinganatinytaughtusthroughateezwooyoungseyes",
@@ -268,7 +326,10 @@
    ],
    "events": [],
    "category_label": "Press",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Góc nhìn của Wooyoung (ATEEZ) về việc trở thành ATINY",
+   "summary_vi": "The Honey POP đăng bài viết xoay quanh góc nhìn của Wooyoung (ATEEZ) về ý nghĩa của việc là ATINY.",
+   "ai": true
   },
   {
    "id": "news:에이티즈11월라이징가수브랜드평판1위강혜연566급등2위",
@@ -285,7 +346,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu bảng brand reputation ca sĩ mới nổi tháng 11",
+   "summary_vi": "ATEEZ xếp hạng 1 trong bảng brand reputation ca sĩ rising tháng 11, Kang Hye-yeon (강혜연) đứng thứ 2 với mức tăng 566%.",
+   "ai": true
   },
   {
    "id": "news:에이티즈라이징가수브랜드평판1위압도적퍼포먼스강혜연2위김용빈3위",
@@ -302,7 +366,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu bảng brand reputation ca sĩ rising",
+   "summary_vi": "ATEEZ đứng thứ 1 trong bảng brand reputation ca sĩ rising, Kang Hye-yeon đứng thứ 2 và Kim Yong-bin đứng thứ 3.",
+   "ai": true
   },
   {
    "id": "news:빅데이터로본다라이징가수2026년11월브랜드평판1위에이티즈2위강혜연3위김용빈",
@@ -319,7 +386,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ dẫn đầu brand reputation ca sĩ rising tháng 11/2026",
+   "summary_vi": "Theo phân tích big data của Ilgan Today, ATEEZ đứng đầu bảng brand reputation ca sĩ rising tháng 11/2026, theo sau là Kang Hye-yeon và Kim Yong-bin.",
+   "ai": true
   },
   {
    "id": "news:에이티즈11월라이징가수브랜드평판1위강혜연566급등",
@@ -336,7 +406,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu brand reputation ca sĩ rising tháng 11",
+   "summary_vi": "ATEEZ đứng thứ 1 trong bảng brand reputation ca sĩ rising tháng 11, trong khi Kang Hye-yeon tăng 566%.",
+   "ai": true
   },
   {
    "id": "news:ateeztopsbillboard200forfourthtimewithgoldenhourpart6",
@@ -353,7 +426,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Golden Hour: Part. 6 của ATEEZ lên đỉnh Billboard 200 lần thứ 4",
+   "summary_vi": "Album Golden Hour: Part. 6 của ATEEZ đứng đầu Billboard 200, đánh dấu lần thứ tư nhóm đạt vị trí này.",
+   "ai": true
   },
   {
    "id": "news:에이티즈빌보드200또정상통산네번째1위",
@@ -370,7 +446,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ lại đứng đầu Billboard 200, lần thứ tư đạt hạng 1",
+   "summary_vi": "Album GOLDEN HOUR: Part.6 của ATEEZ tiếp tục đứng số 1 Billboard 200, đây là lần thứ tư nhóm đạt vị trí này.",
+   "ai": true
   },
   {
    "id": "news:ateeztopsbillboard200forfourthtimewithalbumgoldenhourpart6",
@@ -387,7 +466,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200 lần thứ tư với GOLDEN HOUR: Part.6",
+   "summary_vi": "ATEEZ đạt vị trí số 1 Billboard 200 lần thứ tư nhờ album GOLDEN HOUR: Part.6.",
+   "ai": true
   },
   {
    "id": "news:새역사를쓴에이티즈의골든아워",
@@ -404,7 +486,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Billboard Korea: 'Golden Hour' của ATEEZ viết nên lịch sử mới",
+   "summary_vi": "Billboard Korea đưa tin về thành tích mới của ATEEZ với album GOLDEN HOUR trên bảng xếp hạng Billboard.",
+   "ai": true
   },
   {
    "id": "yt:uF3Gna-1iVY",
@@ -423,7 +508,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đăng video ngắn 'Drip of the Fit' trên YouTube",
+   "summary_vi": "Kênh YouTube của ATEEZ đăng video Shorts 'Drip of the Fit' gắn thẻ GOLDENHOUR_Part6.",
+   "ai": true
   },
   {
    "id": "news:에이티즈美빌보드200네번째정상핫100까지동시섭렵",
@@ -440,7 +528,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ lần thứ tư đứng đầu Billboard 200, đồng thời có mặt trên Hot 100",
+   "summary_vi": "ATEEZ giành vị trí số 1 Billboard 200 lần thứ tư và đồng thời lọt vào Hot 100.",
+   "ai": true
   },
   {
    "id": "news:에이티즈美빌보드앨범싱글차트나란히진입",
@@ -457,7 +548,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ cùng lúc lọt vào bảng album và single Billboard",
+   "summary_vi": "ATEEZ xuất hiện đồng thời trên bảng xếp hạng album và single của Billboard.",
+   "ai": true
   },
   {
    "id": "kq:6b055a0400027c0e6d142829",
@@ -474,20 +568,23 @@
    "members": [],
    "events": [
     {
-     "label": "PRE-ORDER DATE",
-     "start": "2026-11-25T04:00:00Z",
+     "label": "Mở đặt trước (đang diễn ra)",
+     "start": "2026-11-25T13:00:00+09:00",
      "end": null,
      "has_time": true
     },
     {
-     "label": "RELEASE DATE",
-     "start": "2026-12-29T14:59:00Z",
+     "label": "Phát hành SEASON'S GREETINGS 2027",
+     "start": "2026-12-29T00:00:00+09:00",
      "end": null,
-     "has_time": false
+     "has_time": true
     }
    ],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mở đặt trước ATEEZ 2027 SEASON'S GREETINGS 'TEEZVERSE'",
+   "summary_vi": "Đặt trước SEASON'S GREETINGS 2027 'TEEZVERSE' bắt đầu từ 13:00 ngày 25/11/2026 (KST), có thể hết hàng sớm; phát hành ngày 29/12/2026 (không nêu giờ cụ thể). Bán qua KQ SHOP, hello82, Yes24, Berriz, Aladin, Apple Music, Ktown4u và Universal Music Japan.",
+   "ai": true
   },
   {
    "id": "news:에이티즈빌보드뚫었다양대메인차트동시진입",
@@ -504,7 +601,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ lọt vào hai bảng xếp hạng chính của Billboard cùng lúc",
+   "summary_vi": "ATEEZ đồng thời góp mặt trên hai bảng xếp hạng chính của Billboard.",
+   "ai": true
   },
   {
    "id": "news:에이티즈빌보드메인앨범차트1위싱글차트90위",
@@ -521,7 +621,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng số 1 bảng album Billboard, single hạng 90",
+   "summary_vi": "Album của ATEEZ đứng đầu bảng xếp hạng album chính của Billboard, còn ca khúc single đạt hạng 90 trên Hot 100.",
+   "ai": true
   },
   {
    "id": "news:ateeztopsbillboard200ranksno90onhot100",
@@ -538,7 +641,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200, single đạt hạng 90 Hot 100",
+   "summary_vi": "ATEEZ giữ vị trí số 1 Billboard 200 và có ca khúc xếp hạng 90 trên Hot 100 (The Korea Herald).",
+   "ai": true
   },
   {
    "id": "news:ateeztopsbillboard200entershot100",
@@ -555,7 +661,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200 và lọt vào Hot 100",
+   "summary_vi": "ATEEZ đạt vị trí số 1 trên Billboard 200 và có tên trên bảng Hot 100 của Billboard, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:멈추지않는상승세에이티즈美빌보드핫100까지품었다",
@@ -572,7 +681,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ tiếp tục đà tăng, lên bảng Billboard Hot 100",
+   "summary_vi": "Sau đà tăng không ngừng, ATEEZ đã góp mặt trên bảng Billboard Hot 100 của Mỹ, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:에이티즈일냈다美빌보드200핫100동시정복",
@@ -589,7 +701,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ chinh phục cùng lúc Billboard 200 và Hot 100",
+   "summary_vi": "ATEEZ đồng thời đứng đầu Billboard 200 và lọt vào Billboard Hot 100 của Mỹ, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:에이티즈美빌보드핫10090위세번째차트진입",
@@ -606,7 +721,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ vào Billboard Hot 100 ở hạng 90",
+   "summary_vi": "ATEEZ đạt hạng 90 trên Billboard Hot 100, theo tin nêu đây là lần thứ ba nhóm lọt vào một bảng xếp hạng này; tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:ateeztopsbillboard200atno1andhot100atno90",
@@ -623,7 +741,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ số 1 Billboard 200, hạng 90 Hot 100",
+   "summary_vi": "ATEEZ đứng vị trí số 1 trên Billboard 200 và hạng 90 trên Billboard Hot 100, theo The Korea Daily ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:ateeztopsbillboard200entershot100withup",
@@ -640,7 +761,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200, 'UP' lọt vào Hot 100",
+   "summary_vi": "ATEEZ đạt vị trí số 1 Billboard 200, còn ca khúc 'UP' có tên trên Billboard Hot 100, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:ateeztopsthebillboard200andbreaksintothehot100",
@@ -657,7 +781,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200 và vào Hot 100",
+   "summary_vi": "ATEEZ đứng đầu Billboard 200 và đồng thời lọt vào Billboard Hot 100, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:에이티즈빌보드200정상찍고핫100까지뚫었다",
@@ -674,7 +801,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200 rồi lọt vào Hot 100",
+   "summary_vi": "ATEEZ đạt vị trí quán quân Billboard 200 và tiến vào bảng Hot 100 của Billboard, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:ateeztopsbillboard200anddebutsatno90onhot100",
@@ -691,7 +821,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng đầu Billboard 200, debut hạng 90 Hot 100",
+   "summary_vi": "ATEEZ đứng đầu Billboard 200 và ra mắt ở vị trí 90 trên Billboard Hot 100, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:에이티즈美빌보드2001위핫10090위메인차트동시석권",
@@ -708,7 +841,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ giành vị trí trên cả Billboard 200 lẫn Hot 100",
+   "summary_vi": "ATEEZ đứng số 1 Billboard 200 và số 90 Billboard Hot 100, giành vị trí trên hai bảng xếp hạng chính của Mỹ, theo tin đăng ngày 25/11 (KST).",
+   "ai": true
   },
   {
    "id": "news:에이티즈美빌보드2001위핫100도뚫었다초심잃지않을것",
@@ -725,7 +861,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ lại đứng top 1 Billboard 200, title track lọt Hot 100",
+   "summary_vi": "ATEEZ tiếp tục đứng số 1 Billboard 200 của Mỹ và ca khúc chủ đề cũng lọt vào Hot 100. Nhóm nói sẽ \"không quên初心\" (giữ tâm thế ban đầu).",
+   "ai": true
   },
   {
    "id": "news:에이티즈빌보드200또1위핫100까지뚫었다",
@@ -742,7 +881,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:32:09Z"
+   "fetched": "2026-11-26T14:32:09Z",
+   "title_vi": "ATEEZ lại số 1 Billboard 200, ca khúc chủ đề vào Hot 100",
+   "summary_vi": "ATEEZ lại chiếm vị trí số 1 Billboard 200 và ca khúc chủ đề cũng ghi tên trên bảng Hot 100.",
+   "ai": true
   },
   {
    "id": "news:막강에이티즈美빌보드2001위이어hot100도인기몰이거침없는글로벌행보",
@@ -759,7 +901,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:32:09Z"
+   "fetched": "2026-11-26T14:32:09Z",
+   "title_vi": "ATEEZ số 1 Billboard 200, ca khúc chủ đề gây sốt trên Hot 100",
+   "summary_vi": "Sau vị trí số 1 Billboard 200, ca khúc chủ đề của ATEEZ tiếp tục được chú ý trên Hot 100, cho thấy đà phát triển toàn cầu của nhóm.",
+   "ai": true
   },
   {
    "id": "news:powerfulateezaftertoppingtheusbillboard200theirtitletrackalsogainstractionontheh",
@@ -776,7 +921,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ mạnh mẽ: số 1 Billboard 200, title track cũng lên Hot 100",
+   "summary_vi": "Sau khi đứng đầu Billboard 200 của Mỹ, ca khúc chủ đề của ATEEZ cũng bắt đầu được chú ý trên Hot 100.",
+   "ai": true
   },
   {
    "id": "news:nhómateezmạnhmẽtiếptụcchiếmvịtrísố1trênbillboard200củamỹcũnggâysốttrênhot100hành",
@@ -793,7 +941,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ tiếp tục số 1 Billboard 200, gây sốt trên Hot 100",
+   "summary_vi": "ATEEZ tiếp tục chiếm vị trí số 1 trên Billboard 200 của Mỹ và cũng gây sốt trên Hot 100.",
+   "ai": true
   },
   {
    "id": "news:u2ateezellalangleymorecharthighlights",
@@ -810,7 +961,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Tổng hợp bảng xếp hạng: U2, ATEEZ, Ella Langley và các nghệ sĩ khác",
+   "summary_vi": "Billboard điểm lại các nổi bật trên bảng xếp hạng tuần này, trong đó có ATEEZ.",
+   "ai": true
   },
   {
    "id": "news:ateezscoresfourthno1onbillboard200withgoldenhourpart6xrock1039",
@@ -827,7 +981,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ đạt số 1 Billboard 200 lần thứ tư với GOLDEN HOUR : Part.6",
+   "summary_vi": "Album GOLDEN HOUR : Part.6 giúp ATEEZ đứng số 1 Billboard 200, đây là lần thứ tư nhóm đạt vị trí này.",
+   "ai": true
   },
   {
    "id": "news:ateezscoresfourthno1onbillboard200withgoldenhourpart6",
@@ -844,7 +1001,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đạt số 1 Billboard 200 lần thứ tư với GOLDEN HOUR : Part.6",
+   "summary_vi": "GOLDEN HOUR : Part.6 đưa ATEEZ lên vị trí số 1 Billboard 200 lần thứ tư trong sự nghiệp.",
+   "ai": true
   },
   {
    "id": "yt:mVd8pT1IZBo",
@@ -863,7 +1023,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đăng Shorts vui cùng JUST B, quảng bá GOLDEN HOUR Part.6",
+   "summary_vi": "ATEEZ đăng video ngắn quay cùng các thành viên JUST B là 임지민, 배인 và 시우, gắn thẻ GOLDEN HOUR_Part6 và ca khúc Drip.",
+   "ai": true
   },
   {
    "id": "yt:Rx0DXz7VRZo",
@@ -878,20 +1041,21 @@
     "https://i3.ytimg.com/vi/Rx0DXz7VRZo/hqdefault.jpg"
    ],
    "published": "2026-11-24T09:00:01Z",
-   "category": "merch",
-   "members": [
-    "Hongjoong",
-    "Seonghwa",
-    "Yunho",
-    "Yeosang",
-    "San",
-    "Mingi",
-    "Wooyoung",
-    "Jongho"
+   "category": "release",
+   "members": [],
+   "events": [
+    {
+     "label": "Phát hành Blu-ray & DVD IN JAPAN",
+     "start": "2026-12-02T00:00:00+09:00",
+     "end": null,
+     "has_time": true
+    }
    ],
-   "events": [],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Blu-ray & DVD ATEEZ 2025 World Tour IN JAPAN phát hành 2/12",
+   "summary_vi": "Blu-ray và DVD ATEEZ 2025 WORLD TOUR [IN YOUR FANTASY] IN JAPAN sẽ phát hành vào thứ Tư 2/12/2026, kèm danh sách bài hát và các sân khấu solo của từng thành viên. Giờ phát hành cụ thể chưa được nêu.",
+   "ai": true
   },
   {
    "id": "news:에이티즈美빌보드200또1위통산4번째대기록",
@@ -908,7 +1072,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ lại đứng đầu Billboard 200, đạt kỷ lục lần thứ 4",
+   "summary_vi": "Theo Chosun Ilbo, ATEEZ tiếp tục đứng số 1 Billboard 200 của Mỹ, đánh dấu lần thứ 4 nhóm đạt thành tích này.",
+   "ai": true
   },
   {
    "id": "news:ateezlậpkỳtíchlầnthứ4đứngđầubillboard200vươnlênvịtríthứ3tronglịchsửkpop",
@@ -925,7 +1092,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ đứng số 1 Billboard 200 lần 4, xếp thứ 3 lịch sử K-pop",
+   "summary_vi": "Theo Saostar, ATEEZ lập kỳ tích lần thứ 4 đứng đầu Billboard 200 và vươn lên vị trí thứ 3 trong lịch sử K-pop về thành tích này.",
+   "ai": true
   },
   {
    "id": "news:ateezlầnthứtưđứngđầubảngxếphạngbillboard200",
@@ -942,7 +1112,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:58:00Z"
+   "fetched": "2026-11-26T14:58:00Z",
+   "title_vi": "ATEEZ lần thứ tư đứng đầu bảng xếp hạng Billboard 200",
+   "summary_vi": "DKN.TV đưa tin ATEEZ lần thứ tư đứng đầu bảng xếp hạng Billboard 200.",
+   "ai": true
   },
   {
    "id": "news:ateezputthewordsonscreeninupihatemodelsverlyricvideo",
@@ -955,11 +1128,14 @@
    "text": "ATEEZ Put the Words on Screen in ‘UP (I Hate Models Ver.)’ Lyric Video stupidDOPE",
    "images": [],
    "published": "2026-11-24T04:12:11Z",
-   "category": "press",
+   "category": "video",
    "members": [],
    "events": [],
-   "category_label": "Press",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Lyric video 'UP (I Hate Models Ver.)' đưa lời lên màn hình",
+   "summary_vi": "stupidDOPE thông báo lyric video phiên bản 'UP (I Hate Models Ver.)' của ATEEZ đã được phát hành với lời bài hát hiển thị trên màn hình.",
+   "ai": true
   },
   {
    "id": "news:ateezsgoldenhourpart6debutsatno1onbillboard200for4thtime",
@@ -976,7 +1152,10 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "'GOLDEN HOUR: Part 6' debut số 1 Billboard 200, lần thứ 4",
+   "summary_vi": "Album 'GOLDEN HOUR: Part 6' của ATEEZ ra mắt ở vị trí số 1 Billboard 200, là lần thứ 4 nhóm đạt thành tích này theo SBS News.",
+   "ai": true
   },
   {
    "id": "news:ateezputthewordsonscreenindripiönverlyricvideo",
@@ -989,11 +1168,14 @@
    "text": "ATEEZ Put the Words on Screen in ‘Drip (IÖN Ver.)’ Lyric Video stupidDOPE",
    "images": [],
    "published": "2026-11-23T22:20:41Z",
-   "category": "press",
+   "category": "video",
    "members": [],
    "events": [],
-   "category_label": "Press",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Lyric video 'Drip (IÖN Ver.)' đưa lời lên màn hình",
+   "summary_vi": "stupidDOPE đưa tin lyric video phiên bản 'Drip (IÖN Ver.)' của ATEEZ với lời bài hát hiển thị trên màn hình.",
+   "ai": true
   },
   {
    "id": "news:ateezreturnswithgoldenhourpart6andtour",
@@ -1006,11 +1188,14 @@
    "text": "ATEEZ returns with 'GOLDEN HOUR : Part.6' and tour KarloBag.eu",
    "images": [],
    "published": "2026-11-23T21:53:17Z",
-   "category": "tour",
+   "category": "release",
    "members": [],
    "events": [],
-   "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ trở lại với 'GOLDEN HOUR: Part.6' và lịch lưu diễn",
+   "summary_vi": "KarloBag.eu đưa tin ATEEZ comeback với album 'GOLDEN HOUR : Part.6' kèm theo một chuyến lưu diễn; tin chưa nêu ngày cụ thể.",
+   "ai": true
   },
   {
    "id": "news:ateezwriteanewhistoryalltheirownwithgoldenhourpart6dreamofsuperbowlhalftimeshoww",
@@ -1023,11 +1208,14 @@
    "text": "ATEEZ Write a New History All Their Own With ‘GOLDEN HOUR : Part.6’ & Dream of Super Bowl Halftime Show: ‘We’re Still Hungry’ Billboard",
    "images": [],
    "published": "2026-11-23T19:33:05Z",
-   "category": "charts",
+   "category": "press",
    "members": [],
    "events": [],
-   "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Press",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Billboard: ATEEZ viết lịch sử riêng với 'GOLDEN HOUR: Part.6'",
+   "summary_vi": "Billboard đăng bài về thành tích của ATEEZ với 'GOLDEN HOUR : Part.6', trong đó nhóm bày tỏ mong ước được biểu diễn Super Bowl Halftime Show với thông điệp 'We're Still Hungry'.",
+   "ai": true
   },
   {
    "id": "news:에이티즈빌보드2004번째1위",
@@ -1044,7 +1232,30 @@
    "members": [],
    "events": [],
    "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "ATEEZ giành vị trí số 1 Billboard 200 lần thứ 4",
+   "summary_vi": "Dong-A Ilbo đưa tin ATEEZ đạt vị trí số 1 Billboard 200 lần thứ 4 trong sự nghiệp.",
+   "ai": true
+  },
+  {
+   "id": "news:에이티즈美빌보드앨범차트네번째1위",
+   "source": "news",
+   "platform": "News",
+   "account": "국민일보",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2SG1qSlJZaEpYbHd1UGF0d3p1bjFGSV80RTVmakgycmV4VnF3QjVQdEo1WDI5TDlibTdrTDQtNmRfMjhuSzNWSGU1VWNiVVNKMGh5NmhvTUQ?oc=5",
+   "title": "에이티즈, 美 빌보드 앨범 차트 네 번째 1위",
+   "text": "에이티즈, 美 빌보드 앨범 차트 네 번째 1위 국민일보",
+   "images": [],
+   "published": "2026-11-23T16:30:00Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_vi": "ATEEZ đạt số 1 bảng xếp hạng album Billboard Mỹ lần thứ tư",
+   "summary_vi": "ATEEZ tiếp tục đứng đầu bảng xếp hạng album Billboard Mỹ, đây là lần thứ tư nhóm đạt vị trí này. Tin được đăng ngày 23/11/2026.",
+   "ai": true,
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-26T15:02:40Z"
   },
   {
    "id": "news:howateezrosefromasmallkpopagencytofourbillboardno1albums",
@@ -1057,11 +1268,14 @@
    "text": "How Ateez rose from a small K-pop agency to four Billboard No. 1 albums The Straits Times",
    "images": [],
    "published": "2026-11-23T14:35:00Z",
-   "category": "charts",
+   "category": "press",
    "members": [],
    "events": [],
-   "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Press",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Hành trình từ công ty nhỏ đến 4 album số 1 Billboard của ATEEZ",
+   "summary_vi": "The Straits Times viết về quá trình ATEEZ từ một công ty K-pop nhỏ trở thành nhóm có bốn album đứng đầu Billboard.",
+   "ai": true
   },
   {
    "id": "yt:71AEpDUIBtQ",
@@ -1076,11 +1290,14 @@
     "https://i4.ytimg.com/vi/71AEpDUIBtQ/hqdefault.jpg"
    ],
    "published": "2026-11-23T09:00:25Z",
-   "category": "sns",
+   "category": "video",
    "members": [],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Hậu trường thu âm 'Drip' (GOLDENHOUR Part.6)",
+   "summary_vi": "Video hậu trường ghi lại quá trình thu âm bài 'Drip' thuộc GOLDENHOUR Part.6, đăng ngày 23/11/2026.",
+   "ai": true
   },
   {
    "id": "yt:m5ImCcKHoLk",
@@ -1099,7 +1316,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Short ATEEZ cùng 유준 (Xikers) làm trò ngầu",
+   "summary_vi": "Short ngắn ATEEZ hợp tác cùng 유준 của Xikers, đăng ngày 23/11/2026 kèm hashtag GOLDENHOUR_Part6 và Drip.",
+   "ai": true
   },
   {
    "id": "kq:6b03a69e00027c0e6d14274b",
@@ -1116,7 +1336,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Album 'Drip (IÖN Ver.)' đã phát hành trên các nền tảng nhạc",
+   "summary_vi": "KQ Entertainment thông báo album 'Drip (IÖN Ver.)' đã được phát hành lúc 14:00 ngày 23/11/2026 trên Melon, Spotify, Apple Music, YouTube Music và nhiều nền tảng khác.",
+   "ai": true
   },
   {
    "id": "yt:KpJuKwusa24",
@@ -1131,11 +1354,14 @@
     "https://i4.ytimg.com/vi/KpJuKwusa24/hqdefault.jpg"
    ],
    "published": "2026-11-23T05:00:05Z",
-   "category": "sns",
+   "category": "video",
    "members": [],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Lyric video 'Drip (IÖN Ver.)' ra mắt",
+   "summary_vi": "Lyric video chính thức của 'Drip (IÖN Ver.)' được đăng lên kênh YouTube ngày 23/11/2026.",
+   "ai": true
   },
   {
    "id": "yt:f4nSm4WQGgg",
@@ -1154,7 +1380,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Short 'Yeah we go' UP cùng 임지민 (JUSTB)",
+   "summary_vi": "Short 'Yeah we go' với 임지민 của JUSTB, đăng ngày 22/11/2026 kèm hashtag UP.",
+   "ai": true
   },
   {
    "id": "yt:8ynzy61ZjpU",
@@ -1173,7 +1402,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Short 'Yeah we go' UP cùng 웨인 (XODIAC)",
+   "summary_vi": "Short 'Yeah we go' với 웨인 của XODIAC, đăng ngày 22/11/2026 kèm hashtag UP.",
+   "ai": true
   },
   {
    "id": "yt:D_uaa-hsELc",
@@ -1192,7 +1424,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Short 'Chỉ huy cả dàn symphony' thuộc UP",
+   "summary_vi": "Short ATEEZ với nội dung 'trực tiếp chỉ huy cả symphony', đăng ngày 21/11/2026 kèm hashtag UP.",
+   "ai": true
   },
   {
    "id": "yt:kMJcO2jJt6c",
@@ -1211,7 +1446,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Short '8 năm vẫn join Tension' thuộc UP",
+   "summary_vi": "Short ATEEZ với câu '8 năm vẫn join Tension', đăng ngày 21/11/2026 kèm hashtag UP.",
+   "ai": true
   },
   {
    "id": "yt:sLo-xY2g2pE",
@@ -1226,11 +1464,14 @@
     "https://i4.ytimg.com/vi/sLo-xY2g2pE/hqdefault.jpg"
    ],
    "published": "2026-11-21T03:00:06Z",
-   "category": "sns",
+   "category": "video",
    "members": [],
    "events": [],
-   "category_label": "SNS",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Dance practice 'UP' (MATRIX Ver.) đã lên kênh YouTube",
+   "summary_vi": "Video dance practice bài 'UP' phiên bản MATRIX Ver. được đăng ngày 21/11/2026.",
+   "ai": true
   },
   {
    "id": "yt:w1lsKHPY8E8",
@@ -1249,7 +1490,10 @@
    "members": [],
    "events": [],
    "category_label": "Video",
-   "fetched": "2026-11-26T14:30:41Z"
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Short 'Switch' 🆙 thuộc UP",
+   "summary_vi": "Short ngắn 'Switch' thuộc chiến dịch UP, đăng ngày 20/11/2026.",
+   "ai": true
   },
   {
    "id": "yt:34I3fla2z7s",
@@ -1264,11 +1508,14 @@
     "https://i4.ytimg.com/vi/34I3fla2z7s/hqdefault.jpg"
    ],
    "published": "2026-11-20T09:00:06Z",
-   "category": "release",
+   "category": "video",
    "members": [],
    "events": [],
-   "category_label": "Release",
-   "fetched": "2026-11-26T14:30:41Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:30:41Z",
+   "title_vi": "Phim hậu trường MV 'UP' của ATEEZ được phát hành",
+   "summary_vi": "ATEEZ đăng phim hậu trường quay MV 'UP' thuộc chuỗi GOLDENHOUR : Part.6 trên kênh YouTube chính thức.",
+   "ai": true
   },
   {
    "id": "kq:6afd3fe7ccee951db8944630",
@@ -1285,7 +1532,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Phát hành 'UP (Remix 3)' của ATEEZ",
+   "summary_vi": "Album 'UP (Remix 3)' đã được phát hành trên các nền tảng nhạc lúc 14:00 ngày 19/11 (KST).",
+   "ai": true
   },
   {
    "id": "kq:6afd2e2dccee951db8944613",
@@ -1304,7 +1554,10 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "San phát hành OST 'Not Like Lovin Me' cho phim 'Nine to Six'",
+   "summary_vi": "San tham gia OST 'Not Like Lovin Me' của phim truyền hình SBS 'Nine to Six', được phát hành lúc 18:00 ngày 18/11 (KST).",
+   "ai": true
   },
   {
    "id": "kq:6afd2c6e641b4b6b49a24329",
@@ -1321,7 +1574,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Phát hành 'UP (Remix 2)' của ATEEZ",
+   "summary_vi": "Album 'UP (Remix 2)' đã được phát hành trên các nền tảng nhạc lúc 14:00 ngày 18/11 (KST).",
+   "ai": true
   },
   {
    "id": "kq:6afad8d4641b4b6b49a24222",
@@ -1335,19 +1591,13 @@
    "images": [],
    "published": "2026-11-17T05:20:46Z",
    "category": "release",
-   "members": [
-    "Hongjoong",
-    "Seonghwa",
-    "Yunho",
-    "Yeosang",
-    "San",
-    "Mingi",
-    "Wooyoung",
-    "Jongho"
-   ],
+   "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Phát hành digital single 'UP' với các phiên bản unit",
+   "summary_vi": "Digital single 'UP' được phát hành ngày 17/11 (KST), gồm 4 phiên bản unit (Hongjoong&Jongho, Mingi&Yeosang, Seonghwa&San, Yunho&Wooyoung) và bản unit collection.",
+   "ai": true
   },
   {
    "id": "kq:6afa8bf02e54bd45e11e9f9e",
@@ -1364,7 +1614,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Phát hành 'UP (Orchestra Ver.)' của ATEEZ",
+   "summary_vi": "Phiên bản 'UP (Orchestra Ver.)' đã được phát hành trên các nền tảng nhạc lúc 14:00 ngày 16/11 (KST).",
+   "ai": true
   },
   {
    "id": "kq:6af44505f0d69d09142fc279",
@@ -1381,7 +1634,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Phát hành album 'GOLDEN HOUR : Part.6' của ATEEZ",
+   "summary_vi": "Album 'GOLDEN HOUR : Part.6' đã được phát hành trên các nền tảng nhạc lúc 14:00 ngày 13/11 (KST).",
+   "ai": true
   },
   {
    "id": "kq:6ae94a808d38027a8d6b8b65",
@@ -1398,74 +1654,71 @@
    "members": [],
    "events": [
     {
-     "label": "공연일시",
-     "start": "2027-01-22T10:00:00Z",
+     "label": "Chứng nhận membership KR",
+     "start": "2026-12-01T14:00:00+09:00",
+     "end": "2026-12-03T23:59:00+09:00",
+     "has_time": true
+    },
+    {
+     "label": "Chứng nhận membership Global",
+     "start": "2026-12-01T14:00:00+09:00",
+     "end": "2026-12-07T23:59:00+09:00",
+     "has_time": true
+    },
+    {
+     "label": "Presale membership KR",
+     "start": "2026-12-03T20:00:00+09:00",
+     "end": "2026-12-03T23:59:00+09:00",
+     "has_time": true
+    },
+    {
+     "label": "Presale membership Global",
+     "start": "2026-12-07T20:00:00+09:00",
+     "end": "2026-12-07T23:59:00+09:00",
+     "has_time": true
+    },
+    {
+     "label": "Mở bán vé thường",
+     "start": "2026-12-08T20:00:00+09:00",
      "end": null,
      "has_time": true
     },
     {
-     "label": "공연일시",
-     "start": "2027-01-23T08:00:00Z",
+     "label": "Presale ghế xe lăn (membership)",
+     "start": "2026-12-08T09:00:00+09:00",
+     "end": "2026-12-08T17:59:00+09:00",
+     "has_time": true
+    },
+    {
+     "label": "Mở bán ghế xe lăn (qua điện thoại)",
+     "start": "2026-12-09T09:00:00+09:00",
      "end": null,
      "has_time": true
     },
     {
-     "label": "공연일시",
-     "start": "2027-01-24T07:00:00Z",
+     "label": "Concert ngày 1 tại Incheon",
+     "start": "2027-01-22T19:00:00+09:00",
      "end": null,
      "has_time": true
     },
     {
-     "label": "국내/글로벌 멤버십 선예매 서베이 작성",
-     "start": "2026-11-23T10:00:00Z",
-     "end": "2026-11-25T14:59:00Z",
-     "has_time": true
-    },
-    {
-     "label": "국내 멤버십 선예매 인증",
-     "start": "2026-12-01T05:00:00Z",
-     "end": "2026-12-03T14:59:00Z",
-     "has_time": true
-    },
-    {
-     "label": "글로벌 멤버십 선예매 인증",
-     "start": "2026-12-01T05:00:00Z",
-     "end": "2026-12-07T14:59:00Z",
-     "has_time": true
-    },
-    {
-     "label": "국내 멤버십 선예매 티켓 오픈",
-     "start": "2026-12-03T11:00:00Z",
-     "end": "2026-12-03T14:59:00Z",
-     "has_time": true
-    },
-    {
-     "label": "글로벌 멤버십 선예매 티켓 오픈",
-     "start": "2026-12-07T11:00:00Z",
-     "end": "2026-12-07T14:59:00Z",
-     "has_time": true
-    },
-    {
-     "label": "일반예매 티켓 오픈",
-     "start": "2026-12-08T11:00:00Z",
+     "label": "Concert ngày 2 tại Incheon",
+     "start": "2027-01-23T17:00:00+09:00",
      "end": null,
      "has_time": true
     },
     {
-     "label": "휠체어석 멤버십 선예매",
-     "start": "2026-12-08T00:00:00Z",
-     "end": null,
-     "has_time": true
-    },
-    {
-     "label": "휠체어석 예매",
-     "start": "2026-12-09T00:00:00Z",
+     "label": "Concert ngày 3 tại Incheon",
+     "start": "2027-01-24T16:00:00+09:00",
      "end": null,
      "has_time": true
     }
    ],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mở bán vé 2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN INCHEON",
+   "summary_vi": "Concert tại NAVER ARENA at INSPIRE (Incheon) diễn ra 22-24/01/2027. Vé qua NOL: presale membership KR ngày 03/12, Global ngày 07/12, bán thường ngày 08/12 lúc 20:00 (KST); chứng nhận membership từ 01/12.",
+   "ai": true
   },
   {
    "id": "kq:6ae55fa78d38027a8d6b8aa5",
@@ -1478,13 +1731,16 @@
    "text": "안녕하세요.\n\nKQ엔터테인먼트입니다.\n\nATEEZ 멤버 홍중의 MBC ‘쇼! 음악중심’ 출연 관련하여 안내드립니다.\n\n홍중은 금일 방송 예정인 MBC ‘쇼! 음악중심’에 출연할 예정이었으나, 앞서 안내드린 건강상의 이유로 인해 부득이하게 참석하지 못하게 되었습니다.\n\n당사는 아티스트의 건강 회복을 최우선으로 고려하여 충분한 휴식과 안정을 취할 수 있도록 최선을 다하고 있습니다.\n\n홍중의 출연을 기다려주신 팬 여러분께 양해 부탁드리며, 홍중이 빠르게 건강을 회복할 수 있도록 최 선을 다하겠습니다.\n\n감사합니다.",
    "images": [],
    "published": "2026-10-31T06:10:00Z",
-   "category": "schedule",
+   "category": "official",
    "members": [
     "Hongjoong"
    ],
    "events": [],
-   "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Hongjoong vắng mặt tại 'Show! Music Core' vì lý do sức khỏe",
+   "summary_vi": "KQ Entertainment thông báo Hongjoong không thể tham gia 'Show! Music Core' (MBC) do vấn đề sức khỏe, công ty ưu tiên cho nghỉ ngơi để hồi phục.",
+   "ai": true
   },
   {
    "id": "kq:6ae4517b1f4e424aa8b92617",
@@ -1497,13 +1753,16 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ 멤버 홍중의 KBS2 ‘뮤직뱅크’ 출연 관련하여 안내드립니다.\n\n홍중은 금일 방송 예정인 KBS2 ‘뮤직뱅크’에 출연할 예정이었으나, 앞서 안내드린 건강상의 이유로 인해 부득이하게 참석하지 못하게 되었습니다.\n\n당사는 아티스트의 건강 회복을 최우선으로 고려하여 충분한 휴식과 안정을 취할 수 있도록 최선을 다하고 있습니다.\n\n홍중의 출연을 기다려주신 팬 여러분께 양해 부탁드리며, 홍중이 빠르게 건강을 회복할 수 있도록 최선을 다하겠습니다.\n\n감사합니다.",
    "images": [],
    "published": "2026-10-30T08:12:43Z",
-   "category": "schedule",
+   "category": "official",
    "members": [
     "Hongjoong"
    ],
    "events": [],
-   "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Hongjoong vắng mặt tại 'Music Bank' vì lý do sức khỏe",
+   "summary_vi": "KQ Entertainment thông báo Hongjoong không thể tham gia 'Music Bank' (KBS2) do vấn đề sức khỏe, công ty ưu tiên cho nghỉ ngơi để hồi phục.",
+   "ai": true
   },
   {
    "id": "kq:6ae357ae92e3571155a045e6",
@@ -1518,11 +1777,14 @@
    "published": "2026-10-29T23:15:00Z",
    "category": "schedule",
    "members": [
-    "Wooyoung"
+    "Yunho"
    ],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Yunho vắng mặt ghi hình Immortal Songs 2 vì lý do sức khỏe",
+   "summary_vi": "KQ Entertainment thông báo Yunho không thể tham gia ghi hình Immortal Songs 2 (KBS2) do lý do sức khỏe. Công ty yêu cầu fan thông cảm và cho biết sẽ ưu tiên nghỉ ngơi để anh hồi phục.",
+   "ai": true
   },
   {
    "id": "kq:6ae2064e92e3571155a0458c",
@@ -1538,11 +1800,14 @@
    "category": "schedule",
    "members": [
     "Hongjoong",
-    "Wooyoung"
+    "Yunho"
    ],
    "events": [],
    "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Hongjoong và Yunho vắng mặt ghi hình Knowing Bros vì sức khỏe",
+   "summary_vi": "KQ Entertainment thông báo Hongjoong và Yunho không thể ghi hình Knowing Bros (JTBC) vì lý do sức khỏe. Công ty đề nghị fan thông cảm và hứa sẽ hỗ trợ hai thành viên hồi phục nhanh.",
+   "ai": true
   },
   {
    "id": "kq:6adf21ad92e3571155a044a6",
@@ -1555,7 +1820,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) 공개방송 신청 관련 공통 유의사항을 아래와 같이 안내해 드립니다.\n공개방송 참여를 원하시는 분들께서는 아래 내용을 반드시 숙지하신 후 참여해주시기 바랍니다.\n\n★ ATINY 공개방송 필수 준비물 ★\n\n음반\n\nATEEZ [GOLDEN HOUR : Part.6] 음반 실물 (총 5종)\n\n* 실물 음반은 아래 구성품이 모두 있어야만 인정됩니다.\n\n▶ A / D / Z VER. *각 1종씩 총 3종 또는 3종 세트\n\n* 앨범 구성품(아웃 슬리브+CD) 포함된 완제품\n* 버전 중복은 2종으로 인정되지 않습니다.\n\n▶ DIGIPACK VER. *12종 중 1종 (버전 무관)\n\n* 앨범 구성품(커버+북클릿+CD ) 포함된 완제품\n\n▶ POCAALBUM VER. *3종 중 1종\n\n* 앨범 구성품(커버+QR카드) 포함된 완제품\n\nor\n\n▶ [GOLDEN HOUR : Part.6] TOKTOQ SET\n* 모바일 구매 내역서\n\n음원\n\n1. ATEEZ [GOLDEN HOUR : Part.6] 전곡 개별곡 구매 내역서\n2. 본인 확인 내역서 (멜론) 확인\n\n* 전곡(5곡) 제목이 잘리지 않도록 인쇄해 주셔야 인정됩니다.\n* 음원 인증 관련 모든 내역서는 음원 사이트 ‘멜론’의 실물 인쇄 내역서로만 확인 가능합니다.\n\n출\n\n석\n\n판\n\n음반/음원 최초 1회 인증 시에는 실물 지참이 필수이며,\n이후 인증 스티커가 부착된 [GOLDEN HOUR : Part.6] 출석판 소지 시\n음반/음원 실물 없이 출석판으로 인정됩니다.\n\n※ 출석판 및 음반&음원 스티커를 소지하지 않으신 분들은 음반&음원 실물 준비물을 모두 지참해 주시기 바랍니다.\n\n그 외\n1. 공식 응원봉 (ver.2 또는 ver.3)\n2. 본인 신분증\n3. TOKTOQ 내 ATINY 디지털 멤버십 카드 ONLY\n\n* 하기 상세 내용 꼭 확인 부탁드립니다.\n\n1. 공개방송 참여 기준\n\n☑️ 기준일\n\n- 2026년 10월 7일 오후 11시 59분(KST)까지\n- ATINY 멤버십에 가입한 회원만 공개방송 참여가 가능합니다.\n\n☑️ 공개방송 참여 조건 확인 방법\n\n- [오른쪽 상단 프로필 클릭 > 내 멤버십] 메뉴에서 디지털 멤버십 카드 상단의 최초 가입일을\n확인 한 후 공개방송 참여 여부를 확인해 주세요.\n- 만약 유효기간(멤버십 시작일)이 공개방송 참여 기준일 이후일 경우, 공개방송 참여자 명단에서 제외됩니다.\n\n☑️ 만료 이후 가입자\n\n- 멤버십 만료된 시점부터 15일 이후 재가입 시, 신규 가입자로 분류되어 디지털 멤버십 카드에 새로운 가입일이 기재됩니다.\n- 해당 가입자의 경우 최초 가입일이 유지되지 않아 공개방송에 참여할 수 없습니다.\n\n☑️ 예시\n\n멤버십 이용 기간: 2025년 5월 28일 10:00 ~ 2026년 5월 28일 10:00\n\n* 만료된 시점부터 15일 이내인 2026년 6월 11일 10:00까지 재가입 시, 최초 가입일 2025년 5월 28일이 유지되어 공개방송 참여 가능\n\n* 만료된 시점부터 15일 이후인 2026년 6월 11일 10:01 이후 가입 시, 신규 가입자로 간주되어 공개방송 참여 불가\n\n2. 입장 관련 유의사항\n\n☑️ 입장 및 명단 확인 순서: 기존 명단 → 예비 → 지각\n\n- 모든 물품을 소지하고, 명단 확인 시간을 엄수 하신 경우 기존 명단(순서) 번호 부여\n- 출석 체크 후 배부된 번호표 스티커는 분실 시 재배부 및 입장 불가합니다.\n\n☑️ 지각\n\n- 명단 확인 시작 이후 현장에 도착하신 경우, 도착 순서대로 지각 번호가 부여됩니다.\n(예: 오전 7시 명단 확인 시작 시, 오전 7시 1분부터 지각 처리)\n- 기존 명단 번호와 무관하게 마지막 순서로 입장하며, 제한 인원 초과 시 입장이 불가합니다.\n- 마지막 번호대의 인원 체크 시작 시간으로부터 30분 이내에 지각 대기 라인에 도착하셔야 인원 체크가 가능합니다.\n(예: 301번~350번의 본인 확인 시간이 오전 7시인 경우, 오전 7시 30분까지 지각 대기 라인 도착)\n- 본인 확인이 완료될 때까지 대기 순서를 유지해 주시기 바랍니다. 대기 순서를 유지하지 않은 경우, 인원 체크 시 대기열의 마지막 순서로 배정될 수 있습니다.\n\n☑️ 준비물 누락\n\n- 준비물을 모두 지참하신 후, 마지막 번호대의 인원 체크 시작 시간으로부터 30분 이내에 지각 대기 라인에 다시 줄을 서 주셔야 합니다. 본인 확인 후, 대기 순서대로 지각 번호가 부여됩니다.\n(예: 301번~350번의 본인 확인 시간이 오전 7시인 경우, 오전 7시 30분까지 지각 대기 라인 도착)\n- 본인 확인이 완료될 때까지 대기 순서를 유지해 주시기 바랍니다. 대기 순서를 유지하지 않은 경우, 인원 체크 시 대기열의 마지막 순서로 배정될 수 있습니다.\n- 해당 시간 내에도 준비물 확인이 어려운 경우, 출석 체크 및 입장이 불가합니다.\n\n3. 공식 응원봉 확인\n\n- 공식 응원봉 ver.2 또는 ver.3 실물만 인증 가능하며 정상 작동 여부를 확인합니다.\n* 구매 내역서 불가\n\n4. 신분증 확인 (본인 확인 가능한 사진 필수)\n\n- 실물 : 주민등록증, 운전면허증, 여권(만료 전), 청소년증(주민센터 발급), 외국인등록증\n- 모바일 : 정부24, 행정안전부&경찰청, PASS 발급 (캡처본 확인 불가)\n\n* 현장 확인 시 본인이라고 판단하기 어려울 경우, 추가 인증 방법을 요청할 수 있습니다.\n* 신분증 미지참자는 어떠한 경우라도 입장이 불가합니다.\n\n5. ATINY 멤버십 확인\n\n- [디지털 멤버십 카드]만 인증 가능합니다.\n\n- 현장에서 제시하시는 멤버십 카드와 신분증 대조로 본인 확인이 진행됩니다.\n\n→ 서베이 신청 시 작성한 [이름/생년월일]과 멤버십 카드 및 신분증 정보 불일치 시 입장 불가합니다.\n\n6. [GOLDEN HOUR : Part.6] 음원 확인\n\n[GOLDEN HOUR : Part.6] 음원\n\n전곡 구매 (개별곡) 내역서 & 본인 확인 내역서 (멜론)\n\n* 음원 인증 관련 모든 내역서는 음원 사이트 ‘멜론’의 실물 인쇄 내역서로만 확인 가능합니다.\n\n* 전곡(5곡) 제목이 잘리지 않도록 인쇄해 주셔야 인정됩니다.\n\n* 실물 내역서로 인증 받으신 후에도 음원 스티커를 배부 받아야 입장이 가능합니다. 음원 스티커가 없는 경우, 입장 시 준비물을 반드시 지참해야합니다.\n\n- 음원 인증 관련 모든 내역서는 음원사이트 ‘멜론’의 실물 인쇄 내역서로만 확인 가능합니다.\n- 음원 구매 확인 페이지 내 [닉네임] + 본인 회원 정보 페이지 내 [닉네임]이 일치하고, 본인 확인이 되어야 인증 가능합니다.\n- 실물 인쇄 내역서 내 텍스트가 명확하게 확인되지 않을 경우 인증 불가합니다.\n- 멜론 ID가 본인이 아닌 가족 명의일 경우 가족관계증명서 함께 지참 부탁드립니다. 관계 증명이 불가한 인물은 인정되지 않습니다.\n- 개별곡이 아닌 MP3, DCF, FLAC, 정액제, 이용권 다운로드는 인정되지 않습니다.\n\n7. [GOLDEN HOUR : Part.6] 음반 확인\n\n- 실물 음반은 아래 구성품이 모두 있어야만 인정됩니다. (총 5종)\n\n음반\n\nATEEZ [GOLDEN HOUR : Part.6] 실물 앨범 (5종)\n\nor\n\nATEEZ [GOLDEN HOUR : Part.6] TOKTOQ SET VER. 모바일 구매 내역서\n\n* 공개방송 종료 후에는 구매를 취소할 수 없습니다. 인원 체크 이후 구매를 취소한 사실이 확인되면 불이익이 있을 수 있으며, 추후 공개방송 참여 시 구매 내역을 다시 확인할 수 있습니다.\n\n☑️ ATEEZ [GOLDEN HOUR : Part.6] 앨범 (5종) 기준 :\n\n▶ A / DIARY / Z VER. *각 1종씩 총 3종 또는 3종 세트\n- 앨범 구성품(아웃 슬리브+CD) 포함된 완제품\n*버전 중복은 2종으로 인정되지 않습니다.\n\n▶DIGIPACK VER. *12종 중 1종 (버전 무관)\n- 앨범 구성품(커버+북클릿+CD) 포함된 완제품\n\n▶ POCAALBUM VER. *3종 중 1종\n- 앨범 구성품(커버+QR카드) 포함된 완제품\n\n☑️ [TOKTOQ SET VER.] 구매자\n\n- 모바일 구매 내역으로 확인 가능\n\n8. KIT 배부 관련\n\n- 공개방송 참여자 중 본인 확인 완료 및 준비물을 모두 지참하신 ATINY분들께 최초 참여 1회에 한해 ‘GOLDEN HOUR Part.6 KIT(이하 KIT)’ 제공 예정입니다.\n- Drip 활동 참여자의 경우 재배부가 불가한 점 참고 부탁드립니다.\n\n* 발매 이후 진행되는 공개방송 참여자의 경우 음반 (5종) 실물(또는 TOKTOQ SET VER. 모바일 구매 내역서), [GOLDEN HOUR : Part.6] 전곡 음원 내역서 확인 후에 음반&음원 인증 스티커와 함께 ‘KIT’가 배부됩니다.\n\n9. 인증 스티커 배부 관련\n\n☑️ ‘Drip’ 공개방송\n\n- 음원 인증 스티커: ‘Drip’ 활동 기간에는 [GOLDEN HOUR Part.6] 전곡 음원 다운로드가 불가하므로 스티커가 배부되지 않습니다. 단, ‘Drip’ 공개방송에 한해 위 안내된 음원을 모두 다운로드한 경우 인증 스티커 배부와 상관없이 입장 가능합니다.\n- 음반 인증 스티커: TOKTOQ 세트 구매 내역 확인 시 수령 가능합니다. 그 외 판매처의 구매 내역서로도 입장은 가능하나, 스티커는 추후 실물 앨범 확인 후 수령 가능합니다.\n- KIT 인증 스티커 및 KIT: 위 ‘ATINY 공개방송 필수 준비물’에 따른 음반, 음원 인증을 모두 완료한 경우 제공됩니다. [GOLDEN HOUR Part.6] KIT는 ‘Drip’, ‘UP’ 사전녹화를 모두 포함하여 첫 참여 시 1회만 제공됩니다.\n\n☑️ ‘UP’ 공개방송\n\n- ‘Drip’ 공개방송 참여자도 인증 스티커를 받지 못한 항목의 준비물을 반드시 지참해야 합니다. 준비물은 위 ‘ATINY 공개방송 필수 준비물’을 확인해 주시기 바랍니다.\n- 해당 준비물을 지참하지 않은 경우, ‘Drip’ 공개방송 참여 이력과 관계없이 당일 입장 및 인증 스티커 수령이 불가합니다.\n\n10. 페널티 관련\n\n- 준비물 양도 또는 대여 적발 시 영구 블랙리스트 처리\n- 음악방송 1회 불참 시 or 명단 확인 완료 후 무단 이탈 시 3개월 이내 공개방송 참여 불가\n- ATEEZ 멤버, KQ 관계자 혹은 타 아티스트의 개인 정보를 기재하여 서베이 신청하는 경우 페널티 부과하여 3개월 이내 공개방송 참여 불가\n\n★ 유의사항 ★\n\n1. 명단 확인 시 유의사항\n\n- 명단 확인 5~10분 전 본인 번호에 맞춰 두 줄로 대기해 주시기 바랍니다.\n- 명단 확인 시 본인 번호의 자리를 지켜 주시지 않는 경우, 현장에 계시더라도 지각으로 간주되어 사전 번호는 무효 처리되며 지각자 순서 번호로 배부됩니다.\n- 현장 참여는 불가합니다.\n\n2. 공개방송 녹화 및 생방송 중 유의사항\n\n- 방송 내용 보안 유지상 내용 발설을 자제해 주시기 바랍니다.\n- ATEEZ(에이티즈) 공식 응원봉을 제외한 개인 응원 도구, 비공식 굿즈 등은 사용 불가합니다.\n- 녹화 및 생방송 진행 중 중도 퇴장 및 무단 이탈은 불가합니다.\n(중도 퇴장 및 무단 이탈 시 제공된 물품은 회수)\n- 스탠딩석은 안전 사고의 위험이 있으므로, 입장 전/후에 과도하게 밀거나 뛰지 않도록 질서를 지켜주시기 바랍니다.\n- 방송사 규정에 따라 스탠딩석 입장 시 [키 제한]이 있을 수 있습니다. 이 경우 입장 번호(순서)의 변동이 발생할 수 있습니다.\n- 녹화 및 생방송에 참여하신 분들은 방송에 노출될 수 있으므로 동의하시는 분들만 참여해주시기 바랍니다.\n\n* 위 수칙을 어길 경우 즉시 강제 퇴장될 수 있으며 재입장하실 수 없습니다.\n\n3. 에티켓 관련 유의사항\n\n- 현장 경호팀, 타 팬덤, 모든 스태프 등과 마찰이 생길 수 있는 발언 및 행동은 삼가시기 바랍니다.\n- 본인이 대기, 착석했던 자리에 남겨진 소지품은 이동 전 반드시 확인하여 주시고 대기 장소, 녹화장에 쓰레기를 버리지 말아 주시기 바랍니다.\n- 출근길, 퇴근길 등에서 멤버들이 탑승한 차량을 쫓아가거나 차도로 뛰어드는 행동 적발 시 블랙리스트 처리됩니다.\n- 팬은 가수의 이미지입니다. 질서 있는 팬덤 문화 형성 부탁드립니다.\n\n4. 기타 유의사항\n\n- 편지를 제외한 선물은 일체 받지 않고 있습니다.\n- 편지는 공개방송 및 팬사인회 등 공개 스케줄 시 현장…",
    "images": [],
    "published": "2026-10-27T08:00:00Z",
-   "category": "schedule",
+   "category": "official",
    "members": [],
    "events": [
     {
@@ -1583,8 +1848,11 @@
      "has_time": true
     }
    ],
-   "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Lưu ý chung khi tham gia công khai ghi hình (phiên bản 261111)",
+   "summary_vi": "KQ Entertainment hướng dẫn điều kiện tham gia công khai ghi hình, gồm album GOLDEN HOUR : Part.6 (bản vật lý hoặc TOKTOQ SET), chứng nhận nghe nhạc trên Melon, thẻ thành viên ATINY và lightstick chính thức ver.2 hoặc ver.3. Mốc tính điều kiện thẻ thành viên là 23:59 ngày 7/10/2026 (KST).",
+   "ai": true
   },
   {
    "id": "kq:6ad8c85cba711e7b9ec3e482",
@@ -1601,7 +1869,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "GOLDEN HOUR : Part.6 <Drip> chính thức phát hành trên các nền tảng nhạc số",
+   "summary_vi": "Ca khúc <Drip> thuộc GOLDEN HOUR : Part.6 đã được công bố trên các nền tảng nhạc trực tuyến từ 13:00 ngày 23/10 (KST). Danh sách gồm Melon, Genie, FLO, Bugs, VIBE, Spotify, Apple Music và YouTube Music.",
+   "ai": true
   },
   {
    "id": "kq:6ad9b5e14967a71da7f9e7d3",
@@ -1614,16 +1885,8 @@
    "text": "안녕하세요.\nKQ 엔터테인먼트입니다.\n\n💌💭 ㄱr끔은 ュ んı절으l øłl○l티즈ㄱr ュ립⊂ト… 💭💌\n\nATEEZ의 8주년을 맞이하여 ATINY의 마음속에 오래도록 남아 있는 레전드 모먼트를 다시 만나보는 특별한 라이브를 준비했습니다!\n\n한 번 보면 잊을 수 없었던 스타일링부터 지금까지도 회자되는 그 시절의 비주얼까지!\n멤버별로 준비된 이상형 월드컵에 참여해 ATINY의 마음을 사로잡았던 순간을 골라 주세요🗳️💗\n\n■ 참여 기간: 2026년 10월 22일 (목) 오후 6:00 (KST) ~ 2026년 10월 23일 (금) 오후 6:00 (KST)\n\n■ 비밀번호: 우己l口ざ으l ブl념일 ♡゛(*4자리)\n\n■ 참여 링크\n\n🐿️ [가끔은 김홍중이 그립다...]\n\n🐰 [가끔은 박성화가 그립다...]\n\n🐕 [가끔은 정윤호가 그립다...]\n\n🐶 [가끔은 강여상이 그립다...]\n\n😺 [가끔은 최산이 그립다...]\n\n🐤 [가끔은 송민기가 그립다..]\n\n🐈‍⬛ [가끔은 정우영이 그립다...]\n\n🐻 [가끔은 최종호가 그립다...]\n\n과연 ATINY가 뽑은 최고의 모먼트는 무엇일까요?👀\n10월 24일 오후 3시 30분 (KST), ATEEZ의 8주년 기념 라이브에서 그 시절의 추억을 함께 해요!\n\nATINY 여러분의 많은 관심과 참여 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-10-22T09:00:00Z",
-   "category": "schedule",
-   "members": [
-    "Hongjoong",
-    "Seonghwa",
-    "Yunho",
-    "Yeosang",
-    "Mingi",
-    "Wooyoung",
-    "Jongho"
-   ],
+   "category": "video",
+   "members": [],
    "events": [
     {
      "label": "참여 기간",
@@ -1632,8 +1895,11 @@
      "has_time": true
     }
    ],
-   "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Live YouTube kỷ niệm 8 năm ATEEZ với bình chọn khoảnh khắc fan",
+   "summary_vi": "Nhân dịp kỷ niệm 8 năm ATEEZ, KQ tổ chức bình chọn khoảnh khắc đáng nhớ theo từng thành viên trong 22–23/10/2026. Kết quả được công bố trong live kỷ niệm lúc 15:30 ngày 24/10/2026 (KST).",
+   "ai": true
   },
   {
    "id": "kq:6ad2006cdccb0e48bf81dea4",
@@ -1646,7 +1912,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) 15TH MINI ALBUM [GOLDEN HOUR : Part.6] (MARBLE / EARPHONE CHARM VER.) 의 예약 판매가 금일(20일)부터 시작됩니다.\n자세한 내용은 아래 안내 사항을 참고해 주시기 바랍니다.\n\n[발매 정보 안내]\n- 예약 판매 :\n2026년 10월 20일 (화) 11 AM (KST) ~ 2026년 11월 12일 (목) 11:59 PM (KST)\n2026년 10월 19일 (월) 10 PM (EDT) ~ 2026년 11월 12일 (목) 9:59 AM (EST)\n\n– 발매 : 2026년 11월 13일 (금) / 오프라인 구매 가능\n\n[예약 판매처 안내]\n*판매 사이트 링크는 수시로 업데이트 될 예정입니다.\n\n[GOLDEN HOUR : Part.6 (MARBLE VER.)]\n- MUVVE\n- 알라딘\n- 예스24\n- 핫트랙스\n\n[GOLDEN HOUR : Part.6 (EARPHONE CHARM VER.)]\n- 위드뮤\n- 알라딘\n- 예스24\n- 핫트랙스\n\nATINY 여러분의 많은 관심과 사랑 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-10-20T01:00:00Z",
-   "category": "merch",
+   "category": "release",
    "members": [],
    "events": [
     {
@@ -1662,8 +1928,11 @@
      "has_time": false
     }
    ],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Đặt trước GOLDEN HOUR : Part.6 (MARBLE / EARPHONE CHARM VER.)",
+   "summary_vi": "Đợt đặt trước album mini thứ 15 GOLDEN HOUR : Part.6 (MARBLE / EARPHONE CHARM VER.) diễn ra từ 20/10 đến 12/11/2026 (KST). Album phát hành ngày 13/11/2026 và có thể mua trực tiếp tại cửa hàng offline.",
+   "ai": true
   },
   {
    "id": "kq:6acf7f98126eb470311a8415",
@@ -1676,11 +1945,14 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\n82WORLD: LA 내 ATINY ZONE이 운영됩니다.\nATINY 여러분의 많은 관심과 참여 부탁드립니다.\n\n[운영 안내]\n\n일시:\n- 10/17(토) 1:00 PM~10:00 PM (PDT)\n- 10/18(일) 1:00 PM~9:30 PM (PDT)\n\n장소: 82WORLD: LA 행사장 내 ATINY ZONE\n\n리워드 : 멤버십 QR 체크인 시, 포토카드 8종 중 랜덤 1장 & 핀 뱃지 1개\n\n[유의사항]\n\n- 멤버십 인증 부스 및 리워드는 공식 ATINY 멤버십 회원에 한해 1일 1회 이용 가능합니다.\n- 리워드는 한정 수량으로 준비되어 조기 소진될 수 있습니다.\n- 리워드의 대리 수령, 양도 및 판매는 불가합니다.\n- 상세 운영 및 참여 방법은 hello82 공식 채널을 통해 안내될 예정입니다.\n\n감사합니다.",
    "images": [],
    "published": "2026-10-15T02:00:00Z",
-   "category": "tour",
+   "category": "official",
    "members": [],
    "events": [],
-   "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Khu ATINY ZONE tại sự kiện 82WORLD: LA",
+   "summary_vi": "ATINY ZONE hoạt động tại sự kiện 82WORLD: LA vào 17–18/10/2026 theo giờ Los Angeles. Thành viên chính thức đến check-in bằng QR nhận quà ngẫu nhiên gồm 1 trong 8 photocard và 1 huy hiệu ghim, mỗi người một lần mỗi ngày.",
+   "ai": true
   },
   {
    "id": "kq:6ace4dd972022d1e98d3fbcc",
@@ -1697,20 +1969,17 @@
    "members": [],
    "events": [
     {
-     "label": "PRE-ORDER DATE",
-     "start": "2026-10-14T03:00:00Z",
-     "end": "2026-10-20T14:59:00Z",
-     "has_time": true
-    },
-    {
-     "label": "RELEASE DATE",
-     "start": "2027-02-17T14:59:00Z",
+     "label": "Phát hành VR CONCERT BOX",
+     "start": "2027-02-17T00:00:00+09:00",
      "end": null,
-     "has_time": false
+     "has_time": true
     }
    ],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "VR CONCERT BOX của ATEEZ phát hành ngày 17/2/2027",
+   "summary_vi": "VR CONCERT BOX dựa trên VR CONCERT “LIGHT THE WAY” đã mở đặt trước từ 14/10 đến 20/10/2026. Sản phẩm dự kiến phát hành ngày 17/2/2027, và ngày giao hàng có thể thay đổi.",
+   "ai": true
   },
   {
    "id": "kq:6acb3cc250a6f96dee24d805",
@@ -1723,7 +1992,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) GOLDEN HOUR : Part.6의 예약 판매가 금일(13일)부터 시작됩니다.\n자세한 내용은 아래 안내 사항을 참고해 주시기 바랍니다.\n\n[발매 정보 안내]\n- 예약 판매 :\n2026년 10월 13일 (화) 11 AM (KST) ~ 2026년 11월 12일 (목) 11:59 PM (KST)\n2026년 10월 12일 (월) 10 PM (EDT) ~ 2026년 11월 12일 (목) 9:59 AM (EST)\n\n– 발매 : 2026년 11월 13일 (금) / 오프라인 구매 가능\n\n[예약 판매처 안내]\n*판매 사이트 링크는 수시로 업데이트 될 예정입니다.\n\n[GOLDEN HOUR : Part.6]\n- TOKTOQ ATEEZ SHOP\n- 사운드웨이브\n- 애플뮤직\n- hellolive\n- NYMUSIC\n- 케이팝스토어\n- YES24\n- 알라딘\n- 핫트랙스\n- MUVVE\n- 라인프렌즈\n\n[DIGIPACK]\n- TOKTOQ ATEEZ SHOP\n- 사운드웨이브\n- 애플뮤직\n- hellolive\n- 케이팝스토어\n- YES24\n- 알라딘\n- 핫트랙스\n- 라인프렌즈\n\n[DIGIPACK(UNIT VER.)]\n- TOKTOQ ATEEZ SHOP\n- 사운드웨이브\n- 애플뮤직\n- 케이팝스토어\n- YES24\n- 알라딘\n- 핫트랙스\n\n[POCAALBUM]\n- TOKTOQ ATEEZ SHOP\n- 메이크스타\n- YES24\n- 알라딘\n- 핫트랙스\n\nATINY 여러분의 많은 관심과 사랑 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-10-13T01:00:00Z",
-   "category": "merch",
+   "category": "release",
    "members": [],
    "events": [
     {
@@ -1739,8 +2008,11 @@
      "has_time": false
     }
    ],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Đặt trước GOLDEN HOUR : Part.6 và các phiên bản",
+   "summary_vi": "Đợt đặt trước GOLDEN HOUR : Part.6 (bản thường, DIGIPACK, UNIT VER., POCAALBUM) bắt đầu từ 13/10 và kéo dài đến 12/11/2026 (KST). Album phát hành ngày 13/11/2026, có bán trực tiếp tại cửa hàng offline.",
+   "ai": true
   },
   {
    "id": "kq:6ac9239f50a6f96dee24d7d2",
@@ -1759,7 +2031,10 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Jongho phát hành ca khúc <사랑한 만큼> trong dự án The Listen",
+   "summary_vi": "Jongho (ATEEZ) đã phát hành ca khúc <사랑한 만큼> thuộc dự án <더 리슨: 우리가 머문 계절> lúc 18:00 ngày 11/10/2026 (KST). Ca khúc được phát hành trên các nền tảng nhạc trực tuyến lớn.",
+   "ai": true
   },
   {
    "id": "kq:6ac915ceb899027df4664814",
@@ -2013,7 +2288,10 @@
     }
    ],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Đặt trước DVD/PLAYCODE ATEEZ 2025 WORLD TOUR [IN YOUR FANTASY] IN INCHEON",
+   "summary_vi": "DVD và PLAYCODE concert Incheon mở đặt trước từ 21/07/2026 và đã phát hành vào 26/08/2026 (DVD) và 30/09/2026 (PLAYCODE). Các mốc này đã qua.",
+   "ai": true
   },
   {
    "id": "kq:6a4ce12b0928893df68576bd",
@@ -2026,11 +2304,14 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\n2026 ATEEZ FANMEETING <ATINY'S VOYAGE : TINY MYSTERY> IN SEOUL에서 ATINY를 위한 ATINY ZONE(팬클럽 부스)을 아래와 같이 운영합니다.\n\n자세한 내용은 아래 안내를 확인해 주시기 바랍니다.\n\n* 상세 내용은 하단의 공지문 참고 부탁드립니다.\n\n🎪 ATINY ZONE 운영 안내\n\nDate.\n\n운영 시간 (KST)\n\n대기열 마감 시간 (KST)\n\n7/17 (금)\n\n14:30 ~ 18:30\n\n18:00\n\n7/18 (토)\n\n12:30 ~ 17:00\n\n16:30\n\n7/19 (일)\n\n11:30 ~ 16:00\n\n15:30\n\n✔ 대기열 마감 시간까지 대기 라인 도착 시, 기프트 수령 및 별도 구매하신 멤버십 MD 수령이 가능합니다. (이후 도착 시 수령 불가)\n\n✔ SAILOR석 입장 후에는 부스 이용이 불가합니다, 반드시 입장 전 방문해주시기 바랍니다.\n\n✔ 부스의 상세 위치는 당일 ATEEZ STAFF X (구 트위터) 계정을 통해 실시간 안내될 예정입니다.\n\n🎁 WELCOME GIFT\n\n✔ GIFT : 포토카드 1세트 (8종) 제공\n\n✔ 준비물\n\n① ATINY 모바일 멤버십 카드 (실물 카드 불가)\n\n② 신분증 (모바일 가능)\n\n③ 팬미팅 당일 실물 티켓 (예매 내역서 불가)\n\n*인정 신분증 기준은 하단 ⚠️ 유의사항을 확인해 주세요.\n\n💛 LUCKY CARD EVENT\n\n포토카드 세트 내 'LUCKY CARD'가 포함된 경우,\n\n현장 'LUCKY DRAW' 창구에서 스페셜 기프트를 추가로 수령하실 수 있습니다.\n\n- 스페셜 기프트 교환은 참여 당일 부스 운영 시간 내에만 가능하며, 운영 종료 이후에는 교환이 불가합니다.\n\n👻 MEMBERSHIP ONLY MD\n\nATINY 멤버십 회원만을 위해 준비한\n\n<ATINY'S : MYSTERY TINY VOYAGE> IN SEOUL 한정 고스티즈 MD를 만나보세요! ✨\n\n✔ 상품 구성 : 장바구니 1종, 복주머니 4종 ( 총 5종 중 랜덤 1종 증정 )\n\n✔ 판매 가격 : 6,000원\n\n✔ 구매 방법\n\n사전 온라인(TOKTOQ SHOP) 구매 → 팬미팅 당일 현장 수령 (현장 결제 불가)\n\n* 판매 페이지는 7월 9일(목) 에 오픈될 예정입니다.\n\n✔ 유의사항\n\n- 본 상품은 현장 수령 전용 상품으로 웰컴 기프트와 함께 동시 수령 부탁드립니다.\n\n- 동시 수령하지 않으신 경우에는 다시 줄을 서신 후 수령해 주시기 바랍니다\n\n- 어떠한 사유로도 배송은 불가합니다.\n\n- 한정 수량으로 조기 품절될 수 있으며, 일자별 준비된 수량 소진 시 판매 종료됩니다.\n\n- 멤버십 MD 상품 관련 상세 내용은 별도 공지를 확인해 주시기 바랍니다.\n\n⚠️ 유의사항\n\n1. ATINY ZONE\n\n- ATINY ZONE은 팬미팅 당일 실물 티켓을 소지한 공식 ATINY MEMBERSHIP 회원만 이용할 수 있습니다.\n\n- 당일 최초 1회만 참여 가능하며, 중복 참여 및 대리 수령은 불가합니다.\n\n- 지급되는 WELCOME GIFT 및 MEMBERSHIP ONLY MD는 공식 ATINY 회원에게만 제공되며, 양도 및 판매가 금지됩니다. 적발 시 추후 팬클럽 활동 및 멤버십 자격이 제한될 수 있습니다.\n\n- WELCOME GIFT는 모든 공연일 동일한 구성으로 제공됩니다.\n\n- 대기열 마감 이후에는 어떠한 사유로도 기프트 수령이 불가합니다.\n\n2. 본인 확인 및 수령\n\n- 부스 이용 시 ATINY 모바일 멤버십 카드, 팬미팅 당일 실물 티켓, 본인 확인이 가능한 신분증을 반드시 지참해 주시기 바랍니다.\n\n- MEMBERSHIP ONLY MD를 구매하신 경우에는 TOKTOQ SHOP 주문 QR 코드를 추가로 제시해 주셔야 합니다.\n\n- 본인 확인 완료 후 WELCOME GIFT를 수령하며, MEMBERSHIP ONLY MD 구매자는 동일 창구에서 함께 수령 가능합니다.\n\n- 신분증은 사진, 성명, 생년월일이 모두 명확하게 확인 가능한 실물 또는 모바일 신분증만 인정됩니다.\n\n실물 : 주민등록증, 운전면허증, 여권(유효기간 내), 청소년증, 외국인등록증\n\n모바일 : 정부24, 행정안전부 모바일 신분증, PASS 발급 신분증\n※ 촬영본, 캡처본 및 인쇄본은 인정되지 않습니다.\n\n- 티켓의 예매 명의는 부스 이용에 영향을 주지 않습니다. 다만, 부스 이용자의 신분증과 ATINY 멤버십 가입자 정보는 반드시 일치해야 합니다.\n\n- 개명한 경우에는 개명 확인 서류를 함께 지참해 주시기 바랍니다.\n\n- 가족 명의로 티켓을 예매한 경우에도 부스 이용자의 신분증과 멤버십 정보는 일치해야 이용 및 수령이 가능합니다.(티켓 명의는 무관)\n\n- 현장 인증 시 멤버십 유효기간이 만료된 경우 이용이 불가합니다.\n\n3. MEMBERSHIP ONLY MD\n\n- 사전 온라인(TOKTOQ SHOP) 구매자에 한해 현장 수령만 가능하며, 현장 결제 및 추가 판매는 진행되지 않습니다.\n\n- 상품은 총 5종 중 랜덤 1종으로 지급되며, 제품 선택 및 현장 교환은 불가능합니다. 여러 개 구매 시 동일 상품이 중복 지급될 수 있습니다.\n\n- 주문 QR 코드 확인 및 수령 처리 완료 후에는 취소 및 환불이 불가능합니다.\n\n4. 교환 안내\n\n- 기프트 및 MD 상품에 하자가 있는 경우 수령 당일 부스 운영 시간 내 현장 스태프를 통해서만 교환이 가능합니다.\n\n- 제조 및 포장 과정에서 발생하는 미세한 스크래치 및 포장 봉투 손상은 교환 대상에 포함되지 않습니다.\n\n- 우천, 폭염 등 기상 및 현장 운영 상황에 따라 운영 내용이 변경될 수 있으며, 원활한 운영을 위해 부스 마감 30분 전까지 대기열에 입장해 주시기 바랍니다.\n\nATINY 여러분의 많은 관심과 참여 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-07-07T13:00:00Z",
-   "category": "tour",
+   "category": "official",
    "members": [],
    "events": [],
-   "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Thông tin ATINY ZONE tại fanmeeting ATEEZ <TINY MYSTERY> Seoul (17–19/07/2026)",
+   "summary_vi": "ATINY ZONE hoạt động 17–19/07/2026 với quà chào mừng, photocard và MD thành viên giới hạn. Sự kiện đã diễn ra.",
+   "ai": true
   },
   {
    "id": "kq:6a4c70d64c7d6743fdca8f63",
@@ -2060,7 +2341,10 @@
     }
    ],
    "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Bán OFFICIAL MD fanmeeting ATEEZ <ATINY'S VOYAGE : TINY MYSTERY> Seoul",
+   "summary_vi": "MD chính thức bán online trên KQ SHOP từ 07/07/2026 13:00 KST và bán offline tại booth fanmeeting 17–19/07. Đợt bán đã kết thúc.",
+   "ai": true
   },
   {
    "id": "kq:6a4332c59ee4485887bb9f2d",
@@ -2077,7 +2361,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ phát hành BAD (Ofenbach Ver.) trên các nền tảng nhạc",
+   "summary_vi": "Phiên bản Ofenbach Ver. của BAD được phát hành lúc 13:00 ngày 06/07/2026 trên các nền tảng âm nhạc. Đã phát hành.",
+   "ai": true
   },
   {
    "id": "kq:6a4331505a5138355511bd84",
@@ -2094,7 +2381,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ phát hành BAD (James Carter Ver.) trên các nền tảng nhạc",
+   "summary_vi": "Phiên bản James Carter Ver. của BAD được phát hành lúc 13:00 ngày 02/07/2026 trên các nền tảng âm nhạc. Đã phát hành.",
+   "ai": true
   },
   {
    "id": "kq:6a432fc9dbe9b9754ea74e5a",
@@ -2111,7 +2401,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ phát hành BAD (Steve Aoki Ver.) trên các nền tảng nhạc",
+   "summary_vi": "Phiên bản Steve Aoki Ver. của BAD được phát hành lúc 13:00 ngày 30/06/2026 trên các nền tảng âm nhạc. Đã phát hành.",
+   "ai": true
   },
   {
    "id": "kq:6a41e8375a5138355511bcf5",
@@ -2128,7 +2421,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ phát hành BAD (Remix) trên các nền tảng nhạc",
+   "summary_vi": "Bản BAD (Remix) được phát hành lúc 13:00 ngày 29/06/2026 trên các nền tảng âm nhạc. Đã phát hành.",
+   "ai": true
   },
   {
    "id": "kq:6a3d28a6edaad16ca982dcdc",
@@ -2145,7 +2441,10 @@
    "members": [],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ phát hành album GOLDEN HOUR : Part.5",
+   "summary_vi": "Album GOLDEN HOUR : Part.5 được phát hành lúc 13:00 ngày 26/06/2026 trên các nền tảng nhạc. Đã phát hành.",
+   "ai": true
   },
   {
    "id": "kq:6a3cc75a5a5138355511bbd5",
@@ -2158,7 +2457,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\n<ATEEZ : LIGHT THE WAY IN CINEMAS> 영화가 2026년 8월, 전 세계 극장에서 개봉됩니다.\n극장에서 새롭게 만나는 ATEEZ의 몰입감 넘치는 퍼포먼스. 오직 극장에서만 만날 수 있는 20분 분량의 새로운 비하인드 콘텐츠까지 함께 만나보실 수 있습니다.\n\n[예매 일정]\n\n- 글로벌: 2026년 7월 6일 (월)\n\n- 한국: 2026년 8월 5일 (수)\n\n- 일본: 추후 안내 예정\n\n※ 자세한 정보는 공식 홈페이지를 통해 확인해 주시기 바랍니다.\n\n[개봉 일정]\n\n- 글로벌: 2026년 8월 6일 (목), 8월 8일 (토)\n\n- 한국: 2026년 8월 19일 (수) ~ 2026년 8월 23일 (일)\n\n- 일본: 추후 안내 예정\n\n※ 추가 상영 일정은 지역 및 상영관마다 상이 할 수 있으므로 가까운 극장을 확인 부탁드립니다.\n\n[공식 홈페이지]\n\n🔗 ateezincinemas.com\n\nATINY 여러분의 많은 관심 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-06-25T13:00:00Z",
-   "category": "official",
+   "category": "video",
    "members": [],
    "events": [
     {
@@ -2186,8 +2485,11 @@
      "has_time": false
     }
    ],
-   "category_label": "Official Announcement",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Video",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Phim ATEEZ <LIGHT THE WAY IN CINEMAS> chiếu rạp tháng 8/2026",
+   "summary_vi": "Phim chiếu tại Hàn Quốc từ 19–23/08/2026 và toàn cầu từ 06 và 08/08/2026; vé Hàn mở 05/08 đã qua. Lịch chiếu Nhật Bản chưa được công bố.",
+   "ai": true
   },
   {
    "id": "kq:6a3a4019edaad16ca982dbde",
@@ -2200,11 +2502,14 @@
    "text": "안녕하세요.\nKQ 엔터테인먼트 입니다.\n\n2026 ATEEZ FANMEETING <ATINY'S VOYAGE : TINY MYSTERY>의 DRESS CODE를 안내 드리니, 자세한 사항은 아래 내용 확인 부탁 드립니다.\n\n👻DRESS CODE 안내👻\n\n◼ 7/17(금) : 보라색(PURPLE) 💜\n◼ 7/18(토) : 연두색(LIGHT GREEN) 💚\n◼ 7/19(일) : 흰색(WHITE) 🤍\n\n* 해당 이벤트는 권장 드레스코드 이벤트로, 참여에 대한 강제성은 없습니다.\n* 의류뿐만 아니라 모자, 가방, 엑세서리 등 다양한 아이템으로도 참여 가능하니, 미스터리한 분위기를 자유롭게 즐겨주세요.\n* 솜뭉치 친구들과도 함께 즐겨보세요!\n* 에이티즈와 에이티니의 즐거운 추억을 위해 많은 관심과 참여 부탁드립니다.\n\nATINY 여러분의 많은 관심과 참여 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-06-23T11:00:00Z",
-   "category": "tour",
+   "category": "official",
    "members": [],
    "events": [],
-   "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Dress code fanmeeting ATEEZ <TINY MYSTERY> Seoul (17–19/07/2026)",
+   "summary_vi": "Dress code gợi ý theo ngày: tím (17/07), xanh lá nhạt (18/07), trắng (19/07). Sự kiện đã diễn ra.",
+   "ai": true
   },
   {
    "id": "kq:6a38de2b5a98bc0684d5e880",
@@ -2217,7 +2522,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) 14TH MINI ALBUM [GOLDEN HOUR : Part.5] (CDP VER.) 의 예약 판매가 금일(23일)부터 시작됩니다.\n자세한 내용은 아래 안내 사항을 참고해 주시기 바랍니다.\n\n[발매 정보 안내]\n- 예약 판매: 2026년 6월 23일 (화) 오전 11시 ~\n- 발매: 2026년 6월 30일 (화) 15시 / 오프라인 구매 가능\n\n* 구매 일자에 따라 배송 일정이 상이하므로, 각 판매처의 배송 일정을 확인하신 후 구매해주시기 바랍니다.\n\n[예약 판매처 안내]\n* 판매 사이트 링크는 수시로 업데이트 될 예정입니다.\n\n- yes24\n- 알라딘\n- 핫트랙스\n- 메이크스타\n\nATINY 여러분의 많은 관심과 사랑 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-06-23T02:00:00Z",
-   "category": "merch",
+   "category": "release",
    "members": [],
    "events": [
     {
@@ -2233,8 +2538,11 @@
      "has_time": true
     }
    ],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "ATEEZ mở đặt trước mini album GOLDEN HOUR : Part.5 (CDP VER.)",
+   "summary_vi": "Đặt trước mini album thứ 14 GOLDEN HOUR : Part.5 (CDP VER.) bắt đầu từ 11:00 ngày 23/06/2026 trên yes24, Aladin, Hottracks và MakeStar. Album phát hành ngày 30/06/2026 lúc 15:00, có bán offline.",
+   "ai": true
   },
   {
    "id": "kq:6a336dad5a5138355511b8fb",
@@ -2247,7 +2555,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) 공개방송 신청 관련 공통 유의사항을 아래와 같이 안내해 드립니다.\n공개방송 참여를 원하시는 분들께서는 아래 내용을 반드시 숙지하신 후 참여해주시기 바랍니다.\n\n★ ATINY 공개방송 필수 준비물 ★\n\n음반\n\nATEEZ [GOLDEN HOUR : Part.5] 음반 실물 (총 5종)\n\n*실물 음반은 아래 구성품이 모두 있어야만 인정됩니다.\n\n▶ PHOTOBOOK A / D / Z VER. *각 1종씩 총 3종 또는 3종 세트\n- 앨범 구성품(아웃 슬리브+CD) 포함된 완제품\n*버전 중복은 2종으로 인정되지 않습니다.\n\n▶ DIGIPACK VER. *12종 중 1종 (버전 무관)\n- 앨범 구성품(커버+북클릿+CD) 포함된 완제품\n\n▶ POCAALBUM VER. *3종 중 1종\n- 앨범 구성품(커버+QR카드) 포함된 완제품\n\nor\n\n▶ [GOLDEN HOUR : Part.5] TOKTOQ SET\n\n- 모바일 구매 내역서\n\n음원\n\nATEEZ [GOLDEN HOUR : Part.5] 전곡 개별곡 구매 내역서 & 본인 확인 내역서 (멜론) 확인\n\n* 전곡(5곡) 제목이 잘리지 않도록 인쇄해 주셔야 인정됩니다.\n* 음원 인증 관련 모든 내역서는 음원 사이트 ‘멜론’의 실물 인쇄 내역서로만 확인 가능합니다.\n\n출석판\n\n음반/음원 최초 1회 인증 시에는 실물 지참이 필수이며,\n이후 인증 스티커가 부착된 [GOLDEN HOUR : Part.5] 출석판 소지 시\n\n음반/음원 실물 없이 출석판으로 인정됩니다.\n\n※ 출석판을 소지하지 않으신 분들은 음반&음원 실물 준비물을 모두 지참해 주시기 바랍니다.\n\n그 외\n\n- 공식 응원봉 (ver.2 또는 ver.3)\n\n- 본인 신분증\n\n- ATINY 멤버십 카드 ONLY (TOKTOQ 내 디지털 멤버십 카드)\n\n* 하기 상세 내용 꼭 확인 부탁드립니다.\n\n1. 공개방송 참여 기준\n\n☑️ 기준일\n2026년 5월 21일 오후 11시 59분(KST)까지\nATINY 멤버십에 가입한 회원만 공개방송 참여가 가능합니다.\n\n☑️ 공개방송 참여 조건 확인 방법\n* [오른쪽 상단 프로필 클릭 > 내 멤버십] 메뉴에서 디지털 멤버십 카드 상단의 최초 가입일을\n확인 한 후 공개방송 참여 여부를 확인해 주세요.\n* 만약 유효기간(멤버십 시작일)이 공개방송 참여 기준일 이후일 경우, 공개방송 참여자 명단에서 제외됩니다.\n\n☑️ 만료 이후 가입자\n멤버십 만료된 시점부터 15일 이후 재가입 시, 신규 가입자로 분류되어 디지털 멤버십 카드에 새로운 가입일이 기재됩니다.\n해당 가입자의 경우 최초 가입일이 유지되지 않아 공개방송에 참여할 수 없습니다.\n\n☑️ 예시\n\n멤버십 이용 기간: 2025년 5월 28일 10:00 ~ 2026년 5월 28일 10:00\n\n* 만료된 시점부터 15일 이내인 2026년 6월 11일 10:00까지 재가입 시, 최초 가입일 2025년 5월 28일이 유지되어 공개방송 참여 가능\n\n* 만료된 시점부터 15일 이후인 2026년 6월 11일 10:01 이후 가입 시, 신규 가입자로 간주되어 공개방송 참여 불가\n\n2. 입장 관련 유의사항\n\n* 입장 및 명단 확인 순서: 기존 명단 → 예비 → 지각\n\n- 모든 물품을 소지하고, 명단 확인 시간을 엄수 하신 경우 기존 명단(순서) 번호 부여\n\n- 출석 체크 후 배부된 번호표 스티커는 분실 시 재배부 및 입장 불가합니다.\n\n* 지각\n\n- 명단 확인 시작 이후 현장 도착 시 도착 순서대로 지각 번호 배부\n(ex. 7시 명단 확인 시작 시, 7시 1분부터 지각)\n- 기존 명단 번호와 무관하게 마지막 순서로 입장하며, 제한 인원 초과 시 입장 불가합니다.\n- 마지막 번호대 인원체크 시간 시작 후 30분 이내에 현장에 도착하셔야 인원 체크가 가능합니다.\n(ex. 301번 ~ 350번 본인 확인 시간이 오전 7시일 경우, 7시 30분까지 지각 대기 라인 도착)\n\n* 준비물 누락\n\n- 준비물을 모두 지참하신 후, 마지막 번호대 인원 체크 시작 시간으로부터 30분 이내에\n\n오신 순서대로 지각 대기 라인에 다시 줄을 서 주셔야 본인 확인 후 지각 번호 부여 가능합니다.\n\n(ex. 301번 ~ 350번 본인 확인 시간이 오전 7시일 경우, 7시 30분까지 지각 대기 라인 도착)\n\n- 해당 시간에도 준비물 확인이 어려운 경우 출석 체크 및 입장 불가합니다.\n\n3. 공식 응원봉 확인\n\n- 공식 응원봉 ver.2 또는 ver.3 실물만 인증 가능하며 정상 작동 여부를 확인합니다. (구매 내역서 불가)\n\n4. 신분증 확인 (본인 확인 가능한 사진 필수)\n: (실물) 주민등록증, 운전면허증, 여권(만료 전), 청소년증(주민센터 발급), 외국인등록증\n: (모바일) 정부24, 행정안전부&경찰청, PASS 발급 (캡처본 확인 불가)\n: 현장 확인 시 본인이라고 판단하기 어려울 경우, 추가 인증 방법을 요청할 수 있습니다.\n- 신분증 미지참자는 어떠한 경우라도 입장이 불가합니다.\n\n5. ATINY 멤버십 확인\n\n- [디지털 멤버십 카드]만 인증 가능합니다.\n\n- 현장에서 제시하시는 멤버십 카드와 신분증 대조로 본인 확인이 진행됩니다.\n\n→ 서베이 신청 시 작성한 [이름/생년월일]과 멤버십 카드 및 신분증 정보 불일치 시 입장 불가합니다.\n\n6. [GOLDEN HOUR : Part.5] 음원 확인\n\n[GOLDEN HOUR : Part.5] 음원\n\n전곡 구매 (개별곡) 내역서 & 본인 확인 내역서 (멜론)\n\n* 음원 인증 관련 모든 내역서는 음원 사이트 ‘멜론’의 실물 인쇄 내역서로만 확인 가능합니다.\n\n* 전곡(5곡) 제목이 잘리지 않도록 인쇄해 주셔야 인정됩니다.\n\n- 음원 인증 관련 모든 내역서는 음원사이트 ‘멜론’의 실물 인쇄 내역서로만 확인 가능합니다.\n- 음원 구매 확인 페이지 내 [닉네임] + 본인 회원 정보 페이지 내 [닉네임]이 일치하고, 본인 확인이 되어야 인증 가능합니다.\n- 실물 인쇄 내역서 내 텍스트가 명확하게 확인되지 않을 경우 인증 불가합니다.\n- 멜론 ID가 본인이 아닌 가족 명의일 경우 가족관계증명서 함께 지참 부탁드립니다. 관계 증명이 불가한 인물은 인정되지 않습니다.\n- 개별곡이 아닌 MP3, DCF, FLAC, 정액제, 이용권 다운로드는 인정되지 않습니다.\n\n7. [GOLDEN HOUR : Part.5] 음반 확인\n\n- 실물 음반은 아래 구성품이 모두 있어야만 인정됩니다. (총 5종)\n\n음반\n\nATEEZ [GOLDEN HOUR : Part.5] 실물 앨범 (5종)\n\nor\n\nATEEZ [GOLDEN HOUR : Part.5] TOKTOQ SET VER. 모바일 구매 내역서\n\n* ATEEZ [GOLDEN HOUR : Part.5] 앨범 (5종) 기준 :\n\n▶ PHOTOBOOK A / DIARY / Z VER. *각 1종씩 총 3종 또는 3종 세트\n- 앨범 구성품(아웃 슬리브+CD) 포함된 완제품\n*버전 중복은 2종으로 인정되지 않습니다.\n\n▶DIGIPACK VER. *12종 중 1종 (버전 무관)\n\n- 앨범 구성품(커버+북클릿+CD) 포함된 완제품\n\n▶ POCAALBUM VER. *3종 중 1종\n- 앨범 구성품(커버+QR카드) 포함된 완제품\n\n* [TOKTOQ SET VER.] 구매자 : 모바일 구매 내역으로 확인 가능\n\n8. KIT 배부 관련\n\n공개방송 참여자 중 본인 확인 완료 및 준비물을 모두 지참하신 ATINY분들께 최초 참여 1회에 한해 ‘BAD KIT(이하 KIT)’ 제공 예정입니다.\n\n* 발매 이후 진행되는 공개방송 참여자의 경우 음반 (5종) 실물(또는 TOKTOQ SET VER. 모바일 구매 내역서), [GOLDEN HOUR : Part.5] 전곡 음원 내역서 확인 후에 음반&음원 인증 스티커와 함께 ‘KIT’가 배부됩니다.\n\n9. 페널티 관련\n\n- 준비물 양도 또는 대여 적발 시 영구 블랙리스트 처리\n\n- 음악방송 1회 불참 시 or 명단 확인 완료 후 무단 이탈 시 3개월 이내 공개방송 참여 불가\n\n- ATEEZ 멤버, KQ 관계자 혹은 타 아티스트의 개인 정보를 기재하여 서베이 신청하는 경우 페널티 부과하여 3개월 이내 공개방송 참여 불가\n\n★ 유의사항 ★\n\n1. 명단 확인 시 유의사항\n\n- 명단 확인 5~10분 전 본인 번호에 맞춰 두 줄로 대기해 주시기 바랍니다.\n- 명단 확인 시 본인 번호의 자리를 지켜 주시지 않는 경우, 현장에 계시더라도 지각으로 간주되어 사전 번호는 무효 처리되며 지각자 순서 번호로 배부됩니다.\n- 현장 참여는 불가합니다.\n\n2. 공개방송 녹화 및 생방송 중 유의사항\n\n- 방송 내용 보안 유지상 내용 발설을 자제해 주시기 바랍니다.\n- ATEEZ(에이티즈) 공식 응원봉을 제외한 개인 응원 도구, 비공식 굿즈 등은 사용 불가합니다.\n- 녹화 및 생방송 진행 중 중도 퇴장 및 무단 이탈은 불가합니다.\n(중도 퇴장 및 무단 이탈 시 제공된 물품은 회수)\n- 스탠딩석은 안전 사고의 위험이 있으므로, 입장 전/후에 과도하게 밀거나 뛰지 않도록 질서를 지켜주시기 바랍니다.\n- 방송사 규정에 따라 스탠딩석 입장 시 [키 제한]이 있을 수 있습니다. 이 경우 입장 번호(순서)의 변동이 발생할 수 있습니다.\n- 녹화 및 생방송에 참여하신 분들은 방송에 노출될 수 있으므로 동의하시는 분들만 참여해주시기 바랍니다.\n\n* 위 수칙을 어길 경우 즉시 강제 퇴장될 수 있으며 재입장하실 수 없습니다.\n\n3. 에티켓 관련 유의사항\n\n- 현장 경호팀, 타 팬덤, 모든 스태프 등과 마찰이 생길 수 있는 발언 및 행동은 삼가시기 바랍니다.\n- 본인이 대기, 착석했던 자리에 남겨진 소지품은 이동 전 반드시 확인하여 주시고 대기 장소, 녹화장에 쓰레기를 버리지 말아 주시기 바랍니다.\n- 출근길, 퇴근길 등에서 멤버들이 탑승한 차량을 쫓아가거나 차도로 뛰어드는 행동 적발 시 블랙리스트 처리됩니다.\n- 팬은 가수의 이미지입니다. 질서 있는 팬덤 문화 형성 부탁드립니다.\n\n4. 기타 유의사항\n\n- 편지를 제외한 선물은 일체 받지 않고 있습니다.\n편지는 공개방송 및 팬사인회 등 공개 스케줄 시 현장 스태프에게 전달 주시기 바라며, 이외 출퇴근길 및 관계자를 통하는 등 부적절한 전달은 불가합니다.\n- 기재된 유의사항 외 돌발 행동 및 공지에 위반되는 행위를 했을 경우, 현장 스태프의 판단 하에 제재 및 불이익이 따를 수 있습니다.\n\n위 안내 사항을 반드시 확인하여 주시고, 공지 미숙지로 인한 불이익에 대한 책임은 전적으로 본인에게 있습니다. 불이익 당하는 일이 없도록 주의하여 주시기 바랍니다.\n\n공개방송 참여에 대한 실시간 공지는 ATEEZ STAFF(@ATEEZstaff) X 계정을 참고해 주시기 바랍니다.\n\n감사합니다.",
    "images": [],
    "published": "2026-06-18T11:30:00Z",
-   "category": "schedule",
+   "category": "official",
    "members": [],
    "events": [
     {
@@ -2275,8 +2583,11 @@
      "has_time": true
     }
    ],
-   "category_label": "Schedule",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Lưu ý chung khi tham gia công khai ghi hình (fan event) ATEEZ bản 260701",
+   "summary_vi": "KQ Entertainment hướng dẫn các điều kiện, vật phẩm bắt buộc (album GOLDEN HOUR : Part.5, vé số thành viên ATINY, lightstick chính thức, CMND) và quy định vào cửa cho buổi ghi hình công khai. Mốc tính điều kiện thành viên là 23:59 ngày 21/05/2026.",
+   "ai": true
   },
   {
    "id": "kq:6a2fa89606771d4978c73a63",
@@ -2289,7 +2600,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) 14TH MINI ALBUM [GOLDEN HOUR : Part.5] (Pink LP / KEY CHAIN VER.) 의 예약 판매가 금일(16일)부터 시작됩니다.\n자세한 내용은 아래 안내 사항을 참고해 주시기 바랍니다.\n\n[발매 정보 안내]\n- 예약 판매: 2026년 6월 16일 (화) 오전 11시 ~\n\n- 발매: 2026년 6월 30일 (화) 15시 / 오프라인 구매 가능\n\n[예약 판매처 안내]\n*판매 사이트 링크는 수시로 업데이트 될 예정입니다.\n\n[GOLDEN HOUR : Part.5 (Pink LP VER.)]\n\n- KQ SHOP\n- MUVVE\n- 알라딘\n- 예스24\n- 핫트랙스\n\n[GOLDEN HOUR : Part.5 (KEY CHAIN VER.)]\n- 위드뮤\n- 알라딘\n- 예스24\n- 핫트랙스\n\nATINY 여러분의 많은 관심과 사랑 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-06-16T02:00:00Z",
-   "category": "merch",
+   "category": "release",
    "members": [],
    "events": [
     {
@@ -2305,8 +2616,11 @@
      "has_time": true
     }
    ],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Đặt trước GOLDEN HOUR : Part.5 bản Pink LP và KEY CHAIN",
+   "summary_vi": "Đặt trước bản Pink LP và KEY CHAIN VER. của GOLDEN HOUR : Part.5 bắt đầu 11:00 ngày 16/06/2026 tại KQ SHOP, MUVVE, Aladin, YES24, Hottracks và WithMu. Album phát hành ngày 30/06/2026 lúc 15:00, có bán offline.",
+   "ai": true
   },
   {
    "id": "kq:6a1d6c62fe01ae1d401f2bb2",
@@ -2319,7 +2633,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) GOLDEN HOUR : Part.5의 예약 판매가 금일(2일)부터 시작됩니다.\n자세한 내용은 아래 안내 사항을 참고해 주시기 바랍니다.\n\n[발매 정보 안내]\n- 예약 판매: 2026년 6월 2일 (화) 오전 11시 ~ 2026년 6월 25일 (목) 오후 11시 59분 (KST)\n- 발매: 2026년 6월 26일 (금) / 오프라인 구매 가능\n\n[예약 판매처 안내]\n*판매 사이트 링크는 수시로 업데이트 될 예정입니다.\n\n[GOLDEN HOUR : Part.5]\n- TOKTOQ ATEEZ SHOP\n- fromm\n- 사운드웨이브\n- 애플뮤직\n- 헬로라이브\n- YES24\n- 알라딘\n- 핫트랙스\n- NY MUSIC\n- 티켓링크 x 뮤즈엠\n- 케이팝투게더\n- 케이팝스토어(kpop store)\n\n[DIGIPACK]\n- TOKTOQ ATEEZ SHOP\n- fromm\n- 사운드웨이브\n- 애플뮤직\n- 헬로라이브\n- 디어마이뮤즈\n- YES24\n- 알라딘\n- 핫트랙스\n\n[DIGIPACK(UNIT VER.)]\n- TOKTOQ ATEEZ SHOP\n- fromm\n- 사운드웨이브\n- 애플뮤직\n- 디어마이뮤즈\n- YES24\n- 알라딘\n- 핫트랙스\n\n[POCAALBUM]\n- TOKTOQ ATEEZ SHOP\n- 메이크스타\n- YES24\n- 알라딘\n- 핫트랙스\n\nATINY 여러분의 많은 관심과 사랑 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-06-02T01:00:00Z",
-   "category": "merch",
+   "category": "release",
    "members": [],
    "events": [
     {
@@ -2335,8 +2649,11 @@
      "has_time": false
     }
    ],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Đặt trước album GOLDEN HOUR : Part.5 (nhiều phiên bản)",
+   "summary_vi": "Đặt trước GOLDEN HOUR : Part.5 diễn ra từ 11:00 ngày 02/06/2026 đến 23:59 ngày 25/06/2026 (KST) với nhiều phiên bản như DIGIPACK, POCAALBUM và bản UNIT tại TOKTOQ, YES24, Aladin, Hottracks và nhiều nơi khác. Album phát hành ngày 26/06/2026, có bán offline.",
+   "ai": true
   },
   {
    "id": "kq:6a150325dcf5243af5be9af6",
@@ -2349,7 +2666,7 @@
    "text": "안녕하세요.\nKQ엔터테인먼트입니다.\n\nATEEZ(에이티즈) GOLDEN HOUR : Part.5 ‘BAD Single CD’ (US ONLY)의 예악 판매가 지금 부터 시작됩니다.\n\n자세한 내용은 아래 안내 사항을 참고해 주시기 바랍니다.\n\n[발매 정보 안내]\n- 예약 판매 :\n2026년 5월 27일 (수) 10:00 AM (KST) ~ 2026년 6월 25일 (목) 11:59 PM (KST)\n2026년 5월 26일 (화) 9:00 PM (ET) ~ 2026년 6월 25일 (목) 10:59 AM (ET)\n\n– 발매 : 2026년 6월 26일 (금)\n\n[예약 판매처 안내]\n*해당 링크를 통해서만 예약 구매가 가능하며, GOLDEN HOUR : Part.5 앨범 관련 추가 정보는 추후 순차적으로 안내될 예정입니다.\n- 상품 바로가기\n\nATINY 여러분의 많은 관심과 사랑 부탁드립니다.\n감사합니다.",
    "images": [],
    "published": "2026-05-27T01:00:00Z",
-   "category": "merch",
+   "category": "release",
    "members": [],
    "events": [
     {
@@ -2365,8 +2682,11 @@
      "has_time": false
     }
    ],
-   "category_label": "Album/Merch",
-   "fetched": "2026-11-26T14:33:32Z"
+   "category_label": "Release",
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Đặt trước đĩa đơn 'BAD' (Single CD, chỉ dành cho US) từ GOLDEN HOUR : Part.5",
+   "summary_vi": "Đặt trước 'BAD' Single CD (chỉ dành cho US) mở từ 10:00 ngày 27/05/2026 (KST) và kết thúc 23:59 ngày 25/06/2026 (KST), chỉ mua được qua link riêng. Đĩa phát hành ngày 26/06/2026.",
+   "ai": true
   },
   {
    "id": "kq:6a0409780aec0a4d96d04128",
@@ -2444,7 +2764,10 @@
     }
    ],
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mở bán vé fanmeeting ATEEZ 2026 'TINY MYSTERY' tại Seoul",
+   "summary_vi": "Fanmeeting '2026 ATEEZ FANMEETING <ATINY'S VOYAGE : TINY MYSTERY> IN SEOUL' diễn ra 3 ngày 17–19/07/2026 tại nhà thi đấu Đại học Korea (Hwajeong), giá vé từ 110.000 đến 154.000 won. Bán vé qua Melon Ticket (membership) và YES24 (vé thường), buổi 19/07 có phát trực tuyến.",
+   "ai": true
   },
   {
    "id": "kq:69fbff4c844bca5a5c374e77",
@@ -2463,7 +2786,10 @@
    ],
    "events": [],
    "category_label": "Release",
-   "fetched": "2026-11-26T14:33:32Z"
+   "fetched": "2026-11-26T14:33:32Z",
+   "title_vi": "Mingi ra mắt album [FIX OFF Desire Project : ORIGIN]",
+   "summary_vi": "Mingi (ATEEZ) phát hành album [FIX OFF Desire Project : ORIGIN] lúc 18:00 ngày 11/05/2026 trên các nền tảng nhạc trực tuyến như Melon, Spotify và Apple Music.",
+   "ai": true
   }
  ]
 }
