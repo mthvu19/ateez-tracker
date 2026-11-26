@@ -1,1 +1,24 @@
-{"sources": {}}
+{
+ "sources": {
+  "kq": {
+   "ok": true,
+   "at": "2026-11-26T14:30:41Z",
+   "new": 48
+  },
+  "youtube": {
+   "ok": true,
+   "at": "2026-11-26T14:30:41Z",
+   "new": 15
+  },
+  "news": {
+   "ok": true,
+   "at": "2026-11-26T14:30:41Z",
+   "new": 46
+  }
+ },
+ "updated": "2026-11-26T14:30:41Z",
+ "counts": {
+  "items": 109,
+  "events": 0
+ }
+}
