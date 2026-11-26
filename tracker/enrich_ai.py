@@ -75,7 +75,8 @@ def enrich(items, cfg, today, http, log=print, limit=None):
             if o.get("category") in CATEGORIES and not it.get("category_hint"):
                 it["category"] = o["category"]
             if isinstance(o.get("members"), list):
-                it["members"] = [m for m in o["members"] if isinstance(m, str)][:8]
+                canon = {m["en"].lower(): m["en"] for m in cfg["members"]}
+                it["members"] = [canon[m.lower()] for m in o["members"] if isinstance(m, str) and m.lower() in canon]
             for k in ("title_vi", "summary_vi"):
                 it.pop(k, None)
             for k in ("title_en", "summary_en"):

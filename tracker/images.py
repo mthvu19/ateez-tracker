@@ -4,7 +4,7 @@ from io import BytesIO
 
 from .common import parse_iso
 
-THRESHOLD = 6  # <= 6/64 bit khac nhau -> coi la cung anh
+THRESHOLD = 12  # <= 12/64 bit khac nhau -> coi la cung anh (chiu duoc crop/chu chen nhe)
 
 
 def dhash(img):
@@ -87,7 +87,7 @@ def dedupe_images(items, days=3, log=print):
     for it in items:
         _dedupe_within(it)
     cand = [it for it in items if it.get("img_hash") and all(h is not None for h in it["img_hash"])
-            and it.get("source") != "youtube"]
+            and it.get("source") != "youtube" and it.get("category") != "charts"]  # do hoa chart dung chung template
     groups = []
     for it in cand:
         ts = parse_iso(it.get("published"))

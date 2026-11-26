@@ -179,6 +179,9 @@ def main():
             it["events"] = extract_events(it.get("text", ""), it.get("title", ""))
     items = new + items
     items.sort(key=lambda i: i.get("published") or "", reverse=True)
+    canon = {m["en"].lower(): m["en"] for m in cfg["members"]}
+    for it in items:  # chuan hoa ten thanh vien (SAN -> San)
+        it["members"] = list(dict.fromkeys(canon.get(m.lower(), m) for m in it.get("members") or []))
     items = dedupe_news(items)
     try:
         annotate(items, http)

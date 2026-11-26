@@ -196,7 +196,10 @@ def test_image_dedupe():
             x0, y0 = (seed * 37 + k * 29) % 120, (seed * 53 + k * 41) % 160
             d.rectangle([x0, y0, x0 + 30 + k * 10, y0 + 40 + k * 12], fill=(k * 40, 80, 200 - k * 30))
         return im
-    a, b = dhash(pic(1)), dhash(pic(2))
+    import random
+    rnd = random.Random(7)
+    noise = Image.new("L", (200, 260)); noise.putdata([rnd.randint(0, 255) for _ in range(200 * 260)])
+    a, b = dhash(pic(1)), dhash(noise)
     a2 = dhash(pic(1).resize((150, 195)))  # cung anh, kich thuoc khac
     story = {"id": "x:1", "source": "x", "tier": "fan", "images": ["u1"], "img_hash": [a], "members": ["San"],
              "summary_en": "San posted a new Instagram story.", "text": "#CHOISAN instagram story", "published": "2026-11-26T11:51:00Z"}
