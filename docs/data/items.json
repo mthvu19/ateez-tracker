@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-27T12:17:01Z",
+ "updated": "2026-11-27T13:17:01Z",
  "items": [
+  {
+   "id": "news:월드비전에이티즈홍중과함께한6k버추얼런마무리사회",
+   "source": "news",
+   "platform": "News",
+   "account": "크리스천투데이",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xUC1ENkVsLUhOZWJZdE1IbGV1UlI0ZnpkSVRxQ3pNdGp2OEFsUkNRcEhJaHNDRXlTVUtRaC10NVd6X2hkUEcyM0hyMkFwY0MzMk8wZlFKcw?oc=5",
+   "title": "월드비전, 에이티즈 홍중과 함께한 ‘6K 버추얼런’ 마무리 : 사회",
+   "text": "월드비전, 에이티즈 홍중과 함께한 ‘6K 버추얼런’ 마무리 : 사회 크리스천투데이",
+   "images": [],
+   "published": "2026-11-27T12:45:32Z",
+   "category": "press",
+   "members": [
+    "Hongjoong"
+   ],
+   "events": [],
+   "title_en": "World Vision Wraps Up 6K Virtual Run Featuring Hongjoong",
+   "summary_en": "World Vision has concluded its \"6K Virtual Run\" campaign, which featured ATEEZ's Hongjoong, according to Christian Today. The article does not list any upcoming dates.",
+   "ai": "en",
+   "category_label": "Press",
+   "fetched": "2026-11-27T13:17:01Z",
+   "img_hash": []
+  },
   {
    "id": "yt:XKZE9w3ISzQ",
    "source": "youtube",
