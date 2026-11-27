@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T11:42:42Z",
+ "updated": "2026-11-27T12:17:01Z",
  "items": [
+  {
+   "id": "yt:XKZE9w3ISzQ",
+   "source": "youtube",
+   "platform": "YouTube",
+   "account": "ATEEZ",
+   "tier": "official",
+   "url": "https://www.youtube.com/watch?v=XKZE9w3ISzQ",
+   "title": "ATEEZ(에이티즈) - ‘UP’ Recording Behind",
+   "text": "▶ ATEEZ Official Platform:\nhttp://ateez.kqent.com\n▶ ATEEZ Official X:\nhttps://twitter.com/ATEEZofficial\n▶ ATEEZ Official Instagram:\nhttps://instagram.com/ATEEZ_official_\n▶ ATEEZ Official TikTok:\nhttps://www.tiktok.com/@ateez_official_\n▶ ATEEZ Official Facebook:\nhttps://facebook.com/ATEEZofficial\n\n#ATEEZ #에이티즈\n#GOLDENHOUR #GOLDENHOUR_Part6 #UP",
+   "images": [
+    "https://i1.ytimg.com/vi/XKZE9w3ISzQ/hqdefault.jpg"
+   ],
+   "published": "2026-11-27T12:00:03Z",
+   "category": "video",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ Shares Behind-the-Scenes Recording Footage for 'UP'",
+   "summary_en": "ATEEZ posted a recording behind-the-scenes video for 'UP,' tied to the GOLDENHOUR Part 6 release. The description also links the group's official X, Instagram, TikTok, and Facebook accounts.",
+   "ai": "en",
+   "category_label": "Video",
+   "fetched": "2026-11-27T12:17:01Z"
+  },
   {
    "id": "x:2126272529509843214",
    "source": "x",
@@ -2262,6 +2284,27 @@
    "ai": "en",
    "title_en": "ATEEZ back at No. 1 on Billboard 200 and into Hot 100, vows to stay humble",
    "summary_en": "ATEEZ returned to the top of the Billboard 200 and also broke into the Hot 100, with the group saying they will not lose the original spirit that brought them this far.",
+   "img_hash": []
+  },
+  {
+   "id": "news:에이티즈美빌보드200네번째1위핫100세번째진입거침없는글로벌행보",
+   "source": "news",
+   "platform": "News",
+   "account": "비욘드포스트",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pN3dyVnRVd2h5d3VHOE1VVFhQXzAwU2pSdm54NzVFNVdIWDZmQW5QN0c3cDNoRkpJMnRCdS1tSXRVSmJfa01aMUtoMUZSVWtSUkNkVHhfN1FNTHY5Y21vMDdnMmd0SXZYemJZLURDZ3lkbFcyQU5vczlHWkM?oc=5",
+   "title": "에이티즈, 美 ‘빌보드 200’ 네 번째 1위→‘핫 100’ 세 번째 진입…거침없는 글로벌 행보",
+   "text": "에이티즈, 美 ‘빌보드 200’ 네 번째 1위→‘핫 100’ 세 번째 진입…거침없는 글로벌 행보 비욘드포스트",
+   "images": [],
+   "published": "2026-11-24T22:19:40Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ Earns Fourth No. 1 on Billboard 200 and Third Hot 100 Entry",
+   "summary_en": "Beyond Post reports that ATEEZ claimed the No. 1 spot on the U.S. Billboard 200 for the fourth time and entered the Billboard Hot 100 for the third time, continuing their global run.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-27T12:17:01Z",
    "img_hash": []
   },
   {
