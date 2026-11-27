@@ -9,9 +9,9 @@ Trang theo dõi tin ATEEZ cá nhân: gom thông báo chính thức, lịch, rele
 
 | Nguồn | Tần suất | Chi phí |
 |---|---|---|
-| KQ Web – ateez.kqent.com (tag NOTICE) | 30 phút/lần | Miễn phí |
-| YouTube – kênh ATEEZ (RSS) | 30 phút/lần | Miễn phí |
-| Báo – Google News (ATEEZ / 에이티즈, tiếng Anh, Hàn, Việt) | 30 phút/lần | Miễn phí |
+| KQ Web – ateez.kqent.com (tag NOTICE) | 1 giờ/lần | Miễn phí |
+| YouTube – kênh ATEEZ (RSS) | 1 giờ/lần | Miễn phí |
+| Báo – Google News (ATEEZ / 에이티즈, tiếng Anh, Hàn, Việt) | 1 giờ/lần | Miễn phí |
 | X – @ATEEZofficial, @ATEEZofficialjp, @kqent (chỉ giữ bài về ATEEZ), @ATEEZstaff, @ATEEZUD, @1024updates, @ateez_charts | 10:00 và 18:00 giờ VN | ~0,005 USD/bài đọc |
 
 Muốn thêm hoặc bớt nguồn thì sửa `config.json`.
