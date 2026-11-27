@@ -3,7 +3,7 @@ name: Update X (10h & 18h VN)
 # X API tinh phi theo so bai doc -> chi quet 2 lan/ngay: 03:00 va 11:00 UTC = 10:00 va 18:00 gio VN.
 on:
   schedule:
-    - cron: "0 3,11 * * *"
+    - cron: "13 3,11 * * *"
   workflow_dispatch:
 
 permissions:

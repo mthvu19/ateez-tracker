@@ -1,9 +1,9 @@
 name: Update (KQ Web, YouTube, News)
 
-# Nguon mien phi: 30 phut/lan. (GitHub co the chay tre vai phut, binh thuong.)
+# Nguon mien phi: 30 phut/lan, phut 07 va 37 (tranh gio chan :00/:30 GitHub hay bo lich)
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
     inputs:
       reprocess:
