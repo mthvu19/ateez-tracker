@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:17:00Z",
+ "updated": "2026-11-27T22:17:00Z",
  "items": [
   {
    "id": "x:2126327686184194499",
@@ -26,39 +26,6 @@
    "fetched": "2026-11-27T19:55:03Z",
    "img_hash": [
     "4f5d737333604a8e"
-   ]
-  },
-  {
-   "id": "x:2126301539937783985",
-   "source": "x",
-   "platform": "X",
-   "account": "@1024updates",
-   "tier": "fan",
-   "url": "https://x.com/1024updates/status/2126301539937783985",
-   "title": "[📷] 261127 | SEONGHWA",
-   "text": "[📷] 261127 | SEONGHWA\n\n#ATEEZ #에이티즈 #SEONGHWA",
-   "images": [
-    "https://pbs.twimg.com/media/HYIj-diacAEcp_l.jpg",
-    "https://pbs.twimg.com/media/HYIj-dta0AEAH6s.jpg",
-    "https://pbs.twimg.com/media/HYIj-ddacAE0NVK.jpg",
-    "https://pbs.twimg.com/media/HYIj-duaUAAIbiU.jpg"
-   ],
-   "published": "2026-11-27T13:06:06Z",
-   "category": "sns",
-   "members": [
-    "Seonghwa"
-   ],
-   "events": [],
-   "title_en": "Seonghwa Photo Update on November 27",
-   "summary_en": "Seonghwa's photo update from November 27, 2026 was shared, tagged #ATEEZ, #에이티즈, and #SEONGHWA. The item includes no caption.",
-   "ai": "en",
-   "category_label": "SNS",
-   "fetched": "2026-11-27T19:55:03Z",
-   "img_hash": [
-    "261f9f1f0c1c190b",
-    "a3830b9f13133717",
-    "cf41292b4d493933",
-    "43203d0d4c496939"
    ]
   },
   {
@@ -2175,6 +2142,27 @@
    "img_hash": []
   },
   {
+   "id": "news:에이티즈빌보드200이어핫100까지진입글로벌인기입증",
+   "source": "news",
+   "platform": "News",
+   "account": "Queen 이코노미퀸",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wRVhEdlQwNmlYZ3dOMndMdldFWllPbGlsbExRelhIOTRSekpCd2RucFVxelV5dlJkVlk4QlVaWVNyTHZNcklLZVZvNngyY2Nxc1ZHa1hzcWVGS1Z2YmhXU3lrazU1MWdJd1E?oc=5",
+   "title": "에이티즈, ‘빌보드 200’ 이어 ‘핫 100’까지 진입…글로벌 인기 입증",
+   "text": "에이티즈, ‘빌보드 200’ 이어 ‘핫 100’까지 진입…글로벌 인기 입증 Queen 이코노미퀸",
+   "images": [],
+   "published": "2026-11-25T04:33:50Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ Breaks Into Billboard Hot 100 After Billboard 200 Entry",
+   "summary_en": "Following their Billboard 200 entry, ATEEZ has now charted on the Billboard Hot 100, a sign of their growing global popularity, according to Queen Economy Queen.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-27T22:17:00Z",
+   "img_hash": []
+  },
+  {
    "id": "x:2125439428265185281",
    "source": "x",
    "platform": "X",
@@ -2372,27 +2360,6 @@
    "ai": "en",
    "title_en": "ATEEZ hits No. 90 on Billboard Hot 100 for third chart entry",
    "summary_en": "ATEEZ debuted at No. 90 on the US Billboard Hot 100, marking their third chart entry, according to News1.",
-   "img_hash": []
-  },
-  {
-   "id": "news:에이티즈빌보드200정상찍고핫100까지뚫었다",
-   "source": "news",
-   "platform": "News",
-   "account": "매일경제",
-   "tier": "news",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LWVBEeDgycklEV1JsYlRzaGh1VmE2WGZsQjVwRUxpLTJSa0Z6RGhUQ3dEWHFpU05RWHFBNXh5b2hYU3hYdnlyNlZ1SlRuNThldDZz?oc=5",
-   "title": "에이티즈, ‘빌보드 200’ 정상 찍고 ‘핫 100’까지 뚫었다",
-   "text": "에이티즈, ‘빌보드 200’ 정상 찍고 ‘핫 100’까지 뚫었다 매일경제",
-   "images": [],
-   "published": "2026-11-24T23:55:29Z",
-   "category": "charts",
-   "members": [],
-   "events": [],
-   "category_label": "Charts & Records",
-   "fetched": "2026-11-26T14:30:41Z",
-   "ai": "en",
-   "title_en": "ATEEZ hits top of Billboard 200 and breaks into Hot 100",
-   "summary_en": "ATEEZ took the No. 1 spot on the Billboard 200 and also broke into the Billboard Hot 100, according to Maeil Business Newspaper.",
    "img_hash": []
   },
   {
