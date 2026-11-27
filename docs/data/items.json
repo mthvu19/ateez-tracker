@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:55:03Z",
+ "updated": "2026-11-27T20:17:01Z",
  "items": [
   {
    "id": "x:2126327686184194499",
@@ -26,33 +26,6 @@
    "fetched": "2026-11-27T19:55:03Z",
    "img_hash": [
     "4f5d737333604a8e"
-   ]
-  },
-  {
-   "id": "x:2126301570128282049",
-   "source": "x",
-   "platform": "X",
-   "account": "@1024updates",
-   "tier": "fan",
-   "url": "https://x.com/1024updates/status/2126301570128282049",
-   "title": "",
-   "text": "",
-   "images": [
-    "https://pbs.twimg.com/media/HYIkAO2aUAAhw-C.jpg",
-    "https://pbs.twimg.com/media/HYIkAOMaUAEef8z.jpg"
-   ],
-   "published": "2026-11-27T13:06:13Z",
-   "category": "sns",
-   "members": [],
-   "events": [],
-   "title_en": "Unclear Update Shared by 1024updates",
-   "summary_en": "This item from 1024updates has no title or text, so its content could not be identified. It was posted on November 27, 2026.",
-   "ai": "en",
-   "category_label": "SNS",
-   "fetched": "2026-11-27T19:55:03Z",
-   "img_hash": [
-    "923298b87c7c7c6c",
-    "1f0c859b33333339"
    ]
   },
   {
