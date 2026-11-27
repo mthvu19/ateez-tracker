@@ -1,0 +1,41 @@
+name: Auto update loop
+
+# Lich "schedule" cua GitHub hay bi bo luot -> workflow nay tu chay vong lap:
+# cap nhat nguon mien phi moi gio (phut 17), X luc 10h & 18h gio VN,
+# chay ~5h40 roi tu goi lai chinh no (workflow_dispatch bang GITHUB_TOKEN duoc phep).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: auto-loop
+  cancel-in-progress: true
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pillow
+      - name: Vong lap cap nhat
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          PAGE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: bash tools/loop.sh 20400
+      - name: Tu goi lai vong lap moi
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          curl -fsS -X POST -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/loop.yml/dispatches" \
+            -d '{"ref":"main"}' && echo "da goi vong lap moi"
