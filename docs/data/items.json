@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:40:27Z",
+ "updated": "2026-11-27T23:17:00Z",
  "items": [
   {
    "id": "news:빌보드94의법칙k팝도뚫었다베스티에이티즈로본15초히트공식",
@@ -20,6 +20,48 @@
    "ai": "en",
    "category_label": "Press",
    "fetched": "2026-11-27T22:40:27Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:howtogetticketsforateezszerotoalleuropetourpresaleandsaledates",
+   "source": "news",
+   "platform": "News",
+   "account": "InMusic Blog",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QQTdGRF9vdmgwT0J0Y0R2RzNxOWlPZFp2aWU2a0lZUEtmNTM4V2RhNGI0bENORnlVY0o4TVVHR3RRN1hVbjlhTThodE1FLUFJR21UeU5jRUstczd6NlQydFZfWVVUNlVobGptQUt1emRpN2wyVWhr?oc=5",
+   "title": "How to Get Tickets for ATEEZ’s ZERO TO ALL Europe Tour: Presale and Sale Dates",
+   "text": "How to Get Tickets for ATEEZ’s ZERO TO ALL Europe Tour: Presale and Sale Dates InMusic Blog",
+   "images": [],
+   "published": "2026-11-27T16:29:23Z",
+   "category": "tour",
+   "members": [],
+   "events": [],
+   "title_en": "How to get tickets for ATEEZ's ZERO TO ALL Europe Tour",
+   "summary_en": "InMusic Blog has a guide to getting tickets for ATEEZ's ZERO TO ALL Europe Tour, covering the presale and general sale dates. The exact dates are not included in the item text.",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-27T23:17:00Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:kpopscamsthechartslastweeksnumber1albumfalls86ateezwasateaseplusgrandtheftautocd",
+   "source": "news",
+   "platform": "News",
+   "account": "Showbiz411",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRXZQWGhkOFc2WndrMHgyczI3bDZFSkhranY3WUc0SGt2VGwzeEt3bUNIVW0tYzJHMmFHTFBBbkZWcmV5SmJrczA2c0RRcWxRRFBNaEtYdzFGRFdlcUtEWUVwWlBBZ3lQMFBTYk9BLUs2VGN0c25aYl9zQjRrS01JckE2dXhXNm9WVXYteGVDeVdETy03QVNvZ0JjTmFoVU9NT3Ezbm9JeDgwa0tWWjFUc2N6c3REaXJTSkZhdnlFMmN5Vm14Q2YyZWdHek5Oc0loa1o1VkZEMUJMOGs3QkE3aGtoR2JDcFE5QXNQd3ZuWUlfbDlPZFJIVlhSbmFpdVpYTG93TDN0dw?oc=5",
+   "title": "K-Pop Scams the Charts: Last Week's Number 1 Album Falls 86%, Ateez Was A Tease - Plus Grand Theft Auto CD Scores 150K with Keith Richards Track",
+   "text": "K-Pop Scams the Charts: Last Week's Number 1 Album Falls 86%, Ateez Was A Tease - Plus Grand Theft Auto CD Scores 150K with Keith Richards Track Showbiz411",
+   "images": [],
+   "published": "2026-11-27T15:47:04Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ a tease in weekly K-pop chart roundup",
+   "summary_en": "Showbiz411's weekly chart roundup says last week's No. 1 album fell 86%, and ATEEZ was a tease in the rankings. The same piece notes Grand Theft Auto CD scored 150K with a Keith Richards track.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-27T23:17:00Z",
    "img_hash": []
   },
   {
@@ -306,6 +348,29 @@
    "ai": "en",
    "category_label": "Concert/Tour",
    "fetched": "2026-11-27T11:42:42Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:resceneswonibeatsbtsjiminandateezssantoclaimno1spotinnovemberidolrankings",
+   "source": "news",
+   "platform": "News",
+   "account": "International Business Times, Singapore Edition",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFdtUUphY1lkTDFyYzJxd3ZjcUxWYVNxSDV3NWZvNDktb2RHNExyX2gwX3pmU1BWSTVOaFNYT1cxazNCZldLbWJIWUt1b3VtUXVVQTY3dmVNWUkxWVZCQ3I0cnM1d3Bxc1BQYWd6WFoyVHlYdklpV2pwbGU4aHBfRXJfYWtPb2FMUU1jSGdndFc2VUV3Y0JQZ1hnVFFTcG5TcnM1Mk4zWWZBYmREdEJCSElCT2Q3QUdEVEE?oc=5",
+   "title": "RESCENE's Woni Beats BTS' Jimin and ATEEZ's San to Claim No. 1 Spot in November Idol Rankings",
+   "text": "RESCENE's Woni Beats BTS' Jimin and ATEEZ's San to Claim No. 1 Spot in November Idol Rankings International Business Times, Singapore Edition",
+   "images": [],
+   "published": "2026-11-27T10:01:01Z",
+   "category": "charts",
+   "members": [
+    "San"
+   ],
+   "events": [],
+   "title_en": "RESCENE's Woni tops November idol rankings over Jimin and San",
+   "summary_en": "RESCENE's Woni took the No. 1 spot in the November idol rankings, beating BTS' Jimin and ATEEZ's San. The ranking was reported by International Business Times, Singapore Edition.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-27T23:17:00Z",
    "img_hash": []
   },
   {
@@ -2402,6 +2467,27 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T16:10:59Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:에이티즈빌보드양대메인차트동시석권핫10090위진입",
+   "source": "news",
+   "platform": "News",
+   "account": "일간스포츠",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xSWJOWlVJQWRFM051OWVPcnpsRG5oMDVzT3N4OWdCT05SOU1FbkZUekF6VG9QUGVjWlBnRkhXeGhpSkd6WTg4X3Y4YWdpS2tTX0NmeGZhWUcxbGc?oc=5",
+   "title": "에이티즈, 빌보드 양대 메인 차트 동시 석권…‘핫 100’ 90위 진입",
+   "text": "에이티즈, 빌보드 양대 메인 차트 동시 석권…‘핫 100’ 90위 진입 일간스포츠",
+   "images": [],
+   "published": "2026-11-24T23:43:00Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ takes two major Billboard charts and enters Hot 100 at No. 90",
+   "summary_en": "ATEEZ reportedly topped two of Billboard's main charts at the same time. The group also entered the Billboard Hot 100 at No. 90.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-27T23:17:00Z",
    "img_hash": []
   },
   {
