@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:42:43Z",
+ "updated": "2026-11-27T11:42:42Z",
  "items": [
   {
    "id": "x:2126272529509843214",
@@ -12,27 +12,27 @@
    "text": "[📢] 【#ANITEEZ × TOWER RECORDS CAFE】事前予約受付がスタート！☕️\n\nコラボカフェ限定のスペシャルな特典もご用意しております🎁✨\nぜひチェックしてください！💗\n\n📍ﾀﾜｰﾚｺｰﾄﾞｶﾌｪ池袋店\n📍ﾀﾜｰﾚｺｰﾄﾞｶﾌｪ 大阪ｽﾃｰｼｮﾝｼﾃｨ店\n📅2026年12月3日(木)～12月20日(日)\n\n☑️予約受付開始日\n11月27日(金) 20:00～ ※先着順\n\nチケットぴあ予約ページ\nhttps://t.co/36B4iAqiAy\n\n#ATEEZ #エイティーズ #ANITEEZ\n#ANITEEZ_IN_DejaVu #ANITEEZ_IN_COLOR\n#TOWERRECORDSCAFE",
    "images": [],
    "published": "2026-11-27T11:10:49Z",
-   "category": "schedule",
+   "category": "official",
    "members": [],
    "events": [
     {
-     "label": "ANITEEZ x Tower Records Cafe collab run",
-     "start": "2026-12-02T15:00:00Z",
-     "end": "2026-12-19T15:00:00Z",
-     "has_time": true
-    },
-    {
-     "label": "Reservations open (first come, first served)",
+     "label": "ANITEEZ x Tower Records Cafe reservations open",
      "start": "2026-11-27T11:00:00Z",
      "end": null,
      "has_time": true
+    },
+    {
+     "label": "ANITEEZ x Tower Records Cafe run (Ikebukuro and Osaka Station City)",
+     "start": "2026-12-02T15:00:00Z",
+     "end": "2026-12-19T15:00:00Z",
+     "has_time": true
     }
    ],
-   "title_en": "ANITEEZ x Tower Records Cafe Collab Opens Reservations",
-   "summary_en": "The ANITEEZ x TOWER RECORDS CAFE collab runs December 3 to 20, 2026 at the Ikebukuro and Osaka Station City locations. Reservations opened November 27 at 20:00 JST on a first-come, first-served basis, with exclusive cafe-only perks.",
+   "title_en": "ANITEEZ x Tower Records Cafe Reservations Now Open in Japan",
+   "summary_en": "Reservations for the ANITEEZ x Tower Records Cafe collaboration opened on November 27 at 20:00 JST via Ticket Pia, on a first-come, first-served basis. The cafe runs from December 3 to December 20 at Ikebukuro and Osaka Station City, with exclusive collab-cafe perks.",
    "ai": "en",
-   "category_label": "Schedule",
-   "fetched": "2026-11-27T11:42:43Z",
+   "category_label": "Official Announcement",
+   "fetched": "2026-11-27T11:42:42Z",
    "img_hash": []
   },
   {
@@ -49,11 +49,11 @@
    "category": "video",
    "members": [],
    "events": [],
-   "title_en": "ATEEZ Hangs Out With Nana in New GOLDENHOUR Part 6 Clip",
-   "summary_en": "ATEEZ shared a new video clip titled \"나나 님과 해, 쩌는 짓\" (Doing Cool Stuff With Nana) as part of GOLDENHOUR_Part6, with links to YouTube and TikTok. The post also tags WOOAH.",
+   "title_en": "ATEEZ Shares New GOLDENHOUR Part 6 Clip with WOOAH's Nana and Hae",
+   "summary_en": "ATEEZ posted a new GOLDENHOUR Part 6 video featuring WOOAH's Nana and Hae, tagged #WOOAH and #Drip, with links to YouTube, TikTok, and a short link.",
    "ai": "en",
    "category_label": "Video",
-   "fetched": "2026-11-27T11:42:43Z",
+   "fetched": "2026-11-27T11:42:42Z",
    "img_hash": []
   },
   {
@@ -74,14 +74,36 @@
     "Wooyoung"
    ],
    "events": [],
-   "title_en": "Wooyoung Features in New Clip Doing Cool Stuff With Nana",
-   "summary_en": "A new video titled \"나나 님과 해, 쩌는 짓\" (Doing Cool Stuff With Nana) was shared, with Wooyoung tagged as the featured member.",
+   "title_en": "Wooyoung Shows Off Cool Moves with Nana in New Clip",
+   "summary_en": "A fan account shared a video of Wooyoung hanging out and doing cool things with Nana. The post is tagged with the group's hashtags.",
    "ai": "en",
    "category_label": "Video",
-   "fetched": "2026-11-27T11:42:43Z",
+   "fetched": "2026-11-27T11:42:42Z",
    "img_hash": [
     "07e4ce87a724a48c"
    ]
+  },
+  {
+   "id": "yt:MyZ3f4pP5-Y",
+   "source": "youtube",
+   "platform": "YouTube",
+   "account": "ATEEZ",
+   "tier": "official",
+   "url": "https://www.youtube.com/shorts/MyZ3f4pP5-Y",
+   "title": "나나 님과 해, 쩌는 짓 😎 #Shorts",
+   "text": "나나 님과 해, 쩌는 짓 😎\n\n#WOOAH \n#ATEEZ #에이티즈 \n#GOLDENHOUR_Part6 #Drip",
+   "images": [
+    "https://i2.ytimg.com/vi/MyZ3f4pP5-Y/hqdefault.jpg"
+   ],
+   "published": "2026-11-27T11:00:20Z",
+   "category": "video",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ post playful Shorts clip with Nana",
+   "summary_en": "ATEEZ uploaded a YouTube Short titled \"나나 님과 해, 쩌는 짓\" that shows a fun moment with Nana. The post is tagged with WOOAH, GOLDENHOUR_Part6, and Drip.",
+   "ai": "en",
+   "category_label": "Video",
+   "fetched": "2026-11-27T11:42:42Z"
   },
   {
    "id": "x:2126263246483054669",
@@ -98,10 +120,77 @@
    "members": [],
    "events": [],
    "title_en": "BAD Climbs Spotify Charts Across Asia",
-   "summary_en": "ATEEZ's BAD is charting on Spotify in several Asian markets, ranking #12 in South Korea (up 8), #18 in Taiwan (up 18), #54 in Singapore (up 18), #121 in Hong Kong (up 2), #173 in Malaysia (re-entry), and #177 in Japan (up 13).",
+   "summary_en": "BAD is ranked #12 in South Korea (up 8), #18 in Taiwan (up 18), #54 in Singapore (up 18), #121 in Hong Kong (up 2), #173 in Malaysia (re-entry), and #177 in Japan (up 13) on Spotify. The chart update was shared by the ATEEZ charts account.",
    "ai": "en",
    "category_label": "Charts & Records",
-   "fetched": "2026-11-27T11:42:43Z",
+   "fetched": "2026-11-27T11:42:42Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:ateezannouncelondono2arenashowforspringeuropeanlegofworldtourzerotoall",
+   "source": "news",
+   "platform": "News",
+   "account": "Stereoboard.com",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LN3p5dk1FNjhHNXhUUU9hb1RaM3pSZWxhWTBjVVZ6UzFUWFhPZjY1b0xBemxjUkVDOUxWR2ZzYVNoRjNFWnE2WDA1TFFSSVhfN0JJSUR6OEh5QWdaUGc?oc=5",
+   "title": "ATEEZ Announce London O2 Arena Show For Spring European Leg Of WORLD TOUR [ZERO TO ALL]",
+   "text": "ATEEZ Announce London O2 Arena Show For Spring European Leg Of WORLD TOUR [ZERO TO ALL] Stereoboard.com",
+   "images": [],
+   "published": "2026-11-27T10:09:16Z",
+   "category": "tour",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ announce London O2 Arena show for spring European leg of ZERO TO ALL tour",
+   "summary_en": "Stereoboard.com reports that ATEEZ have announced a show at London's O2 Arena as part of the spring European leg of their WORLD TOUR [ZERO TO ALL].",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-27T11:42:42Z",
+   "img_hash": []
+  },
+  {
+   "id": "kq:6b08e2805b2e672eba82c76c",
+   "source": "kq",
+   "platform": "KQ Web",
+   "account": "ateez.kqent.com",
+   "tier": "official",
+   "url": "https://ateez.kqent.com/contents/6b08e2805b2e672eba82c76c",
+   "title": "2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN EUROPE - 투어 발표 및 예매 안내\n",
+   "text": "안녕하세요.\nKQ 엔터테인먼트입니다.\n\n“2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN EUROPE” 투어 개최를 발표합니다.\n\n유럽 투어 티켓 예매를 희망하시는 ATINY 분들께서는 하기 내용 참고하시어 예매 부탁드립니다.\n\n[투어 정보]\n\n일자\n\n공연장\n\n도시/국가\n\n3.31 (수)\n\nThe O2\n\nLondon, UK\n\n4.4 (일)\n\nLDLC Arena\n\nLyon, France\n\n4.7 (수)\n\nUber Arena\n\nBerlin, Germany\n\n4.10 (토)\n\nTAURON Arena Krakow\n\nKrakow, Poland\n\n4.12 (월)\n\nZiggo Dome\n\nAmsterdam, Netherlands\n\n4.15 (목)\n\nLanxess Arena\n\nCologne, Germany\n\n4.17 (토)\n\nAFAS Dome\n\nAntwerp, Belgium\n\n[티켓 예매 일정]\n\n- ATINY Membership 선예매 서베이 참여:\n\n(KST) 2026.11.27(금) 06:00 PM ~ 11.30(월) 11:59 PM\n(CET) 2026.11.27(금) 10:00 AM ~ 11.30(월) 03:59 PM\n(GMT) 2026.11.27(금) 09:00 AM ~ 11.30(월) 02:59 PM\n\n- ATINY Membership 선예매:\n2026. 12. 08(화) 10:00 AM ~ 2026. 12. 11(금) 9:59 AM (Local Time)\n\n- 일반 예매:\n2026. 12. 11(금) 10:00 AM (Local Time) ~\n\n☞ ATINY MEMBERSHIP 가입하기\n☞ ATINY MEMBERSHIP 선예매 서베이 참여하기\n☞ 티켓 예매하기 / FAQ\n\n[유의사항]\n\n※ ATINY Membership 선예매는 ATINY Membership을 구매한 회원에 한해 예매가 가능합니다.\n\n※ ATINY Membership 선예매에 참여하기 위해선 TOKTOQ ‘ATINY Membership 선예매 서베이’ 참여를 기간 내 완료해 주셔야 합니다.\n\n※ ATINY Membership 선예매 서베이는 일정 기간 동안만 오픈되며, 서베이 작성 기간 후에는 참여가 불가하오니 일정에 유의해주시기 바랍니다.\n\n※ ATINY Membership에 가입 후 ‘ATINY Membership 선예매 서베이’ 기간 동안 서베이를 참여하지 않을 경우 ‘ATINY Membership 선예매’ 참여가 불가합니다.\n※ 국가 및 지역별 표준시에 따른 선예매 서베이 작성 및 예매 일시를 유의하시기 바랍니다.\n\n“2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN EUROPE”에 ATINY 여러분들의 많은 관심 부탁드립니다.\n\n감사합니다.",
+   "images": [],
+   "published": "2026-11-27T09:00:00Z",
+   "category": "tour",
+   "members": [],
+   "events": [
+    {
+     "label": "ATINY Membership presale survey",
+     "start": "2026-11-27T09:00:00Z",
+     "end": "2026-11-30T14:59:00Z",
+     "has_time": true
+    },
+    {
+     "label": "ATINY Membership presale",
+     "start": "2026-12-08T09:00:00Z",
+     "end": "2026-12-11T08:59:00Z",
+     "has_time": true
+    },
+    {
+     "label": "General ticket sales open",
+     "start": "2026-12-11T09:00:00Z",
+     "end": null,
+     "has_time": true
+    },
+    {
+     "label": "European tour run (London to Antwerp)",
+     "start": "2027-03-30T15:00:00Z",
+     "end": "2027-04-16T15:00:00Z",
+     "has_time": true
+    }
+   ],
+   "title_en": "ATEEZ announce 2027 European tour ZERO TO ALL with ATINY presale details",
+   "summary_en": "KQ Entertainment announced the 2027 ATEEZ WORLD TOUR [ZERO TO ALL] IN EUROPE, with seven dates from March 31 at The O2 in London to April 17 at AFAS Dome in Antwerp. ATINY Membership holders get presale access after completing a TOKTOQ presale survey, with general sales opening December 11 at 10:00 AM local time.",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-27T11:42:42Z",
    "img_hash": []
   },
   {
@@ -121,13 +210,57 @@
    "members": [],
    "events": [],
    "title_en": "ATEEZ Announces 2027 World Tour ZERO TO ALL in Europe",
-   "summary_en": "ATEEZ has announced the 2027 world tour ZERO TO ALL, with European dates. Fans can find tour details on the official site and sign up for the pre-sale survey.",
+   "summary_en": "ATEEZ has announced its 2027 world tour ZERO TO ALL in Europe, with tour information on the official site and a pre-sale survey open to fans. The post does not give specific show dates or a pre-sale date.",
    "ai": "en",
    "category_label": "Concert/Tour",
-   "fetched": "2026-11-27T11:42:43Z",
+   "fetched": "2026-11-27T11:42:42Z",
    "img_hash": [
     "14690a0f6abbb4c6"
    ]
+  },
+  {
+   "id": "news:wonicủarescenevượtmặtsanateezvàjiminbts",
+   "source": "news",
+   "platform": "News",
+   "account": "Sinh viên Việt Nam",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHg2UGZEZ2xzLWdsVEpuQmJfQnpnN0U4UUJRVGdJS2M5WEVDN054U2N5TVl2c1lySTY1Y2lhRUhKREh0Z08yaVJ5Q09EWkR3RFhZMzhhWFBYcHA3Z3RYeElYMDV4SnRUa3ZJVmZtY0NSYk9uX2w1WWYwZzQ0R0NDVEV2SzVpMnBvbDlFbzdwM2RWRmdW?oc=5",
+   "title": "Woni của RESCENE 'vượt mặt' San (ATEEZ) và Jimin (BTS)",
+   "text": "Woni của RESCENE 'vượt mặt' San (ATEEZ) và Jimin (BTS) Sinh viên Việt Nam",
+   "images": [],
+   "published": "2026-11-27T07:46:04Z",
+   "category": "press",
+   "members": [
+    "San"
+   ],
+   "events": [],
+   "title_en": "Woni of RESCENE Reportedly Surpasses San (ATEEZ) and Jimin (BTS)",
+   "summary_en": "A Vietnamese student news outlet reports that Woni of RESCENE has overtaken ATEEZ's San and BTS's Jimin. The item does not specify the ranking or metric behind the claim.",
+   "ai": "en",
+   "category_label": "Press",
+   "fetched": "2026-11-27T11:42:42Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:스경연예연구소에이티즈두마리토끼다잡은영리한골든아워파트6",
+   "source": "news",
+   "platform": "News",
+   "account": "스포츠경향",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11MkdHellUOU5BcDhpNTc4T2xhN2oyUWhzOW9lbC1VMTRKTGxtMXhjMGEtZVg4bVFXWnEzb3duREpNeGxrR1lhTmV3VzhjSGZxcTBBbnVrY1hjTXg0alHSAWNBVV95cUxQYWFZY1QwamZyUGJDWUFHZEFRUElHMHJaRTRGLV9ya3dFSjM4SzNQVmhpY01jWENyM3BlZzIxUFlDTUViVGRMRktxTXd4TV9wVEJtLXVVSDZMTEphVFVyMndwLVE?oc=5",
+   "title": "[스경연예연구소] 에이티즈, 두 마리 토끼 다 잡은 영리한 ‘골든 아워 : 파트 6’",
+   "text": "[스경연예연구소] 에이티즈, 두 마리 토끼 다 잡은 영리한 ‘골든 아워 : 파트 6’ 스포츠경향",
+   "images": [],
+   "published": "2026-11-27T07:26:00Z",
+   "category": "press",
+   "members": [],
+   "events": [],
+   "title_en": "Sports Kyunghyang praises ATEEZ's GOLDENHOUR: Part 6 as a clever two-for-one",
+   "summary_en": "A Sports Kyunghyang entertainment feature describes ATEEZ's GOLDENHOUR: Part 6 as a clever release that hits two goals at once. The headline suggests the project works on multiple fronts, though the excerpt does not give details.",
+   "ai": "en",
+   "category_label": "Press",
+   "fetched": "2026-11-27T11:42:42Z",
+   "img_hash": []
   },
   {
    "id": "news:resceneswonitopsnovemberidolbrandreputationrankingsaheadofateezsanandbtsjimin",
@@ -1494,6 +1627,27 @@
    "ai": "en",
    "title_en": "Big Data Ranking: ATEEZ No. 1 in November 2026 Rising Singer Brand Reputation",
    "summary_en": "Big-data analysis of November 2026 rising singer brand reputation places ATEEZ first, Kang Hye-yeon second, and Kim Yong-bin third.",
+   "img_hash": []
+  },
+  {
+   "id": "news:ateeznctdreamrescenea2oliteandillittopcircleweeklycharts",
+   "source": "news",
+   "platform": "News",
+   "account": "Soompi",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUdicHRYQWNHdXNaTVVMUV81SHRaUDVwV25MQmNVZWd1cmZTa3JYRVQ0dUowdVJ3OFB5VzQ0dFJtTGVBeVAzSmxjWkJHVEtYNzNTY1hNQXNnWnBYS1pIeXFlUWc4ZkVCa0hNZmh1YjViX21yd2JFcS10OFc2aUdxcWVKMWlsRWdHMlZZWEZ4SVNUNWoxZjNmRVJKcnJHWDVJSDVxdEdGX0dNa3ZEcFE?oc=5",
+   "title": "ATEEZ, NCT DREAM, RESCENE, A2O LITE, And ILLIT Top Circle Weekly Charts",
+   "text": "ATEEZ, NCT DREAM, RESCENE, A2O LITE, And ILLIT Top Circle Weekly Charts Soompi",
+   "images": [],
+   "published": "2026-11-25T21:30:41Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ, NCT DREAM, RESCENE, A2O LITE and ILLIT top Circle weekly charts",
+   "summary_en": "Soompi reports that ATEEZ, NCT DREAM, RESCENE, A2O LITE, and ILLIT all topped the Circle weekly charts. The report gives no further chart details.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-27T11:42:42Z",
    "img_hash": []
   },
   {

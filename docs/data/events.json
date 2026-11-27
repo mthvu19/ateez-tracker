@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:42:43Z",
+ "updated": "2026-11-27T11:42:42Z",
  "events": [
   {
    "label": "2027 SEASON'S GREETINGS pre-order opens",
@@ -37,14 +37,25 @@
    ]
   },
   {
-   "label": "Reservations open (first come, first served)",
+   "label": "ATINY Membership presale survey",
+   "start": "2026-11-27T09:00:00Z",
+   "end": "2026-11-30T14:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6b08e2805b2e672eba82c76c",
+   "title": "ATEEZ announce 2027 European tour ZERO TO ALL with ATINY presale details",
+   "url": "https://ateez.kqent.com/contents/6b08e2805b2e672eba82c76c",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "ANITEEZ x Tower Records Cafe reservations open",
    "start": "2026-11-27T11:00:00Z",
    "end": null,
    "has_time": true,
    "item_id": "x:2126272529509843214",
-   "title": "ANITEEZ x Tower Records Cafe Collab Opens Reservations",
+   "title": "ANITEEZ x Tower Records Cafe Reservations Now Open in Japan",
    "url": "https://x.com/ATEEZofficialjp/status/2126272529509843214",
-   "category": "schedule",
+   "category": "official",
    "members": []
   },
   {
@@ -103,14 +114,14 @@
    "members": []
   },
   {
-   "label": "ANITEEZ x Tower Records Cafe collab run",
+   "label": "ANITEEZ x Tower Records Cafe run (Ikebukuro and Osaka Station City)",
    "start": "2026-12-02T15:00:00Z",
    "end": "2026-12-19T15:00:00Z",
    "has_time": false,
    "item_id": "x:2126272529509843214",
-   "title": "ANITEEZ x Tower Records Cafe Collab Opens Reservations",
+   "title": "ANITEEZ x Tower Records Cafe Reservations Now Open in Japan",
    "url": "https://x.com/ATEEZofficialjp/status/2126272529509843214",
-   "category": "schedule",
+   "category": "official",
    "members": []
   },
   {
@@ -147,6 +158,17 @@
    "members": []
   },
   {
+   "label": "ATINY Membership presale",
+   "start": "2026-12-08T09:00:00Z",
+   "end": "2026-12-11T08:59:00Z",
+   "has_time": true,
+   "item_id": "kq:6b08e2805b2e672eba82c76c",
+   "title": "ATEEZ announce 2027 European tour ZERO TO ALL with ATINY presale details",
+   "url": "https://ateez.kqent.com/contents/6b08e2805b2e672eba82c76c",
+   "category": "tour",
+   "members": []
+  },
+  {
    "label": "General Ticket Sale",
    "start": "2026-12-08T11:00:00Z",
    "end": null,
@@ -165,6 +187,17 @@
    "item_id": "kq:6ae94a808d38027a8d6b8b65",
    "title": "2027 ATEEZ World Tour [ZERO TO ALL] in Incheon Ticket Schedule Announced",
    "url": "https://ateez.kqent.com/contents/6ae94a808d38027a8d6b8b65",
+   "category": "tour",
+   "members": []
+  },
+  {
+   "label": "General ticket sales open",
+   "start": "2026-12-11T09:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "kq:6b08e2805b2e672eba82c76c",
+   "title": "ATEEZ announce 2027 European tour ZERO TO ALL with ATINY presale details",
+   "url": "https://ateez.kqent.com/contents/6b08e2805b2e672eba82c76c",
    "category": "tour",
    "members": []
   },
@@ -265,6 +298,17 @@
    "title": "ATEEZ 'VR CONCERT BOX' Set for February 17, 2027 Release",
    "url": "https://ateez.kqent.com/contents/6ace4dd972022d1e98d3fbcc",
    "category": "merch",
+   "members": []
+  },
+  {
+   "label": "European tour run (London to Antwerp)",
+   "start": "2027-03-30T15:00:00Z",
+   "end": "2027-04-16T15:00:00Z",
+   "has_time": false,
+   "item_id": "kq:6b08e2805b2e672eba82c76c",
+   "title": "ATEEZ announce 2027 European tour ZERO TO ALL with ATINY presale details",
+   "url": "https://ateez.kqent.com/contents/6b08e2805b2e672eba82c76c",
+   "category": "tour",
    "members": []
   },
   {
