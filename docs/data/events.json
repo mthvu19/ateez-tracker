@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:02:13Z",
+ "updated": "2026-11-27T11:42:43Z",
  "events": [
   {
    "label": "2027 SEASON'S GREETINGS pre-order opens",
@@ -35,6 +35,17 @@
    "members": [
     "Wooyoung"
    ]
+  },
+  {
+   "label": "Reservations open (first come, first served)",
+   "start": "2026-11-27T11:00:00Z",
+   "end": null,
+   "has_time": true,
+   "item_id": "x:2126272529509843214",
+   "title": "ANITEEZ x Tower Records Cafe Collab Opens Reservations",
+   "url": "https://x.com/ATEEZofficialjp/status/2126272529509843214",
+   "category": "schedule",
+   "members": []
   },
   {
    "label": "Entry deadline for UP streaming event 2 (GOLDEN HOUR : Part.6)",
@@ -89,6 +100,17 @@
    "title": "ATEEZ 2025 World Tour IN JAPAN Blu-ray and DVD set for December 2",
    "url": "https://www.youtube.com/watch?v=Rx0DXz7VRZo",
    "category": "release",
+   "members": []
+  },
+  {
+   "label": "ANITEEZ x Tower Records Cafe collab run",
+   "start": "2026-12-02T15:00:00Z",
+   "end": "2026-12-19T15:00:00Z",
+   "has_time": false,
+   "item_id": "x:2126272529509843214",
+   "title": "ANITEEZ x Tower Records Cafe Collab Opens Reservations",
+   "url": "https://x.com/ATEEZofficialjp/status/2126272529509843214",
+   "category": "schedule",
    "members": []
   },
   {
