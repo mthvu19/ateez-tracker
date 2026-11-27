@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:17:00Z",
+ "updated": "2026-11-27T15:17:01Z",
  "items": [
   {
    "id": "news:월드비전에이티즈홍중과함께한6k버추얼런마무리사회",
@@ -2286,6 +2286,27 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T16:10:59Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:ateezmakesabigsplashconquersusbillboard200andhot100atonce",
+   "source": "news",
+   "platform": "News",
+   "account": "스포츠조선",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXRMOFFsc2hNR1ZfTzVSMlpKTzI0N2NyZm1uVmFVcGw1a281NzRyUzVlbmloV1ZzZUVLeHkwdmRQclZvYi1BdjRhQW1MZE9WQmRVU0RPRDNZMWF4SzJDeHdlOF9aUUdTOEI2eWNDZHE4S1hINXpDX1BHaGdUZERPRXJKRQ?oc=5",
+   "title": "ATEEZ Makes a Big Splash... Conquers U.S. 'Billboard 200' and 'Hot 100' at Once",
+   "text": "ATEEZ Makes a Big Splash... Conquers U.S. 'Billboard 200' and 'Hot 100' at Once 스포츠조선",
+   "images": [],
+   "published": "2026-11-24T23:17:47Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ Tops U.S. Billboard 200 and Hot 100 at the Same Time",
+   "summary_en": "ATEEZ has taken over both the U.S. Billboard 200 and the Hot 100 at the same time, making a big splash on the American charts.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-27T15:17:01Z",
    "img_hash": []
   },
   {
