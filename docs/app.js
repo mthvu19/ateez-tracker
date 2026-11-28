@@ -33,7 +33,7 @@
   var VIEWS = [['today', 'Today'], ['calendar', 'Calendar'], ['news', 'All News'], ['photos', 'Photos'], ['funfacts', 'Fun Facts'], ['saved', 'Saved']];
 
   var S = {
-    items: [], events: [], facts: [], meta: {},
+    items: [], events: [], facts: [], meta: {}, topics: {},
     cat: 'all', member: null, q: '', limit: 40,
     calMonth: null, calDay: null,
     saved: loadSaved()
@@ -106,9 +106,41 @@
     var x = CATS[c] || CATS.official;
     return '<span class="cat" style="background:' + x.bg + ';color:' + x.fg + '">' + esc(x.label) + '</span>';
   }
-  function card(it) {
-    var ms = t(it.published), saved = !!S.saved[it.id];
-    var mems = (it.members || []).map(function (m) { return '<span class="mem">' + esc(m) + '</span>'; }).join('');
+  var TIER_RANK = { official: 0, news: 1, fan: 2 };
+  // gom tin cung chu de (topic) thanh mot "cau chuyen"; tin dai dien: nguon chinh thuc, roi tom tat dai nhat
+  function stories(list) {
+    var out = [], idx = {};
+    list.forEach(function (it) {
+      var k = it.topic || it.id;
+      if (!idx[k]) { idx[k] = { key: k, items: [] }; out.push(idx[k]); }
+      idx[k].items.push(it);
+    });
+    out.forEach(function (g) {
+      var rep = g.items.slice().sort(function (a, b) {
+        return (TIER_RANK[a.tier] - TIER_RANK[b.tier]) || ((b.summary_en || '').length - (a.summary_en || '').length);
+      })[0];
+      g.rep = rep; g.category = rep.category; g.published = g.items[0].published;
+      var mem = {}; g.items.forEach(function (i) { (i.members || []).forEach(function (m) { mem[m] = 1; }); });
+      g.members = Object.keys(mem);
+      var tp = S.topics[g.key];
+      g.title = g.items.length > 1 && tp && tp.title ? tp.title : title(rep);
+    });
+    return out;
+  }
+  function sourceName(it) {
+    if (it.source === 'kq') return 'KQ Entertainment';
+    if (it.source === 'news') return it.account || 'News';
+    return (it.account || '') + ' · ' + (it.platform || '');
+  }
+  function card(it, g) {
+    g = g || { items: [it], members: it.members || [], published: it.published, title: title(it) };
+    var ms = t(g.published), saved = !!S.saved[it.id];
+    var others = g.items.filter(function (o) { return o !== it; });
+    var more = others.length ? '<details class="more-src"><summary>+' + others.length + ' more source' + (others.length > 1 ? 's' : '') + '</summary><ul>' +
+      others.map(function (o) {
+        return '<li><a href="' + esc(safeUrl(o.url)) + '" target="_blank" rel="noopener">' + esc(title(o)) + '</a><span>' + esc(sourceName(o)) + '</span></li>';
+      }).join('') + '</ul></details>' : '';
+    var mems = (g.members || []).map(function (m) { return '<span class="mem">' + esc(m) + '</span>'; }).join('');
     var imgs = (it.images || []).slice(0, 4).map(function (u) {
       return '<a href="' + esc(safeUrl(it.url)) + '" target="_blank" rel="noopener"><img loading="lazy" src="' + esc(safeUrl(u)) + '" alt=""></a>';
     }).join('');
@@ -117,18 +149,18 @@
       '<div class="time"><b>' + (isNaN(ms) ? '—' : hm(ms, KST)) + '</b><span>KST · ' + (isNaN(ms) ? '' : hm(ms, VN) + ' VN') + '</span></div>' +
       '<div class="body">' +
       '<div class="tags">' + catChip(it.category) + mems + '<span class="tier ' + esc(it.tier) + '">' + esc(TIER[it.tier] || it.tier) + '</span></div>' +
-      '<h3>' + esc(title(it)) + '</h3>' +
+      '<h3>' + esc(g.title) + '</h3>' +
       (it.title_en && it.title_en !== it.title ? '<p style="font-size:12px;color:var(--muted)">' + esc(it.title) + '</p>' : '') +
       (sum ? '<p>' + esc(sum) + '</p>' : '') +
       (imgs ? '<div class="thumbs">' + imgs + '</div>' : '') +
       '<div class="actions"><a href="' + esc(safeUrl(it.url)) + '" target="_blank" rel="noopener">Open original ↗</a>' +
       '<button type="button" class="save" data-save="' + esc(it.id) + '" aria-pressed="' + saved + '">' + icon('saved', 15) + (saved ? 'Saved' : 'Save') + '</button></div>' +
-      '</div></article>';
+      more + '</div></article>';
   }
-  function feed(list, withFilters, heading) {
-    var counts = {};
-    list.forEach(function (it) { counts[it.category] = (counts[it.category] || 0) + 1; });
-    var shown = S.cat === 'all' ? list : list.filter(function (it) { return it.category === S.cat; });
+  function feed(items, withFilters, heading) {
+    var list = stories(items), counts = {};
+    list.forEach(function (g) { counts[g.category] = (counts[g.category] || 0) + 1; });
+    var shown = S.cat === 'all' ? list : list.filter(function (g) { return g.category === S.cat; });
     var html = '<section class="sec" aria-labelledby="feedT"><div class="sec-head"><h2 id="feedT">' + heading + '</h2>';
     if (withFilters) {
       html += '<div class="chips" role="group" aria-label="Filter by category">' +
@@ -140,13 +172,13 @@
     html += '</div>';
     if (!shown.length) return html + '<div class="empty">No updates in this category yet.</div></section>';
     var groups = [], idx = {};
-    shown.slice(0, S.limit).forEach(function (it) {
-      var k = dayKey(t(it.published), VN);
+    shown.slice(0, S.limit).forEach(function (st) {
+      var k = dayKey(t(st.published), VN);
       if (!idx[k]) { idx[k] = { key: k, items: [] }; groups.push(idx[k]); }
-      idx[k].items.push(it);
+      idx[k].items.push(st);
     });
     groups.forEach(function (g) {
-      html += '<div class="day"><span class="eyebrow">' + esc(dayLabel(g.key)) + '</span>' + g.items.map(card).join('') + '</div>';
+      html += '<div class="day"><span class="eyebrow">' + esc(dayLabel(g.key)) + '</span>' + g.items.map(function (st) { return card(st.rep, st); }).join('') + '</div>';
     });
     if (shown.length > S.limit) html += '<button type="button" class="more" data-more="1">Load more (' + (shown.length - S.limit) + ')</button>';
     return html + '</section>';
@@ -382,9 +414,9 @@
   function load() {
     return Promise.all([
       getJSON('data/items.json', { items: [] }), getJSON('data/events.json', { events: [] }),
-      getJSON('data/meta.json', {}), getJSON('data/funfacts.json', { facts: [] })
+      getJSON('data/meta.json', {}), getJSON('data/funfacts.json', { facts: [] }), getJSON('data/topics.json', { topics: {} })
     ]).then(function (r) {
-      S.items = r[0].items || []; S.events = r[1].events || []; S.meta = r[2] || {}; S.facts = r[3].facts || [];
+      S.items = r[0].items || []; S.events = r[1].events || []; S.meta = r[2] || {}; S.facts = r[3].facts || []; S.topics = (r[4] && r[4].topics) || {};
       var up = t(S.meta.updated || r[0].updated);
       document.getElementById('updatedText').textContent = isNaN(up) ? 'No data yet' : 'Updated ' + ago(up);
       document.getElementById('updated').classList.toggle('stale', isNaN(up) || Date.now() - up > 3 * 3600e3);

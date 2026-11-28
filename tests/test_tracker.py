@@ -211,3 +211,26 @@ def test_image_dedupe():
     ids = [i["id"] for i in out]
     assert ids == ["x:2", "x:3"]
     assert out[0]["images"] == ["u2"]  # anh lap trong cung mot tin cung bi bo
+
+
+def test_topics_assign(monkeypatch):
+    from tracker import topics as T
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "k")
+    calls = []
+
+    class H:
+        def post(self, url, json=None, timeout=None, headers=None):
+            calls.append(json)
+            ans = [{"id": "n:1", "story": "NEW1"}, {"id": "n:2", "story": "NEW1"}, {"id": "n:3", "story": "t_old"},
+                   {"new": "NEW1", "title": "ATEEZ confirm European arenas for 2027 tour"}]
+            import json as j
+            return Resp(js={"content": [{"type": "text", "text": j.dumps(ans)}]})
+    old = {"id": "o:1", "topic": "t_old", "title": "x", "published": "2026-11-27T01:00:00Z"}
+    new = [{"id": f"n:{k}", "title": f"t{k}", "title_en": f"T{k}", "published": "2026-11-27T05:00:00Z"} for k in (1, 2, 3)]
+    topics = {"t_old": {"title": "Old story"}}
+    items = new + [old]
+    T.assign(items, new, topics, CFG, H(), common.now_utc(), log=lambda *_: None)
+    assert new[0]["topic"] == new[1]["topic"] != "t_old" and new[2]["topic"] == "t_old"
+    assert topics[new[0]["topic"]]["title"].startswith("ATEEZ confirm")
+    fin = T.finalize(items, topics)
+    assert fin[new[0]["topic"]]["count"] == 2 and fin["t_old"]["count"] == 2

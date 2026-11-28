@@ -14,6 +14,7 @@ from .common import (DATA_DIR, ITEMS_PATH, STATE_PATH, KST, iso, load_config, no
 from .dates import extract_events
 from .enrich_ai import enrich
 from .images import annotate, dedupe_images
+from . import topics as topic_mod
 from .notify import build_lines, send
 
 
@@ -190,6 +191,20 @@ def main():
     except Exception as e:  # noqa: BLE001
         print(f"[img] loi: {e}")
     items = items[: cfg.get("keep_items", 2000)]
+    # gom tin cung su kien thanh mot chu de
+    topics_path = os.path.join(DATA_DIR, "topics.json")
+    topics = read_json(topics_path, {}).get("topics", {})
+    topics_before = set(topics)
+    recent_lo = iso(now - timedelta(days=14))
+    for it in items:
+        if not it.get("topic") and (it.get("published") or "") < recent_lo:
+            it["topic"] = topic_mod._tid(it["id"])
+            topics[it["topic"]] = {"title": it.get("title_en") or it["title"]}
+    try:
+        topic_mod.assign(items, [i for i in items if not i.get("topic")], topics, cfg, http, now)
+    except Exception as e:  # noqa: BLE001
+        print(f"[topic] loi: {e}")
+    write_json(topics_path, {"updated": iso(now), "topics": topic_mod.finalize(items, topics)})
     gone = before_ids - {i["id"] for i in items}
     state["dropped_ids"] = (state.get("dropped_ids", []) + sorted(gone))[-3000:]
     events = build_events(items, now)
@@ -205,7 +220,11 @@ def main():
     print(f"Xong: {len(new)} tin moi, {len(items)} tin tong, {len(events)} moc thoi gian, {len(reminders)} nhac han")
     if not args.no_notify:
         try:
-            fresh = [i for i in new if i["source"] in had_source]
+            fresh, seen_t = [], set()
+            for i in new:  # moi chu de moi chi bao 1 lan
+                if i["source"] in had_source and i.get("topic") not in topics_before and i.get("topic") not in seen_t:
+                    seen_t.add(i.get("topic"))
+                    fresh.append(i)
             send(build_lines(fresh, reminders), http)
         except Exception as e:  # noqa: BLE001
             print(f"[discord] loi: {e}")
