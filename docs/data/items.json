@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:17:20Z",
+ "updated": "2026-11-28T14:09:34Z",
  "items": [
   {
    "id": "news:ateezsgoldenhourtopsusalbumchart",
@@ -268,6 +268,30 @@
    "fetched": "2026-11-28T02:17:00Z",
    "img_hash": [],
    "topic": "ta36456d286"
+  },
+  {
+   "id": "news:jangwooyoungcompletesconcertsuccessfullycreditingfansupportonyoutubeforthestages",
+   "source": "news",
+   "platform": "News",
+   "account": "www.famtimes.co.kr",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEc2VINkZTN0dLNHZtSXc4OGZWUFZqRkp2MElJcldlZHJpc3lWMnJLUlVIdDZPYUt3MDVqYnhXV2piXzBJUDc0R2F2S0J1TDJadGhXU200TURJZU1nVC1sZ0JIUGI2cW80bWxhUVZVMTNMdw?oc=5",
+   "title": "Jang Wooyoung completes concert successfully, crediting fan support on YouTube for the stage's success",
+   "text": "Jang Wooyoung completes concert successfully, crediting fan support on YouTube for the stage's success www.famtimes.co.kr",
+   "images": [],
+   "published": "2026-11-28T00:54:55Z",
+   "category": "tour",
+   "members": [
+    "Wooyoung"
+   ],
+   "events": [],
+   "title_en": "Wooyoung wraps up concert, credits fan support on YouTube",
+   "summary_en": "Wooyoung has successfully completed his concert and credited fans' support on YouTube for the stage's success.",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-28T14:09:34Z",
+   "img_hash": [],
+   "topic": "t7a7177285c"
   },
   {
    "id": "news:에이티즈2027유럽투어개최지확정7개도시대형아레나입성공식",
