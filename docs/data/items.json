@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:17:00Z",
+ "updated": "2026-11-28T07:17:01Z",
  "items": [
   {
    "id": "news:에이티즈유럽투어출발런던등7개도시아레나공연연예",
@@ -20,6 +20,27 @@
    "ai": "en",
    "category_label": "Concert/Tour",
    "fetched": "2026-11-28T06:17:00Z",
+   "img_hash": []
+  },
+  {
+   "id": "news:에이티즈유럽투어런던시작해6개국돈다연예",
+   "source": "news",
+   "platform": "News",
+   "account": "재경일보",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSUp6cFhJWUZwMWcxc3FidXBCTVJPRzlPSXhGWHBqNVQzVWZTSVktc2psenNuRC1YYUE0MmxKQ2JsNGVLMmk0RmFyQQ?oc=5",
+   "title": "에이티즈 유럽 투어, 런던 시작해 6개국 돈다 : 연예",
+   "text": "에이티즈 유럽 투어, 런던 시작해 6개국 돈다 : 연예 재경일보",
+   "images": [],
+   "published": "2026-11-28T05:58:11Z",
+   "category": "tour",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ's Europe Tour Kicks Off in London, Heads to 6 Countries",
+   "summary_en": "According to Jaekyung Ilbo, ATEEZ's European tour will start in London and cover six countries. The report does not give specific show dates.",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-28T07:17:01Z",
    "img_hash": []
   },
   {
