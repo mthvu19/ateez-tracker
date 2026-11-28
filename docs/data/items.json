@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-28T12:17:01Z",
+ "updated": "2026-11-28T13:17:00Z",
  "items": [
+  {
+   "id": "news:ateezsgoldenhourtopsusalbumchart",
+   "source": "news",
+   "platform": "News",
+   "account": "Yahoo",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEtiUUNPWGRqX0VxX09UbUpiVm8wTXU2djV6R2RyUm9tNlJVTEdVdGd2NER5bTE5YXR6LTVvQzVqam15aVFISzUwVFhMd0lMaVhpNWJtQjhralJPUXFFYTA4NUlVTkk0TkZBWFVOVm9hX1FpaDlqVWprUWk0YmIwN01vZTBfQ013TThuSlZoVDJXa0E5U0FlaTJFa0tRejJSWWMwdA?oc=5",
+   "title": "ATEEZ's 'Golden Hour' tops U.S. album chart",
+   "text": "ATEEZ's 'Golden Hour' tops U.S. album chart Yahoo",
+   "images": [],
+   "published": "2026-11-28T12:40:49Z",
+   "category": "charts",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ's 'Golden Hour' tops U.S. album chart",
+   "summary_en": "ATEEZ's album 'Golden Hour' has reached No. 1 on the U.S. album chart, according to a Yahoo News report published on November 28, 2026.",
+   "ai": "en",
+   "category_label": "Charts & Records",
+   "fetched": "2026-11-28T13:17:00Z",
+   "img_hash": [],
+   "topic": "tef3165a3cf"
+  },
   {
    "id": "news:ateezbringszerotoalltourtosixeuropeancountries",
    "source": "news",
