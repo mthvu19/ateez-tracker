@@ -33,12 +33,14 @@ def _tid(seed):
 
 
 def _call(http, key, model, prompt):
-    r = http.post(API, timeout=120, json={"model": model, "max_tokens": 4000,
+    r = http.post(API, timeout=120, json={"model": model, "max_tokens": 6000,
                                           "messages": [{"role": "user", "content": prompt}]},
                   headers={"x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
     if r.status_code >= 400:
         raise RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
     text = "".join(b.get("text", "") for b in r.json().get("content", []))
+    if "[" not in text:
+        raise RuntimeError(f"khong co JSON: {text[:120]!r}")
     return json.loads(text[text.find("["): text.rfind("]") + 1])
 
 
@@ -66,8 +68,9 @@ def assign(items, todo, topics, cfg, http, now, log=print):
         return 0
     done = 0
     todo.sort(key=lambda i: i.get("published") or "")
-    for k in range(0, len(todo), 25):
-        batch = todo[k:k + 25]
+    queue = [todo[k:k + 25] for k in range(0, len(todo), 25)]
+    while queue:
+        batch = queue.pop(0)
         known = recent_topics(items, topics, parse_iso(batch[-1].get("published")) or now)
         prompt = PROMPT.format(
             topics=json.dumps([{"id": t, "title": title} for t, title in known.items()], ensure_ascii=False),
@@ -77,7 +80,12 @@ def assign(items, todo, topics, cfg, http, now, log=print):
         try:
             res = _call(http, key, cfg.get("ai_model", "claude-haiku-5-5"), prompt)
         except Exception as e:  # noqa: BLE001
-            log(f"[topic] loi: {e}")
+            if len(batch) > 3:
+                log(f"[topic] loi ({e}) -> chia nho {len(batch)} tin")
+                h = len(batch) // 2
+                queue = [batch[:h], batch[h:]] + queue
+            else:
+                log(f"[topic] loi: {e}")
             continue
         labels = {o["new"]: o.get("title", "") for o in res if isinstance(o, dict) and o.get("new")}
         new_ids = {}
