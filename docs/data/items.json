@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-28T10:17:01Z",
+ "updated": "2026-11-28T10:32:02Z",
  "items": [
+  {
+   "id": "news:ateezbringszerotoalltourtosixeuropeancountries",
+   "source": "news",
+   "platform": "News",
+   "account": "allkpop",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXJxX01kWldwdTFsa0d1Rms3RVR4OVdlWDAtR1VJdXVqZG1tM2FMRnF5Q1NXRWd5RnA3RDM2TW9vZTdYbHlrWkFpYThuQjBVcG5HdmRmWm9Yb0JfZzVzd3pjbmJoVzd2WmdDdWxQcnRjLUNzM3h3aktMSjhoRjB5V2tuVmVDN1lranRHOF9YeVB6WGowWTJrNmllTQ?oc=5",
+   "title": "ATEEZ brings “ZERO TO ALL” tour to six European countries",
+   "text": "ATEEZ brings “ZERO TO ALL” tour to six European countries allkpop",
+   "images": [],
+   "published": "2026-11-28T09:44:27Z",
+   "category": "tour",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ's ZERO TO ALL tour heads to six European countries",
+   "summary_en": "ATEEZ is bringing its “ZERO TO ALL” tour to six European countries. No specific dates are mentioned in the report.",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-28T10:32:02Z",
+   "img_hash": []
+  },
   {
    "id": "news:에이티즈내년유럽투어나선다6개국7개도시출격",
    "source": "news",
