@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-28T00:17:00Z",
+ "updated": "2026-11-28T01:17:00Z",
  "items": [
+  {
+   "id": "news:에이티즈2027유럽투어개최지확정7개도시대형아레나입성공식",
+   "source": "news",
+   "platform": "News",
+   "account": "일간스포츠",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94YUVHRHRaOUQybGVXaXg5RzlFN3JWaWhraVVpQ0JTSmpFbUpNQTdQaDlFTF9IZ0ZTQVFqSmJ4QWpEUy1HVVVpSVdFaU1ObUVidFBMbUhCdExZX1U?oc=5",
+   "title": "에이티즈, 2027 유럽 투어 개최지 확정…7개 도시 대형 아레나 입성 [공식]",
+   "text": "에이티즈, 2027 유럽 투어 개최지 확정…7개 도시 대형 아레나 입성 [공식] 일간스포츠",
+   "images": [],
+   "published": "2026-11-28T00:53:00Z",
+   "category": "tour",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ Confirms 2027 Europe Tour Venues: 7 Cities, Large Arenas",
+   "summary_en": "ATEEZ has officially confirmed the venues for its 2027 Europe tour, with stops in seven cities at large arenas. No specific show dates are given in the report.",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-28T01:17:00Z",
+   "img_hash": []
+  },
   {
    "id": "news:빌보드정상에네번째닻에이티즈의거침없는항해",
    "source": "news",
