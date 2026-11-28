@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:32:44Z",
+ "updated": "2026-11-28T10:35:12Z",
  "items": [
   {
    "id": "news:ateezbringszerotoalltourtosixeuropeancountries",
@@ -878,7 +878,8 @@
    "ai": "en",
    "category_label": "Concert/Tour",
    "fetched": "2026-11-27T11:42:42Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "ta36456d286"
   },
   {
    "id": "x:2126239608526586294",
@@ -903,7 +904,8 @@
    "fetched": "2026-11-27T11:42:42Z",
    "img_hash": [
     "14690a0f6abbb4c6"
-   ]
+   ],
+   "topic": "ta36456d286"
   },
   {
    "id": "news:wonicủarescenevượtmặtsanateezvàjiminbts",
@@ -926,7 +928,8 @@
    "ai": "en",
    "category_label": "Press",
    "fetched": "2026-11-27T11:42:42Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t6515f1664b"
   },
   {
    "id": "news:스경연예연구소에이티즈두마리토끼다잡은영리한골든아워파트6",
@@ -947,7 +950,8 @@
    "ai": "en",
    "category_label": "Press",
    "fetched": "2026-11-27T11:42:42Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t748bc15d47"
   },
   {
    "id": "news:resceneswonitopsnovemberidolbrandreputationrankingsaheadofateezsanandbtsjimin",
@@ -970,7 +974,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-27T04:02:13Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t6515f1664b"
   },
   {
    "id": "news:강일홍의오늘연예에이티즈글로벌질주빌보드4관왕핫100석권",
@@ -991,7 +996,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-27T04:02:13Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t7fafb8c8a2"
   },
   {
    "id": "news:리센느원이1위11월아이돌개인브랜드평판정상2위에이티즈산",
@@ -1014,7 +1020,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-27T04:02:13Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t6515f1664b"
   },
   {
    "id": "news:kpop에이티즈빌보드200네번째정상놀라운중소돌의반전",
@@ -1035,7 +1042,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T23:25:20Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "tef3165a3cf"
   },
   {
    "id": "news:빅데이터로본다아이돌개인2026년11월브랜드평판1위리센느원이2위에이티즈산3위방탄소년단지민",
@@ -1058,7 +1066,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T23:25:20Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t6515f1664b"
   },
   {
    "id": "news:1stplacerescenewoni2ndplaceateezsan3rdplacebtsjimin",
@@ -1081,7 +1090,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T23:25:20Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t6515f1664b"
   },
   {
    "id": "news:1위리센느원이2위에이티즈산3위방탄소년단지민",
@@ -1104,7 +1114,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T23:25:20Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t6515f1664b"
   },
   {
    "id": "news:에이티즈산아이돌개인브랜드평판2위원이지민톱3",
@@ -1127,7 +1138,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T23:25:20Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t6515f1664b"
   },
   {
    "id": "news:marvelrivalsaddsateezdoomsdaytogalacticbeatscabinet",
@@ -1148,7 +1160,8 @@
    "ai": "en",
    "category_label": "Official Announcement",
    "fetched": "2026-11-26T23:25:20Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t16bc6da03c"
   },
   {
    "id": "news:tf초점에이티즈네번째빌보드1위보다더빛나는꾸준함",
@@ -1169,7 +1182,8 @@
    "fetched": "2026-11-26T15:07:46Z",
    "title_en": "ATEEZ's Steady Run Shines Brighter Than a Fourth Billboard No. 1",
    "summary_en": "TF Focus takes a look at ATEEZ and argues that their consistency stands out even more than their fourth Billboard No. 1.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t125e3c493d"
   },
   {
    "id": "news:에이티즈11월라이징가수브랜드평판1위",
@@ -1190,7 +1204,8 @@
    "fetched": "2026-11-26T15:06:34Z",
    "title_en": "ATEEZ Tops November Rising Singer Brand Reputation Ranking",
    "summary_en": "ATEEZ placed first in the November rising singer brand reputation rankings.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t373110efa5"
   },
   {
    "id": "x:2125945907028144342",
@@ -1211,7 +1226,8 @@
    "ai": "en",
    "category_label": "SNS",
    "fetched": "2026-11-26T15:59:09Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t03743692ff"
   },
   {
    "id": "x:2125945172257042723",
@@ -1232,7 +1248,8 @@
    "ai": "en",
    "category_label": "Press",
    "fetched": "2026-11-26T15:59:09Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "ta43ed598b2"
   },
   {
    "id": "x:2125945166577963427",
@@ -1259,7 +1276,8 @@
    "img_hash": [
     "96965f36b6f696ac",
     "a9eaa93131c8c8c9"
-   ]
+   ],
+   "topic": "t03743692ff"
   },
   {
    "id": "x:2125930202572415251",
@@ -1282,7 +1300,8 @@
    "ai": "en",
    "category_label": "SNS",
    "fetched": "2026-11-26T15:59:09Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t5a747ce5fe"
   },
   {
    "id": "x:2125924248304984080",
@@ -1305,7 +1324,8 @@
    "ai": "en",
    "category_label": "SNS",
    "fetched": "2026-11-26T15:59:09Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t2f90728a03"
   },
   {
    "id": "x:2125923715464732775",
@@ -1334,7 +1354,8 @@
    "img_hash": [
     "97e3c8cdd6933323",
     "30444c13131f979e"
-   ]
+   ],
+   "topic": "t2f90728a03"
   },
   {
    "id": "x:2125919663926260110",
@@ -1364,7 +1385,8 @@
    "img_hash": [
     "9e66e4e4e2fa7c2c",
     "2f3f656462fabcac"
-   ]
+   ],
+   "topic": "t8e5b2ed1f8"
   },
   {
    "id": "x:2125915491445113036",
@@ -1385,7 +1407,8 @@
    "title_en": "BAD ranks No. 6 on Melon real-time search",
    "summary_en": "ATEEZ's BAD is trending at No. 6 on Melon's real-time search chart.",
    "ai": "en",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "td34fa9fbb1"
   },
   {
    "id": "x:2125915176268616018",
@@ -1410,7 +1433,8 @@
    "ai": "en",
    "img_hash": [
     "0b55d0f89898c064"
-   ]
+   ],
+   "topic": "td34fa9fbb1"
   },
   {
    "id": "x:2125913978031497604",
@@ -1435,7 +1459,8 @@
    "ai": "en",
    "img_hash": [
     "4074391d595d1de1"
-   ]
+   ],
+   "topic": "t482431cedd"
   },
   {
    "id": "x:2125913005183427012",
@@ -2774,7 +2799,8 @@
    "fetched": "2026-11-26T15:59:09Z",
    "img_hash": [
     "49494d5736292d6f"
-   ]
+   ],
+   "topic": "ted56e14760"
   },
   {
    "id": "kq:6b055a0400027c0e6d142829",
@@ -2808,7 +2834,8 @@
    "ai": "en",
    "title_en": "ATEEZ 2027 Season's Greetings 'TEEZVERSE' Pre-Orders Now Open",
    "summary_en": "Pre-orders for ATEEZ's 2027 SEASON'S GREETINGS 'TEEZVERSE' are open, with release set for December 29. The package includes a photobook, planner, desk calendar, photocards, ID card sets, a four-cut photo set, and a video letter from 2019.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "ted56e14760"
   },
   {
    "id": "news:에이티즈빌보드뚫었다양대메인차트동시진입",
@@ -2829,7 +2856,8 @@
    "ai": "en",
    "title_en": "ATEEZ Breaks Into Billboard's Two Main Charts at Once",
    "summary_en": "ATEEZ has entered both of Billboard's main charts at the same time.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "x:2125416876532740556",
@@ -2852,7 +2880,8 @@
    "ai": "en",
    "category_label": "SNS",
    "fetched": "2026-11-26T15:59:09Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "tca6586e585"
   },
   {
    "id": "news:에이티즈빌보드메인앨범차트1위싱글차트90위",
@@ -2873,7 +2902,8 @@
    "ai": "en",
    "title_en": "ATEEZ Hits No. 1 on Billboard Main Album Chart, No. 90 on Singles",
    "summary_en": "ATEEZ reached No. 1 on the Billboard main album chart and placed at No. 90 on the singles chart.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:멈추지않는상승세에이티즈美빌보드핫100까지품었다",
@@ -2894,7 +2924,8 @@
    "ai": "en",
    "title_en": "On a relentless rise, ATEEZ breaks into Billboard's Hot 100",
    "summary_en": "ATEEZ has entered the US Billboard Hot 100, extending a steady run of chart success, according to Electronic Times.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:에이티즈일냈다美빌보드200핫100동시정복",
@@ -2915,7 +2946,8 @@
    "ai": "en",
    "title_en": "ATEEZ conquers both Billboard 200 and Hot 100",
    "summary_en": "ATEEZ has taken over the Billboard 200 and also charted on the Billboard Hot 100 at the same time, according to Chosun Ilbo.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:에이티즈美빌보드2001위핫10090위메인차트동시석권",
@@ -2936,7 +2968,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-26T16:10:59Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:에이티즈빌보드양대메인차트동시석권핫10090위진입",
@@ -2957,7 +2990,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-27T23:17:00Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:ateezmakesabigsplashconquersusbillboard200andhot100atonce",
@@ -2978,7 +3012,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-27T15:17:01Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:에이티즈美빌보드2001위핫100도뚫었다초심잃지않을것",
@@ -2999,7 +3034,8 @@
    "ai": "en",
    "title_en": "ATEEZ back at No. 1 on Billboard 200 and into Hot 100, vows to stay humble",
    "summary_en": "ATEEZ returned to the top of the Billboard 200 and also broke into the Hot 100, with the group saying they will not lose the original spirit that brought them this far.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t7fafb8c8a2"
   },
   {
    "id": "news:에이티즈美빌보드200네번째1위핫100세번째진입거침없는글로벌행보",
@@ -3020,7 +3056,8 @@
    "ai": "en",
    "category_label": "Charts & Records",
    "fetched": "2026-11-27T12:17:01Z",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:막강에이티즈美빌보드2001위이어hot100도인기몰이거침없는글로벌행보",
@@ -3041,7 +3078,8 @@
    "ai": "en",
    "title_en": "ATEEZ tops Billboard 200 and gains traction on HOT 100 in unstoppable global run",
    "summary_en": "Following their No. 1 on the U.S. Billboard 200, ATEEZ is also gaining momentum on the HOT 100, extending their global run.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:powerfulateezaftertoppingtheusbillboard200theirtitletrackalsogainstractionontheh",
@@ -3062,7 +3100,8 @@
    "ai": "en",
    "title_en": "Powerful ATEEZ tops Billboard 200 and their title track gains traction on Hot 100",
    "summary_en": "After topping the U.S. Billboard 200, ATEEZ's title track is also gaining traction on the Hot 100, showing their unstoppable global momentum.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:nhómateezmạnhmẽtiếptụcchiếmvịtrísố1trênbillboard200củamỹcũnggâysốttrênhot100hành",
@@ -3083,7 +3122,8 @@
    "ai": "en",
    "title_en": "ATEEZ stays strong at No. 1 on U.S. Billboard 200 and stirs buzz on Hot 100",
    "summary_en": "ATEEZ held the No. 1 spot on the U.S. Billboard 200 again and is also creating buzz on the Hot 100 as their global journey continues.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t8a4a568408"
   },
   {
    "id": "news:u2ateezellalangleymorecharthighlights",
@@ -3104,7 +3144,8 @@
    "ai": "en",
    "title_en": "Billboard chart highlights feature U2, ATEEZ and Ella Langley",
    "summary_en": "Billboard's chart highlights roundup features U2, ATEEZ, Ella Langley and others this week.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t3a39e093b7"
   },
   {
    "id": "x:2125238527919112226",
@@ -3129,7 +3170,8 @@
    "ai": "en",
    "img_hash": [
     "24242421912045e1"
-   ]
+   ],
+   "topic": "t99ec72603c"
   },
   {
    "id": "yt:mVd8pT1IZBo",
@@ -3151,7 +3193,8 @@
    "fetched": "2026-11-26T14:30:41Z",
    "ai": "en",
    "title_en": "ATEEZ shares Shorts clip with JUST B's Lim Ji-min, Bae In and Siwoo",
-   "summary_en": "ATEEZ posted a YouTube Short of a playful moment with Lim Ji-min, Bae In and Siwoo of JUST B, tagged with GOLDEN HOUR : Part.6 and the track Drip."
+   "summary_en": "ATEEZ posted a YouTube Short of a playful moment with Lim Ji-min, Bae In and Siwoo of JUST B, tagged with GOLDEN HOUR : Part.6 and the track Drip.",
+   "topic": "t195c0b146b"
   },
   {
    "id": "yt:Rx0DXz7VRZo",
@@ -3180,7 +3223,8 @@
    "fetched": "2026-11-26T14:30:41Z",
    "ai": "en",
    "title_en": "ATEEZ 2025 World Tour IN JAPAN Blu-ray and DVD set for December 2",
-   "summary_en": "The Blu-ray and DVD of ATEEZ 2025 WORLD TOUR [IN YOUR FANTASY] IN JAPAN will be released on December 2, 2026, featuring the full concert and a making film."
+   "summary_en": "The Blu-ray and DVD of ATEEZ 2025 WORLD TOUR [IN YOUR FANTASY] IN JAPAN will be released on December 2, 2026, featuring the full concert and a making film.",
+   "topic": "teedd3f9cda"
   },
   {
    "id": "news:에이티즈美빌보드200또1위통산4번째대기록",
@@ -3201,7 +3245,8 @@
    "ai": "en",
    "title_en": "ATEEZ Tops Billboard 200 Again for 4th Overall No. 1",
    "summary_en": "ATEEZ has reached No. 1 on the Billboard 200 once more, marking their fourth No. 1 overall. Korean outlets reported the milestone as a new record for the group.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "tef3165a3cf"
   },
   {
    "id": "news:ateezlậpkỳtíchlầnthứ4đứngđầubillboard200vươnlênvịtríthứ3tronglịchsửkpop",
@@ -3222,7 +3267,8 @@
    "ai": "en",
    "title_en": "ATEEZ Hits No. 1 on Billboard 200 for 4th Time, Ranks 3rd in K-pop History",
    "summary_en": "ATEEZ has topped the Billboard 200 for the fourth time, moving up to third place in K-pop chart history. The achievement was highlighted by Vietnamese media.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "tef3165a3cf"
   },
   {
    "id": "news:ateezputthewordsonscreeninupihatemodelsverlyricvideo",
@@ -3243,7 +3289,8 @@
    "ai": "en",
    "title_en": "ATEEZ Releases Lyric Video for 'UP (I Hate Models Ver.)'",
    "summary_en": "ATEEZ has put the lyrics on screen in a lyric video for the 'UP (I Hate Models Ver.)' version of their song.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "tbddd3d91f3"
   },
   {
    "id": "news:ateezsgoldenhourpart6debutsatno1onbillboard200for4thtime",
@@ -3264,7 +3311,8 @@
    "ai": "en",
    "title_en": "GOLDEN HOUR: Part 6 Debuts at No. 1 on Billboard 200 for 4th Time",
    "summary_en": "ATEEZ's 'Golden Hour: Part 6' debuted at No. 1 on the Billboard 200, the group's fourth time reaching the top spot.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "tef3165a3cf"
   },
   {
    "id": "news:ateezreturnswithgoldenhourpart6andtour",
@@ -3285,7 +3333,8 @@
    "ai": "en",
    "title_en": "ATEEZ Returns with GOLDEN HOUR: Part.6 and Announces Tour",
    "summary_en": "ATEEZ is back with GOLDEN HOUR: Part.6 and has also announced a tour. No tour dates were included in the report.",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "te583b9cb21"
   },
   {
    "id": "news:ateezwriteanewhistoryalltheirownwithgoldenhourpart6dreamofsuperbowlhalftimeshoww",
@@ -3306,7 +3355,8 @@
    "ai": "en",
    "title_en": "ATEEZ Talks GOLDEN HOUR: Part.6 and Dream of Super Bowl Halftime Show",
    "summary_en": "In an interview with Billboard, ATEEZ discussed writing a new history with GOLDEN HOUR: Part.6 and their dream of performing at the Super Bowl halftime show. They said, 'We're still hungry.'",
-   "img_hash": []
+   "img_hash": [],
+   "topic": "t994a108bdb"
   },
   {
    "id": "news:에이티즈빌보드2004번째1위",
