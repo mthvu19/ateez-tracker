@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:35:12Z",
+ "updated": "2026-11-28T11:17:01Z",
  "items": [
   {
    "id": "news:ateezbringszerotoalltourtosixeuropeancountries",
@@ -42,6 +42,28 @@
    "ai": "en",
    "category_label": "Concert/Tour",
    "fetched": "2026-11-28T09:17:00Z",
+   "img_hash": [],
+   "topic": "ta36456d286"
+  },
+  {
+   "id": "x:2126599155267391860",
+   "source": "x",
+   "platform": "X",
+   "account": "@ATEEZofficial",
+   "tier": "official",
+   "url": "https://x.com/ATEEZofficial/status/2126599155267391860",
+   "title": "[📰] 에이티즈, 유럽 대형 아레나 7곳 접수…월드클래스의 위엄",
+   "text": "[📰] 에이티즈, 유럽 대형 아레나 7곳 접수…월드클래스의 위엄\n\nhttps://naver.me/xwoA7Hzk\n\n#ATEEZ #에이티즈\n#Zero_To_All",
+   "images": [],
+   "published": "2026-11-28T08:48:43Z",
+   "category": "tour",
+   "members": [],
+   "events": [],
+   "title_en": "ATEEZ Secures 7 Major Arenas Across Europe",
+   "summary_en": "ATEEZ's official X account shared a news report that the group has booked seven large arenas in Europe, calling it a sign of their world-class stature. The post links to the full article without listing specific show dates.",
+   "ai": "en",
+   "category_label": "Concert/Tour",
+   "fetched": "2026-11-28T11:17:01Z",
    "img_hash": [],
    "topic": "ta36456d286"
   },
