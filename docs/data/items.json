@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:38:16Z",
+ "updated": "2026-11-28T12:17:01Z",
  "items": [
   {
    "id": "news:ateezbringszerotoalltourtosixeuropeancountries",
@@ -154,6 +154,30 @@
    "fetched": "2026-11-28T05:17:00Z",
    "img_hash": [],
    "topic": "tda8017da0b"
+  },
+  {
+   "id": "news:ateezsjungwooyoungcelebratesbirthdaywithroyalthemeandfanadvice",
+   "source": "news",
+   "platform": "News",
+   "account": "www.famtimes.co.kr",
+   "tier": "news",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKblJ0RFp4NW9vbTczZWhMSGc5RnFsb2JDTHJGcVYyVGx6TEQ1bF83OXQta0lmR2Y4M3g1QVpzVVlReFljdVJpTVIzQ3paY1FfeGtERDN2bmpDazBLcVYyTktHUldBc0N2MXA4SjdJdGNZUQ?oc=5",
+   "title": "ATEEZ's Jung Woo-young celebrates birthday with royal theme and fan advice",
+   "text": "ATEEZ's Jung Woo-young celebrates birthday with royal theme and fan advice www.famtimes.co.kr",
+   "images": [],
+   "published": "2026-11-28T01:57:35Z",
+   "category": "press",
+   "members": [
+    "Wooyoung"
+   ],
+   "events": [],
+   "title_en": "Wooyoung celebrates birthday with royal theme and fan advice",
+   "summary_en": "ATEEZ's Jung Woo-young marked his birthday with a royal-themed celebration and shared some advice for fans, according to a Fam Times report.",
+   "ai": "en",
+   "category_label": "Press",
+   "fetched": "2026-11-28T12:17:01Z",
+   "img_hash": [],
+   "topic": "t36b2b59e54"
   },
   {
    "id": "news:에이티즈우영생일맞이왕자님변신팬고민상담하며전한조언",
